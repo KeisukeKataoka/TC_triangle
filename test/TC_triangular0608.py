@@ -395,7 +395,7 @@ case=3
 data_set = {}
 # --- 1. 計算タスクの全リスト作成 ---
 #L_list=[10,12,14,16]
-L_list=[3]
+L_list=[6]
 tasks = []
 for tmp_i, Lx in enumerate(L_list):
     Ly = Lx
@@ -480,10 +480,24 @@ for (tmp_i, ip, ids) in my_tasks:
     dep_x_list=[]
     dep_z_list=[]
 
+    #Ax,Ay=Lx//2,Ly//2
+    Ax,Ay = 2,2
+    Bx,By=Ax+2,Ay+1
+    Cx,Cy=Ax+1,Ay+2     
 
+    A = subset6(L,Ax,Ay,Lx,Ly,p_indd)
+    B = subset6(L,Bx,By,Lx,Ly,p_indd)
+    C = subset6(L,Cx,Cy,Lx,Ly,p_indd)
+
+    print("A =", sorted(map(int, A)))
+    print("B =", sorted(map(int, B)))
+    print("C =", sorted(map(int, C)))
 
     MR = MR0.copy()
     nsdd = L
+
+
+
 
     u = np.random.random(L)
     order = np.argsort(u)
@@ -517,17 +531,7 @@ for (tmp_i, ip, ids) in my_tasks:
         #     z = [int(v) for v in np.where(row[L_dummy:])[0]]
         #     print(f"{i:2d}: X={x} Z={z}")
 
-        Ax,Ay=Lx//2,Ly//2
-        Bx,By=Ax-2,Ay-1
-        Cx,Cy=Ax-1,Ay-2     
 
-        A = subset6(L,Ax,Ay,Lx,Ly,p_indd)
-        B = subset6(L,Bx,By,Lx,Ly,p_indd) - A
-        C = subset6(L,Cx,Cy,Lx,Ly,p_indd) - A -B
-
-        print("A=",int(A))
-        print("B=",B)
-        print("C=",C)
 
         sys.exit(0)
 
