@@ -1,0 +1,628 @@
+rank= 2 Lx=Ly=12 pg= 0.500 ids=   2 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids=   9 TEE=1
+rank= 0 Lx=Ly=12 pg= 0.500 ids=   0 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids=   3 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids=  12 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids=   7 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids=  11 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids=  10 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids=  15 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids=   8 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids=   5 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids=  17 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids=   1 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids=  14 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids=  22 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids=  20 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids=  32 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids=  29 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids=  23 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids=  18 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids=  30 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids=  31 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids=  35 TEE=1
+rank= 4 Lx=Ly=12 pg= 0.500 ids=   4 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids=  27 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids=  13 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids=  16 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids=   6 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids=  37 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids=  25 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids=  19 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids=  28 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids=  42 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids=  40 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids=  52 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids=  50 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids=  51 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids=  43 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids=  49 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids=  47 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids=  55 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids=  57 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids=  21 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids=  45 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids=  48 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids=  24 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids=  62 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids=  60 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids=  72 TEE=-1
+rank=18 Lx=Ly=12 pg= 0.500 ids=  38 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids=  70 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids=  63 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids=  71 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids=  34 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids=  39 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids=  33 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids=  67 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids=  69 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids=  75 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids=  77 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids=  26 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids=  65 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids=  36 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids=  68 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids=  82 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids=  92 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids=  83 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids=  90 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids=  91 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids=  80 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids=  89 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids=  87 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids=  97 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids=  95 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids=  41 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids=  54 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids=  58 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids=  85 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids=  88 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids=  59 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids=  44 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids=  53 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 112 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 102 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 103 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 110 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 100 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 111 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 109 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 107 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 117 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 115 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids=  56 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids=  46 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 105 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 108 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 132 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 122 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 123 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 130 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 129 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 131 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids=  61 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 120 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 127 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 137 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids=  73 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 135 TEE=1
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 125 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids=  64 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids=  74 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids=  78 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 142 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 128 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids=  79 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 143 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 150 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 152 TEE=-1
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 149 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 151 TEE=1
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 147 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 140 TEE=-1
+rank=17 Lx=Ly=12 pg= 0.500 ids= 157 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids=  66 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 145 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 155 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids=  76 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 148 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 162 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 163 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids=  93 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 170 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 172 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 169 TEE=1
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 160 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 171 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids=  81 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 177 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids=  84 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 167 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids=  98 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids=  94 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 165 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 182 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 168 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 183 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids=  99 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 192 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 189 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 190 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 175 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 180 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 191 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 197 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids=  86 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 187 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 185 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 202 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids=  96 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 203 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 209 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 212 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 113 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 188 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 200 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 195 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 101 TEE=1
+rank=11 Lx=Ly=12 pg= 0.500 ids= 211 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 114 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 210 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 217 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 104 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 119 TEE=-1
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 207 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 118 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 205 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 222 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 232 TEE=1
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 229 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 223 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 220 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 215 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 106 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 230 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 237 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 231 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 208 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 116 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 227 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 242 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 225 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 133 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 249 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 121 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 134 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 138 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 243 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 139 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 240 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 235 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 250 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 252 TEE=-1
+rank=17 Lx=Ly=12 pg= 0.500 ids= 257 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 124 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 228 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 251 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 262 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 247 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 245 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 269 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 263 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 260 TEE=1
+rank=12 Lx=Ly=12 pg= 0.500 ids= 272 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 277 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 270 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 255 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 126 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 248 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 159 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 282 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 271 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 136 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 267 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 265 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 153 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 289 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 144 TEE=1
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 283 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 154 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 280 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 292 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 141 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 290 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 158 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 275 TEE=1
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 268 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 297 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 291 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 302 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 287 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 285 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 309 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 303 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 300 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 312 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 310 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 295 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 288 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 179 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 317 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 311 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 173 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 146 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 322 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 156 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 305 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 329 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 307 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 164 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 323 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 320 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 161 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 332 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 330 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 174 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 337 TEE=1
+rank=18 Lx=Ly=12 pg= 0.500 ids= 178 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 315 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 308 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 342 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 331 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 349 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 325 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 327 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 199 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 343 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 340 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 352 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 350 TEE=1
+rank=17 Lx=Ly=12 pg= 0.500 ids= 357 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 328 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 335 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 362 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 166 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 351 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 176 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 369 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 193 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 184 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 181 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 347 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 345 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 198 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 360 TEE=-1
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 363 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 372 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 370 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 377 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 355 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 194 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 382 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 348 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 371 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 219 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 389 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 365 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 383 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 380 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 392 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 367 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 390 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 186 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 397 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 375 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 402 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 368 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 204 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 409 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 391 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 213 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 201 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 196 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 385 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 403 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 400 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 218 TEE=1
+rank=19 Lx=Ly=12 pg= 0.500 ids= 239 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 412 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 387 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 410 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 417 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 422 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 214 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 388 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 429 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 395 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 411 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 405 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 423 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 420 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 432 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 238 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 206 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 430 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 437 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 407 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 221 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 442 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 408 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 449 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 415 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 224 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 233 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 425 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 431 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 216 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 440 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 234 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 443 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 452 TEE=-1
+rank=19 Lx=Ly=12 pg= 0.500 ids= 259 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 450 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 462 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 427 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 469 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 457 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 241 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 435 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 428 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 445 TEE=1
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 226 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 463 TEE=1
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 460 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 472 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 451 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 482 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 447 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 258 TEE=1
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 489 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 470 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 477 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 254 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 236 TEE=-1
+rank=15 Lx=Ly=12 pg= 0.500 ids= 455 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 244 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 448 TEE=1
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 465 TEE=1
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 483 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 279 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 253 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 480 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 492 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 502 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 471 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 509 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 497 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 467 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 490 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 261 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 475 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 468 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 278 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 246 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 503 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 500 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 512 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 485 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 522 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 491 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 529 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 517 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 510 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 487 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 256 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 274 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 264 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 495 TEE=1
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 488 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 523 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 520 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 532 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 273 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 542 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 299 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 505 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 281 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 549 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 537 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 511 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 507 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 530 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 515 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 298 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 543 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 508 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 552 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 562 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 266 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 540 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 569 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 525 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 557 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 284 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 531 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 527 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 550 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 276 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 301 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 293 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 535 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 528 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 294 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 319 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 582 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 563 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 572 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 589 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 545 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 560 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 577 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 551 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 570 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 547 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 321 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 318 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 555 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 602 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 548 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 592 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 286 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 583 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 304 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 339 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 580 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 609 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 597 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 296 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 313 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 571 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 567 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 565 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 590 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 622 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 612 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 568 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 575 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 603 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 306 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 314 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 341 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 629 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 600 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 591 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 316 TEE=1
+rank=17 Lx=Ly=12 pg= 0.500 ids= 617 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 587 TEE=1
+rank=12 Lx=Ly=12 pg= 0.500 ids= 632 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 642 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 588 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 338 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 610 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 595 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 326 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 333 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 324 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 649 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 623 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 620 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 359 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 611 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 637 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 585 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 652 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 662 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 336 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 608 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 607 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 334 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 630 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 615 TEE=1
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 346 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 361 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 669 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 643 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 640 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 631 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 657 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 344 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 358 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 628 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 379 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 672 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 682 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 627 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 650 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 366 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 635 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 689 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 356 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 663 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 660 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 353 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 651 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 605 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 677 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 381 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 648 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 702 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 692 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 354 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 655 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 670 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 683 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 364 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 709 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 680 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 647 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 386 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 378 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 671 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 697 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 376 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 399 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 722 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 668 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 712 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 675 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 690 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 703 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 700 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 729 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 373 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 406 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 667 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 401 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 625 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 691 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 717 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 742 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 688 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 732 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 384 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 723 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 710 TEE=1
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 720 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 695 TEE=1
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 749 TEE=1
+rank=18 Lx=Ly=12 pg= 0.500 ids= 398 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 374 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 426 TEE=0
+rank=16 Lx=Ly=12 pg= 0.500 ids= 396 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 687 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 737 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 711 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 762 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 419 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 752 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 708 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 743 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 393 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 769 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 730 TEE=0
+rank= 5 Lx=Ly=12 pg= 0.500 ids= 645 TEE=0
+rank= 0 Lx=Ly=12 pg= 0.500 ids= 740 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 715 TEE=0
+rank= 1 Lx=Ly=12 pg= 0.500 ids= 421 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 757 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 446 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.500 ids= 782 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 731 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 707 TEE=0
+rank= 4 Lx=Ly=12 pg= 0.500 ids= 404 TEE=0
+rank=12 Lx=Ly=12 pg= 0.500 ids= 772 TEE=0
+rank= 3 Lx=Ly=12 pg= 0.500 ids= 763 TEE=0
+rank=18 Lx=Ly=12 pg= 0.500 ids= 418 TEE=0
+rank=14 Lx=Ly=12 pg= 0.500 ids= 394 TEE=0
+rank= 9 Lx=Ly=12 pg= 0.500 ids= 789 TEE=1
+rank=16 Lx=Ly=12 pg= 0.500 ids= 416 TEE=0
+rank=13 Lx=Ly=12 pg= 0.500 ids= 413 TEE=0
+rank=10 Lx=Ly=12 pg= 0.500 ids= 750 TEE=0
+rank= 8 Lx=Ly=12 pg= 0.500 ids= 728 TEE=0
+rank=19 Lx=Ly=12 pg= 0.500 ids= 439 TEE=0
+rank=17 Lx=Ly=12 pg= 0.500 ids= 777 TEE=0
+rank=15 Lx=Ly=12 pg= 0.500 ids= 735 TEE=0
+rank= 2 Lx=Ly=12 pg= 0.517 ids=   2 TEE=0
+rank= 6 Lx=Ly=12 pg= 0.500 ids= 466 TEE=0
+rank= 7 Lx=Ly=12 pg= 0.500 ids= 727 TEE=0
+rank=11 Lx=Ly=12 pg= 0.500 ids= 751 TEE=0

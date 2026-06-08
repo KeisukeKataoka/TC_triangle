@@ -1,0 +1,407 @@
+rank= 19 Lx=Ly=20 pg= 0.700 ids=  19 TEE1= 0.020 TEE2= 0.010 TEE3= 0.007  TEE4= 0.005
+rank=  0 Lx=Ly=20 pg= 0.700 ids=   0 TEE1= 0.010 TEE2= 0.043 TEE3= 0.040  TEE4= 0.035
+rank= 12 Lx=Ly=20 pg= 0.700 ids=  12 TEE1= 0.022 TEE2= 0.015 TEE3= 0.015  TEE4= 0.005
+rank=  3 Lx=Ly=20 pg= 0.700 ids=   3 TEE1= 0.013 TEE2= 0.010 TEE3= 0.015  TEE4= 0.005
+rank=  5 Lx=Ly=20 pg= 0.700 ids=   5 TEE1= 0.015 TEE2= 0.010 TEE3= 0.018  TEE4= 0.018
+rank=  9 Lx=Ly=20 pg= 0.700 ids=   9 TEE1=-0.013 TEE2=-0.005 TEE3= 0.028  TEE4= 0.028
+rank= 10 Lx=Ly=20 pg= 0.700 ids=  10 TEE1= 0.020 TEE2= 0.025 TEE3= 0.022  TEE4= 0.013
+rank= 11 Lx=Ly=20 pg= 0.700 ids=  11 TEE1= 0.007 TEE2= 0.072 TEE3= 0.090  TEE4= 0.105
+rank= 18 Lx=Ly=20 pg= 0.700 ids=  18 TEE1= 0.045 TEE2= 0.043 TEE3= 0.043  TEE4= 0.037
+rank=  8 Lx=Ly=20 pg= 0.700 ids=   8 TEE1= 0.045 TEE2= 0.070 TEE3= 0.072  TEE4= 0.062
+rank=  1 Lx=Ly=20 pg= 0.700 ids=   1 TEE1= 0.030 TEE2= 0.018 TEE3= 0.015  TEE4= 0.005
+rank= 17 Lx=Ly=20 pg= 0.700 ids=  17 TEE1= 0.028 TEE2= 0.070 TEE3= 0.083  TEE4= 0.100
+rank=  7 Lx=Ly=20 pg= 0.700 ids=   7 TEE1= 0.018 TEE2= 0.062 TEE3= 0.075  TEE4= 0.092
+rank=  2 Lx=Ly=20 pg= 0.700 ids=   2 TEE1=-0.005 TEE2= 0.050 TEE3= 0.068  TEE4= 0.048
+rank=  6 Lx=Ly=20 pg= 0.700 ids=   6 TEE1= 0.048 TEE2= 0.020 TEE3= 0.018  TEE4= 0.013
+rank=  4 Lx=Ly=20 pg= 0.700 ids=   4 TEE1= 0.003 TEE2= 0.015 TEE3= 0.028  TEE4= 0.030
+rank= 13 Lx=Ly=20 pg= 0.700 ids=  13 TEE1=-0.035 TEE2= 0.030 TEE3= 0.062  TEE4= 0.077
+rank= 16 Lx=Ly=20 pg= 0.700 ids=  16 TEE1=-0.007 TEE2= 0.013 TEE3= 0.030  TEE4= 0.015
+rank= 15 Lx=Ly=20 pg= 0.700 ids=  15 TEE1=-0.043 TEE2= 0.028 TEE3= 0.030  TEE4= 0.028
+rank= 14 Lx=Ly=20 pg= 0.700 ids=  14 TEE1=-0.003 TEE2= 0.070 TEE3= 0.120  TEE4= 0.168
+rank= 12 Lx=Ly=20 pg= 0.720 ids=  12 TEE1=-0.033 TEE2= 0.015 TEE3= 0.028  TEE4= 0.018
+rank=  0 Lx=Ly=20 pg= 0.720 ids=   0 TEE1= 0.035 TEE2= 0.065 TEE3= 0.083  TEE4= 0.083
+rank= 19 Lx=Ly=20 pg= 0.720 ids=  19 TEE1=-0.033 TEE2= 0.033 TEE3= 0.050  TEE4= 0.040
+rank=  3 Lx=Ly=20 pg= 0.720 ids=   3 TEE1= 0.028 TEE2= 0.028 TEE3= 0.025  TEE4= 0.030
+rank=  9 Lx=Ly=20 pg= 0.720 ids=   9 TEE1=-0.058 TEE2= 0.020 TEE3= 0.085  TEE4= 0.125
+rank=  5 Lx=Ly=20 pg= 0.720 ids=   5 TEE1=-0.010 TEE2= 0.055 TEE3= 0.062  TEE4= 0.080
+rank= 10 Lx=Ly=20 pg= 0.720 ids=  10 TEE1=-0.020 TEE2= 0.030 TEE3= 0.030  TEE4= 0.018
+rank=  8 Lx=Ly=20 pg= 0.720 ids=   8 TEE1=-0.025 TEE2= 0.048 TEE3= 0.060  TEE4= 0.043
+rank= 17 Lx=Ly=20 pg= 0.720 ids=  17 TEE1= 0.040 TEE2= 0.068 TEE3= 0.068  TEE4= 0.048
+rank= 18 Lx=Ly=20 pg= 0.720 ids=  18 TEE1=-0.075 TEE2=-0.005 TEE3= 0.025  TEE4= 0.018
+rank= 11 Lx=Ly=20 pg= 0.720 ids=  11 TEE1=-0.022 TEE2= 0.040 TEE3= 0.058  TEE4= 0.052
+rank=  1 Lx=Ly=20 pg= 0.720 ids=   1 TEE1=-0.045 TEE2= 0.030 TEE3= 0.043  TEE4= 0.045
+rank= 12 Lx=Ly=20 pg= 0.740 ids=  12 TEE1=-0.107 TEE2=-0.033 TEE3= 0.003  TEE4= 0.007
+rank=  0 Lx=Ly=20 pg= 0.740 ids=   0 TEE1=-0.020 TEE2= 0.045 TEE3= 0.072  TEE4= 0.065
+rank=  3 Lx=Ly=20 pg= 0.740 ids=   3 TEE1=-0.172 TEE2=-0.040 TEE3= 0.033  TEE4= 0.125
+rank= 19 Lx=Ly=20 pg= 0.740 ids=  19 TEE1=-0.102 TEE2= 0.010 TEE3= 0.033  TEE4= 0.030
+rank=  9 Lx=Ly=20 pg= 0.740 ids=   9 TEE1=-0.155 TEE2=-0.010 TEE3= 0.090  TEE4= 0.125
+rank=  5 Lx=Ly=20 pg= 0.740 ids=   5 TEE1=-0.145 TEE2=-0.085 TEE3=-0.025  TEE4= 0.058
+rank=  8 Lx=Ly=20 pg= 0.740 ids=   8 TEE1= 0.007 TEE2= 0.028 TEE3= 0.035  TEE4= 0.013
+rank= 10 Lx=Ly=20 pg= 0.740 ids=  10 TEE1=-0.177 TEE2=-0.045 TEE3= 0.033  TEE4= 0.070
+rank= 17 Lx=Ly=20 pg= 0.740 ids=  17 TEE1=-0.040 TEE2= 0.037 TEE3= 0.048  TEE4= 0.062
+rank= 11 Lx=Ly=20 pg= 0.740 ids=  11 TEE1=-0.018 TEE2= 0.033 TEE3= 0.035  TEE4= 0.035
+rank= 18 Lx=Ly=20 pg= 0.740 ids=  18 TEE1=-0.085 TEE2= 0.015 TEE3= 0.092  TEE4= 0.140
+rank=  1 Lx=Ly=20 pg= 0.740 ids=   1 TEE1=-0.113 TEE2=-0.037 TEE3= 0.003  TEE4= 0.007
+rank=  6 Lx=Ly=20 pg= 0.720 ids=   6 TEE1=-0.058 TEE2= 0.040 TEE3= 0.052  TEE4= 0.045
+rank=  7 Lx=Ly=20 pg= 0.720 ids=   7 TEE1=-0.045 TEE2= 0.000 TEE3= 0.020  TEE4= 0.007
+rank=  2 Lx=Ly=20 pg= 0.720 ids=   2 TEE1=-0.025 TEE2= 0.015 TEE3= 0.052  TEE4= 0.045
+rank=  4 Lx=Ly=20 pg= 0.720 ids=   4 TEE1=-0.003 TEE2= 0.033 TEE3= 0.050  TEE4= 0.033
+rank= 16 Lx=Ly=20 pg= 0.720 ids=  16 TEE1= 0.048 TEE2= 0.022 TEE3= 0.025  TEE4= 0.018
+rank= 15 Lx=Ly=20 pg= 0.720 ids=  15 TEE1=-0.095 TEE2=-0.022 TEE3=-0.003  TEE4= 0.007
+rank= 13 Lx=Ly=20 pg= 0.720 ids=  13 TEE1=-0.015 TEE2= 0.025 TEE3= 0.050  TEE4= 0.062
+rank= 14 Lx=Ly=20 pg= 0.720 ids=  14 TEE1= 0.058 TEE2= 0.035 TEE3= 0.052  TEE4= 0.050
+rank= 12 Lx=Ly=20 pg= 0.760 ids=  12 TEE1=-0.128 TEE2=-0.003 TEE3= 0.055  TEE4= 0.080
+rank=  0 Lx=Ly=20 pg= 0.760 ids=   0 TEE1=-0.285 TEE2=-0.188 TEE3=-0.068  TEE4= 0.005
+rank= 19 Lx=Ly=20 pg= 0.760 ids=  19 TEE1=-0.177 TEE2=-0.052 TEE3= 0.035  TEE4= 0.115
+rank=  3 Lx=Ly=20 pg= 0.760 ids=   3 TEE1=-0.268 TEE2=-0.142 TEE3=-0.040  TEE4= 0.062
+rank=  9 Lx=Ly=20 pg= 0.760 ids=   9 TEE1=-0.133 TEE2= 0.007 TEE3= 0.043  TEE4= 0.062
+rank=  8 Lx=Ly=20 pg= 0.760 ids=   8 TEE1=-0.285 TEE2=-0.182 TEE3= 0.005  TEE4= 0.130
+rank= 10 Lx=Ly=20 pg= 0.760 ids=  10 TEE1=-0.150 TEE2= 0.020 TEE3= 0.122  TEE4= 0.198
+rank= 17 Lx=Ly=20 pg= 0.760 ids=  17 TEE1=-0.140 TEE2=-0.050 TEE3= 0.010  TEE4= 0.030
+rank= 11 Lx=Ly=20 pg= 0.760 ids=  11 TEE1=-0.130 TEE2=-0.058 TEE3=-0.015  TEE4= 0.033
+rank= 18 Lx=Ly=20 pg= 0.760 ids=  18 TEE1=-0.207 TEE2=-0.037 TEE3= 0.035  TEE4= 0.062
+rank=  6 Lx=Ly=20 pg= 0.740 ids=   6 TEE1=-0.075 TEE2= 0.003 TEE3= 0.010  TEE4= 0.015
+rank=  1 Lx=Ly=20 pg= 0.760 ids=   1 TEE1=-0.110 TEE2= 0.015 TEE3= 0.048  TEE4= 0.083
+rank=  5 Lx=Ly=20 pg= 0.760 ids=   5 TEE1=-0.177 TEE2=-0.060 TEE3=-0.003  TEE4= 0.050
+rank= 13 Lx=Ly=20 pg= 0.740 ids=  13 TEE1=-0.170 TEE2= 0.043 TEE3= 0.145  TEE4= 0.147
+rank= 12 Lx=Ly=20 pg= 0.780 ids=  12 TEE1=-0.220 TEE2=-0.070 TEE3= 0.062  TEE4= 0.142
+rank=  3 Lx=Ly=20 pg= 0.780 ids=   3 TEE1=-0.225 TEE2=-0.133 TEE3=-0.035  TEE4= 0.060
+rank=  9 Lx=Ly=20 pg= 0.780 ids=   9 TEE1=-0.182 TEE2=-0.030 TEE3= 0.065  TEE4= 0.138
+rank= 19 Lx=Ly=20 pg= 0.780 ids=  19 TEE1=-0.150 TEE2=-0.062 TEE3= 0.020  TEE4= 0.048
+rank=  2 Lx=Ly=20 pg= 0.740 ids=   2 TEE1= 0.010 TEE2= 0.075 TEE3= 0.098  TEE4= 0.122
+rank=  4 Lx=Ly=20 pg= 0.740 ids=   4 TEE1=-0.077 TEE2=-0.010 TEE3= 0.015  TEE4= 0.018
+rank=  7 Lx=Ly=20 pg= 0.740 ids=   7 TEE1=-0.190 TEE2=-0.040 TEE3= 0.065  TEE4= 0.068
+rank= 15 Lx=Ly=20 pg= 0.740 ids=  15 TEE1=-0.172 TEE2= 0.010 TEE3= 0.072  TEE4= 0.142
+rank= 16 Lx=Ly=20 pg= 0.740 ids=  16 TEE1=-0.142 TEE2= 0.003 TEE3= 0.120  TEE4= 0.158
+rank= 14 Lx=Ly=20 pg= 0.740 ids=  14 TEE1=-0.133 TEE2=-0.013 TEE3= 0.037  TEE4= 0.028
+rank=  8 Lx=Ly=20 pg= 0.780 ids=   8 TEE1=-0.310 TEE2=-0.258 TEE3=-0.150  TEE4=-0.045
+rank=  6 Lx=Ly=20 pg= 0.760 ids=   6 TEE1=-0.287 TEE2=-0.217 TEE3=-0.077  TEE4= 0.065
+rank= 17 Lx=Ly=20 pg= 0.780 ids=  17 TEE1=-0.268 TEE2=-0.172 TEE3=-0.040  TEE4= 0.102
+rank= 10 Lx=Ly=20 pg= 0.780 ids=  10 TEE1=-0.292 TEE2=-0.145 TEE3= 0.030  TEE4= 0.140
+rank= 11 Lx=Ly=20 pg= 0.780 ids=  11 TEE1=-0.195 TEE2=-0.028 TEE3= 0.080  TEE4= 0.190
+rank= 18 Lx=Ly=20 pg= 0.780 ids=  18 TEE1=-0.355 TEE2=-0.255 TEE3=-0.125  TEE4= 0.052
+rank=  0 Lx=Ly=20 pg= 0.780 ids=   0 TEE1=-0.268 TEE2=-0.175 TEE3=-0.033  TEE4= 0.195
+rank=  1 Lx=Ly=20 pg= 0.780 ids=   1 TEE1=-0.360 TEE2=-0.270 TEE3=-0.142  TEE4= 0.115
+rank= 13 Lx=Ly=20 pg= 0.760 ids=  13 TEE1=-0.158 TEE2=-0.060 TEE3= 0.025  TEE4= 0.065
+rank= 12 Lx=Ly=20 pg= 0.800 ids=  12 TEE1=-0.297 TEE2=-0.200 TEE3=-0.107  TEE4= 0.013
+rank=  3 Lx=Ly=20 pg= 0.800 ids=   3 TEE1=-0.417 TEE2=-0.325 TEE3=-0.217  TEE4=-0.102
+rank= 16 Lx=Ly=20 pg= 0.760 ids=  16 TEE1=-0.258 TEE2=-0.142 TEE3=-0.035  TEE4= 0.010
+rank=  5 Lx=Ly=20 pg= 0.780 ids=   5 TEE1=-0.328 TEE2=-0.212 TEE3=-0.080  TEE4= 0.075
+rank= 14 Lx=Ly=20 pg= 0.760 ids=  14 TEE1=-0.158 TEE2=-0.055 TEE3= 0.050  TEE4= 0.130
+rank=  6 Lx=Ly=20 pg= 0.780 ids=   6 TEE1=-0.370 TEE2=-0.278 TEE3=-0.138  TEE4= 0.018
+rank= 17 Lx=Ly=20 pg= 0.800 ids=  17 TEE1=-0.383 TEE2=-0.333 TEE3=-0.210  TEE4=-0.072
+rank=  1 Lx=Ly=20 pg= 0.800 ids=   1 TEE1=-0.512 TEE2=-0.445 TEE3=-0.330  TEE4=-0.083
+rank=  8 Lx=Ly=20 pg= 0.800 ids=   8 TEE1=-0.415 TEE2=-0.285 TEE3=-0.177  TEE4=-0.115
+rank= 11 Lx=Ly=20 pg= 0.800 ids=  11 TEE1=-0.388 TEE2=-0.315 TEE3=-0.205  TEE4=-0.018
+rank= 10 Lx=Ly=20 pg= 0.800 ids=  10 TEE1=-0.438 TEE2=-0.370 TEE3=-0.228  TEE4=-0.072
+rank= 18 Lx=Ly=20 pg= 0.800 ids=  18 TEE1=-0.495 TEE2=-0.557 TEE3=-0.455  TEE4=-0.273
+rank=  2 Lx=Ly=20 pg= 0.760 ids=   2 TEE1=-0.193 TEE2=-0.128 TEE3=-0.013  TEE4= 0.158
+rank=  9 Lx=Ly=20 pg= 0.800 ids=   9 TEE1=-0.487 TEE2=-0.453 TEE3=-0.378  TEE4=-0.212
+rank= 19 Lx=Ly=20 pg= 0.800 ids=  19 TEE1=-0.422 TEE2=-0.372 TEE3=-0.270  TEE4=-0.102
+rank=  4 Lx=Ly=20 pg= 0.760 ids=   4 TEE1=-0.235 TEE2=-0.100 TEE3= 0.018  TEE4= 0.203
+rank=  7 Lx=Ly=20 pg= 0.760 ids=   7 TEE1=-0.260 TEE2=-0.140 TEE3= 0.015  TEE4= 0.087
+rank= 15 Lx=Ly=20 pg= 0.760 ids=  15 TEE1=-0.135 TEE2=-0.013 TEE3= 0.033  TEE4= 0.050
+rank=  0 Lx=Ly=20 pg= 0.800 ids=   0 TEE1=-0.390 TEE2=-0.265 TEE3=-0.150  TEE4= 0.020
+rank= 12 Lx=Ly=20 pg= 0.820 ids=  12 TEE1=-0.610 TEE2=-0.632 TEE3=-0.552  TEE4=-0.490
+rank= 13 Lx=Ly=20 pg= 0.780 ids=  13 TEE1=-0.292 TEE2=-0.163 TEE3=-0.055  TEE4= 0.085
+rank= 16 Lx=Ly=20 pg= 0.780 ids=  16 TEE1=-0.347 TEE2=-0.273 TEE3=-0.193  TEE4=-0.020
+rank=  5 Lx=Ly=20 pg= 0.800 ids=   5 TEE1=-0.490 TEE2=-0.520 TEE3=-0.490  TEE4=-0.333
+rank= 14 Lx=Ly=20 pg= 0.780 ids=  14 TEE1=-0.245 TEE2=-0.225 TEE3=-0.138  TEE4=-0.018
+rank=  6 Lx=Ly=20 pg= 0.800 ids=   6 TEE1=-0.472 TEE2=-0.365 TEE3=-0.133  TEE4= 0.062
+rank=  1 Lx=Ly=20 pg= 0.820 ids=   1 TEE1=-0.580 TEE2=-0.580 TEE3=-0.490  TEE4=-0.398
+rank= 17 Lx=Ly=20 pg= 0.820 ids=  17 TEE1=-0.532 TEE2=-0.565 TEE3=-0.522  TEE4=-0.395
+rank= 11 Lx=Ly=20 pg= 0.820 ids=  11 TEE1=-0.515 TEE2=-0.562 TEE3=-0.487  TEE4=-0.333
+rank=  8 Lx=Ly=20 pg= 0.820 ids=   8 TEE1=-0.568 TEE2=-0.593 TEE3=-0.532  TEE4=-0.458
+rank= 18 Lx=Ly=20 pg= 0.820 ids=  18 TEE1=-0.670 TEE2=-0.740 TEE3=-0.685  TEE4=-0.603
+rank= 10 Lx=Ly=20 pg= 0.820 ids=  10 TEE1=-0.640 TEE2=-0.680 TEE3=-0.608  TEE4=-0.502
+rank=  2 Lx=Ly=20 pg= 0.780 ids=   2 TEE1=-0.190 TEE2=-0.037 TEE3= 0.035  TEE4= 0.058
+rank=  3 Lx=Ly=20 pg= 0.820 ids=   3 TEE1=-0.615 TEE2=-0.675 TEE3=-0.585  TEE4=-0.460
+rank= 12 Lx=Ly=20 pg= 0.840 ids=  12 TEE1=-0.670 TEE2=-0.775 TEE3=-0.772  TEE4=-0.738
+rank=  5 Lx=Ly=20 pg= 0.820 ids=   5 TEE1=-0.550 TEE2=-0.578 TEE3=-0.520  TEE4=-0.398
+rank= 16 Lx=Ly=20 pg= 0.800 ids=  16 TEE1=-0.352 TEE2=-0.270 TEE3=-0.182  TEE4=-0.092
+rank= 14 Lx=Ly=20 pg= 0.800 ids=  14 TEE1=-0.588 TEE2=-0.605 TEE3=-0.532  TEE4=-0.355
+rank=  6 Lx=Ly=20 pg= 0.820 ids=   6 TEE1=-0.530 TEE2=-0.562 TEE3=-0.507  TEE4=-0.318
+rank= 19 Lx=Ly=20 pg= 0.820 ids=  19 TEE1=-0.637 TEE2=-0.728 TEE3=-0.675  TEE4=-0.550
+rank=  9 Lx=Ly=20 pg= 0.820 ids=   9 TEE1=-0.490 TEE2=-0.420 TEE3=-0.310  TEE4=-0.193
+rank=  1 Lx=Ly=20 pg= 0.840 ids=   1 TEE1=-0.703 TEE2=-0.738 TEE3=-0.698  TEE4=-0.675
+rank= 17 Lx=Ly=20 pg= 0.840 ids=  17 TEE1=-0.615 TEE2=-0.667 TEE3=-0.625  TEE4=-0.522
+rank=  4 Lx=Ly=20 pg= 0.780 ids=   4 TEE1=-0.290 TEE2=-0.170 TEE3=-0.050  TEE4= 0.068
+rank= 11 Lx=Ly=20 pg= 0.840 ids=  11 TEE1=-0.595 TEE2=-0.693 TEE3=-0.675  TEE4=-0.600
+rank=  8 Lx=Ly=20 pg= 0.840 ids=   8 TEE1=-0.600 TEE2=-0.680 TEE3=-0.680  TEE4=-0.645
+rank= 18 Lx=Ly=20 pg= 0.840 ids=  18 TEE1=-0.645 TEE2=-0.713 TEE3=-0.652  TEE4=-0.603
+rank= 15 Lx=Ly=20 pg= 0.780 ids=  15 TEE1=-0.315 TEE2=-0.128 TEE3= 0.070  TEE4= 0.190
+rank= 10 Lx=Ly=20 pg= 0.840 ids=  10 TEE1=-0.657 TEE2=-0.703 TEE3=-0.698  TEE4=-0.630
+rank=  7 Lx=Ly=20 pg= 0.780 ids=   7 TEE1=-0.245 TEE2=-0.100 TEE3= 0.035  TEE4= 0.170
+rank=  0 Lx=Ly=20 pg= 0.820 ids=   0 TEE1=-0.527 TEE2=-0.557 TEE3=-0.517  TEE4=-0.445
+rank=  2 Lx=Ly=20 pg= 0.800 ids=   2 TEE1=-0.427 TEE2=-0.345 TEE3=-0.172  TEE4=-0.003
+rank= 13 Lx=Ly=20 pg= 0.800 ids=  13 TEE1=-0.497 TEE2=-0.475 TEE3=-0.415  TEE4=-0.263
+rank= 12 Lx=Ly=20 pg= 0.860 ids=  12 TEE1=-0.620 TEE2=-0.690 TEE3=-0.645  TEE4=-0.588
+rank=  5 Lx=Ly=20 pg= 0.840 ids=   5 TEE1=-0.627 TEE2=-0.680 TEE3=-0.640  TEE4=-0.562
+rank= 14 Lx=Ly=20 pg= 0.820 ids=  14 TEE1=-0.600 TEE2=-0.700 TEE3=-0.677  TEE4=-0.655
+rank= 16 Lx=Ly=20 pg= 0.820 ids=  16 TEE1=-0.497 TEE2=-0.512 TEE3=-0.440  TEE4=-0.300
+rank=  1 Lx=Ly=20 pg= 0.860 ids=   1 TEE1=-0.700 TEE2=-0.797 TEE3=-0.802  TEE4=-0.830
+rank=  6 Lx=Ly=20 pg= 0.840 ids=   6 TEE1=-0.665 TEE2=-0.725 TEE3=-0.682  TEE4=-0.627
+rank=  3 Lx=Ly=20 pg= 0.840 ids=   3 TEE1=-0.620 TEE2=-0.698 TEE3=-0.660  TEE4=-0.618
+rank= 17 Lx=Ly=20 pg= 0.860 ids=  17 TEE1=-0.723 TEE2=-0.790 TEE3=-0.765  TEE4=-0.685
+rank= 11 Lx=Ly=20 pg= 0.860 ids=  11 TEE1=-0.770 TEE2=-0.833 TEE3=-0.823  TEE4=-0.792
+rank= 10 Lx=Ly=20 pg= 0.860 ids=  10 TEE1=-0.733 TEE2=-0.815 TEE3=-0.807  TEE4=-0.765
+rank= 18 Lx=Ly=20 pg= 0.860 ids=  18 TEE1=-0.700 TEE2=-0.777 TEE3=-0.748  TEE4=-0.675
+rank=  8 Lx=Ly=20 pg= 0.860 ids=   8 TEE1=-0.700 TEE2=-0.765 TEE3=-0.740  TEE4=-0.662
+rank=  2 Lx=Ly=20 pg= 0.820 ids=   2 TEE1=-0.507 TEE2=-0.500 TEE3=-0.438  TEE4=-0.312
+rank= 19 Lx=Ly=20 pg= 0.840 ids=  19 TEE1=-0.703 TEE2=-0.800 TEE3=-0.762  TEE4=-0.730
+rank=  9 Lx=Ly=20 pg= 0.840 ids=   9 TEE1=-0.700 TEE2=-0.795 TEE3=-0.780  TEE4=-0.733
+rank= 12 Lx=Ly=20 pg= 0.880 ids=  12 TEE1=-0.820 TEE2=-0.922 TEE3=-0.927  TEE4=-0.910
+rank=  4 Lx=Ly=20 pg= 0.800 ids=   4 TEE1=-0.430 TEE2=-0.378 TEE3=-0.237  TEE4=-0.092
+rank= 15 Lx=Ly=20 pg= 0.800 ids=  15 TEE1=-0.360 TEE2=-0.217 TEE3=-0.092  TEE4= 0.000
+rank=  7 Lx=Ly=20 pg= 0.800 ids=   7 TEE1=-0.425 TEE2=-0.340 TEE3=-0.198  TEE4=-0.062
+rank=  5 Lx=Ly=20 pg= 0.860 ids=   5 TEE1=-0.708 TEE2=-0.818 TEE3=-0.805  TEE4=-0.787
+rank=  0 Lx=Ly=20 pg= 0.840 ids=   0 TEE1=-0.620 TEE2=-0.685 TEE3=-0.627  TEE4=-0.547
+rank= 14 Lx=Ly=20 pg= 0.840 ids=  14 TEE1=-0.625 TEE2=-0.675 TEE3=-0.660  TEE4=-0.652
+rank= 16 Lx=Ly=20 pg= 0.840 ids=  16 TEE1=-0.682 TEE2=-0.812 TEE3=-0.797  TEE4=-0.802
+rank=  1 Lx=Ly=20 pg= 0.880 ids=   1 TEE1=-0.777 TEE2=-0.873 TEE3=-0.877  TEE4=-0.873
+rank=  6 Lx=Ly=20 pg= 0.860 ids=   6 TEE1=-0.690 TEE2=-0.797 TEE3=-0.785  TEE4=-0.805
+rank= 17 Lx=Ly=20 pg= 0.880 ids=  17 TEE1=-0.777 TEE2=-0.853 TEE3=-0.838  TEE4=-0.815
+rank= 13 Lx=Ly=20 pg= 0.820 ids=  13 TEE1=-0.530 TEE2=-0.588 TEE3=-0.535  TEE4=-0.468
+rank= 11 Lx=Ly=20 pg= 0.880 ids=  11 TEE1=-0.800 TEE2=-0.877 TEE3=-0.885  TEE4=-0.890
+rank= 10 Lx=Ly=20 pg= 0.880 ids=  10 TEE1=-0.780 TEE2=-0.880 TEE3=-0.873  TEE4=-0.910
+rank= 18 Lx=Ly=20 pg= 0.880 ids=  18 TEE1=-0.812 TEE2=-0.907 TEE3=-0.905  TEE4=-0.920
+rank=  8 Lx=Ly=20 pg= 0.880 ids=   8 TEE1=-0.797 TEE2=-0.830 TEE3=-0.823  TEE4=-0.818
+rank=  2 Lx=Ly=20 pg= 0.840 ids=   2 TEE1=-0.635 TEE2=-0.700 TEE3=-0.682  TEE4=-0.652
+rank=  3 Lx=Ly=20 pg= 0.860 ids=   3 TEE1=-0.693 TEE2=-0.760 TEE3=-0.740  TEE4=-0.698
+rank= 12 Lx=Ly=20 pg= 0.900 ids=  12 TEE1=-0.815 TEE2=-0.902 TEE3=-0.915  TEE4=-0.927
+rank=  5 Lx=Ly=20 pg= 0.880 ids=   5 TEE1=-0.762 TEE2=-0.875 TEE3=-0.877  TEE4=-0.890
+rank= 14 Lx=Ly=20 pg= 0.860 ids=  14 TEE1=-0.708 TEE2=-0.802 TEE3=-0.802  TEE4=-0.775
+rank= 16 Lx=Ly=20 pg= 0.860 ids=  16 TEE1=-0.730 TEE2=-0.810 TEE3=-0.790  TEE4=-0.782
+rank=  1 Lx=Ly=20 pg= 0.900 ids=   1 TEE1=-0.855 TEE2=-0.938 TEE3=-0.943  TEE4=-0.965
+rank=  6 Lx=Ly=20 pg= 0.880 ids=   6 TEE1=-0.745 TEE2=-0.845 TEE3=-0.838  TEE4=-0.897
+rank= 17 Lx=Ly=20 pg= 0.900 ids=  17 TEE1=-0.870 TEE2=-0.963 TEE3=-0.968  TEE4=-0.978
+rank= 19 Lx=Ly=20 pg= 0.860 ids=  19 TEE1=-0.772 TEE2=-0.873 TEE3=-0.877  TEE4=-0.865
+rank=  9 Lx=Ly=20 pg= 0.860 ids=   9 TEE1=-0.772 TEE2=-0.845 TEE3=-0.840  TEE4=-0.820
+rank= 18 Lx=Ly=20 pg= 0.900 ids=  18 TEE1=-0.823 TEE2=-0.912 TEE3=-0.920  TEE4=-0.935
+rank= 11 Lx=Ly=20 pg= 0.900 ids=  11 TEE1=-0.815 TEE2=-0.922 TEE3=-0.935  TEE4=-0.955
+rank= 10 Lx=Ly=20 pg= 0.900 ids=  10 TEE1=-0.870 TEE2=-0.960 TEE3=-0.960  TEE4=-0.968
+rank=  8 Lx=Ly=20 pg= 0.900 ids=   8 TEE1=-0.812 TEE2=-0.882 TEE3=-0.875  TEE4=-0.858
+rank=  4 Lx=Ly=20 pg= 0.820 ids=   4 TEE1=-0.550 TEE2=-0.585 TEE3=-0.550  TEE4=-0.527
+rank= 15 Lx=Ly=20 pg= 0.820 ids=  15 TEE1=-0.585 TEE2=-0.625 TEE3=-0.535  TEE4=-0.422
+rank=  7 Lx=Ly=20 pg= 0.820 ids=   7 TEE1=-0.573 TEE2=-0.605 TEE3=-0.593  TEE4=-0.470
+rank=  2 Lx=Ly=20 pg= 0.860 ids=   2 TEE1=-0.725 TEE2=-0.858 TEE3=-0.863  TEE4=-0.880
+rank=  0 Lx=Ly=20 pg= 0.860 ids=   0 TEE1=-0.713 TEE2=-0.782 TEE3=-0.762  TEE4=-0.738
+rank= 13 Lx=Ly=20 pg= 0.840 ids=  13 TEE1=-0.682 TEE2=-0.757 TEE3=-0.748  TEE4=-0.723
+rank= 12 Lx=Ly=20 pg= 0.700 ids=  32 TEE1=-0.048 TEE2= 0.037 TEE3= 0.095  TEE4= 0.120
+rank=  5 Lx=Ly=20 pg= 0.900 ids=   5 TEE1=-0.797 TEE2=-0.855 TEE3=-0.848  TEE4=-0.850
+rank= 14 Lx=Ly=20 pg= 0.880 ids=  14 TEE1=-0.757 TEE2=-0.840 TEE3=-0.835  TEE4=-0.815
+rank= 16 Lx=Ly=20 pg= 0.880 ids=  16 TEE1=-0.777 TEE2=-0.850 TEE3=-0.828  TEE4=-0.825
+rank=  1 Lx=Ly=20 pg= 0.700 ids=  21 TEE1= 0.007 TEE2= 0.022 TEE3= 0.028  TEE4= 0.018
+rank=  6 Lx=Ly=20 pg= 0.900 ids=   6 TEE1=-0.805 TEE2=-0.880 TEE3=-0.887  TEE4=-0.920
+rank= 17 Lx=Ly=20 pg= 0.700 ids=  37 TEE1=-0.015 TEE2= 0.043 TEE3= 0.045  TEE4= 0.052
+rank=  3 Lx=Ly=20 pg= 0.880 ids=   3 TEE1=-0.745 TEE2=-0.825 TEE3=-0.815  TEE4=-0.810
+rank= 18 Lx=Ly=20 pg= 0.700 ids=  38 TEE1=-0.048 TEE2= 0.013 TEE3= 0.018  TEE4= 0.013
+rank= 11 Lx=Ly=20 pg= 0.700 ids=  31 TEE1= 0.013 TEE2= 0.077 TEE3= 0.098  TEE4= 0.085
+rank= 10 Lx=Ly=20 pg= 0.700 ids=  30 TEE1=-0.010 TEE2= 0.025 TEE3= 0.028  TEE4= 0.018
+rank=  8 Lx=Ly=20 pg= 0.700 ids=  28 TEE1= 0.010 TEE2= 0.025 TEE3= 0.030  TEE4= 0.025
+rank=  2 Lx=Ly=20 pg= 0.880 ids=   2 TEE1=-0.785 TEE2=-0.875 TEE3=-0.880  TEE4=-0.880
+rank= 12 Lx=Ly=20 pg= 0.720 ids=  32 TEE1=-0.025 TEE2= 0.005 TEE3= 0.007  TEE4= 0.005
+rank=  9 Lx=Ly=20 pg= 0.880 ids=   9 TEE1=-0.715 TEE2=-0.815 TEE3=-0.800  TEE4=-0.810
+rank= 19 Lx=Ly=20 pg= 0.880 ids=  19 TEE1=-0.733 TEE2=-0.755 TEE3=-0.720  TEE4=-0.652
+rank=  4 Lx=Ly=20 pg= 0.840 ids=   4 TEE1=-0.672 TEE2=-0.752 TEE3=-0.730  TEE4=-0.705
+rank=  5 Lx=Ly=20 pg= 0.700 ids=  25 TEE1=-0.007 TEE2= 0.050 TEE3= 0.060  TEE4= 0.060
+rank= 14 Lx=Ly=20 pg= 0.900 ids=  14 TEE1=-0.843 TEE2=-0.943 TEE3=-0.935  TEE4=-0.953
+rank= 16 Lx=Ly=20 pg= 0.900 ids=  16 TEE1=-0.840 TEE2=-0.897 TEE3=-0.892  TEE4=-0.882
+rank=  1 Lx=Ly=20 pg= 0.720 ids=  21 TEE1=-0.040 TEE2= 0.010 TEE3= 0.015  TEE4= 0.020
+rank=  7 Lx=Ly=20 pg= 0.840 ids=   7 TEE1=-0.680 TEE2=-0.785 TEE3=-0.775  TEE4=-0.790
+rank= 15 Lx=Ly=20 pg= 0.840 ids=  15 TEE1=-0.613 TEE2=-0.672 TEE3=-0.647  TEE4=-0.578
+rank= 17 Lx=Ly=20 pg= 0.720 ids=  37 TEE1=-0.035 TEE2= 0.020 TEE3= 0.050  TEE4= 0.050
+rank=  0 Lx=Ly=20 pg= 0.880 ids=   0 TEE1=-0.833 TEE2=-0.930 TEE3=-0.930  TEE4=-0.930
+rank= 13 Lx=Ly=20 pg= 0.860 ids=  13 TEE1=-0.743 TEE2=-0.818 TEE3=-0.790  TEE4=-0.765
+rank= 18 Lx=Ly=20 pg= 0.720 ids=  38 TEE1=-0.120 TEE2=-0.025 TEE3= 0.010  TEE4= 0.020
+rank=  8 Lx=Ly=20 pg= 0.720 ids=  28 TEE1=-0.110 TEE2=-0.022 TEE3= 0.068  TEE4= 0.068
+rank= 11 Lx=Ly=20 pg= 0.720 ids=  31 TEE1=-0.025 TEE2= 0.058 TEE3= 0.075  TEE4= 0.113
+rank= 10 Lx=Ly=20 pg= 0.720 ids=  30 TEE1=-0.085 TEE2=-0.003 TEE3= 0.075  TEE4= 0.125
+rank=  6 Lx=Ly=20 pg= 0.700 ids=  26 TEE1=-0.013 TEE2=-0.018 TEE3= 0.007  TEE4= 0.025
+rank=  2 Lx=Ly=20 pg= 0.900 ids=   2 TEE1=-0.858 TEE2=-0.950 TEE3=-0.955  TEE4=-0.958
+rank= 12 Lx=Ly=20 pg= 0.740 ids=  32 TEE1=-0.070 TEE2= 0.013 TEE3= 0.045  TEE4= 0.037
+rank=  3 Lx=Ly=20 pg= 0.900 ids=   3 TEE1=-0.807 TEE2=-0.887 TEE3=-0.890  TEE4=-0.880
+rank=  5 Lx=Ly=20 pg= 0.720 ids=  25 TEE1=-0.160 TEE2=-0.013 TEE3= 0.028  TEE4= 0.030
+rank=  4 Lx=Ly=20 pg= 0.860 ids=   4 TEE1=-0.718 TEE2=-0.823 TEE3=-0.815  TEE4=-0.812
+rank= 14 Lx=Ly=20 pg= 0.700 ids=  34 TEE1=-0.087 TEE2= 0.010 TEE3= 0.068  TEE4= 0.050
+rank= 16 Lx=Ly=20 pg= 0.700 ids=  36 TEE1= 0.070 TEE2= 0.025 TEE3= 0.022  TEE4= 0.013
+rank=  1 Lx=Ly=20 pg= 0.740 ids=  21 TEE1=-0.147 TEE2=-0.058 TEE3= 0.007  TEE4= 0.037
+rank= 17 Lx=Ly=20 pg= 0.740 ids=  37 TEE1=-0.158 TEE2= 0.035 TEE3= 0.105  TEE4= 0.098
+rank=  9 Lx=Ly=20 pg= 0.900 ids=   9 TEE1=-0.845 TEE2=-0.902 TEE3=-0.910  TEE4=-0.892
+rank= 19 Lx=Ly=20 pg= 0.900 ids=  19 TEE1=-0.865 TEE2=-0.953 TEE3=-0.955  TEE4=-0.978
+rank= 18 Lx=Ly=20 pg= 0.740 ids=  38 TEE1=-0.048 TEE2= 0.105 TEE3= 0.115  TEE4= 0.098
+rank=  8 Lx=Ly=20 pg= 0.740 ids=  28 TEE1=-0.110 TEE2= 0.007 TEE3= 0.100  TEE4= 0.147
+rank= 11 Lx=Ly=20 pg= 0.740 ids=  31 TEE1=-0.077 TEE2= 0.040 TEE3= 0.080  TEE4= 0.098
+rank= 10 Lx=Ly=20 pg= 0.740 ids=  30 TEE1=-0.115 TEE2=-0.050 TEE3= 0.000  TEE4= 0.068
+rank=  2 Lx=Ly=20 pg= 0.700 ids=  22 TEE1=-0.037 TEE2= 0.035 TEE3= 0.062  TEE4= 0.075
+rank=  7 Lx=Ly=20 pg= 0.860 ids=   7 TEE1=-0.745 TEE2=-0.863 TEE3=-0.865  TEE4=-0.892
+rank= 15 Lx=Ly=20 pg= 0.860 ids=  15 TEE1=-0.757 TEE2=-0.885 TEE3=-0.885  TEE4=-0.897
+rank= 12 Lx=Ly=20 pg= 0.760 ids=  32 TEE1=-0.170 TEE2= 0.000 TEE3= 0.060  TEE4= 0.050
+rank=  0 Lx=Ly=20 pg= 0.900 ids=   0 TEE1=-0.830 TEE2=-0.935 TEE3=-0.943  TEE4=-0.950
+rank= 13 Lx=Ly=20 pg= 0.880 ids=  13 TEE1=-0.750 TEE2=-0.853 TEE3=-0.830  TEE4=-0.835
+rank=  5 Lx=Ly=20 pg= 0.740 ids=  25 TEE1=-0.207 TEE2=-0.058 TEE3= 0.033  TEE4= 0.087
+rank=  4 Lx=Ly=20 pg= 0.880 ids=   4 TEE1=-0.772 TEE2=-0.848 TEE3=-0.825  TEE4=-0.815
+rank= 14 Lx=Ly=20 pg= 0.720 ids=  34 TEE1=-0.018 TEE2= 0.100 TEE3= 0.140  TEE4= 0.142
+rank= 16 Lx=Ly=20 pg= 0.720 ids=  36 TEE1=-0.055 TEE2=-0.007 TEE3= 0.018  TEE4= 0.007
+rank=  6 Lx=Ly=20 pg= 0.720 ids=  26 TEE1=-0.022 TEE2= 0.030 TEE3= 0.043  TEE4= 0.050
+rank=  1 Lx=Ly=20 pg= 0.760 ids=  21 TEE1=-0.190 TEE2=-0.072 TEE3= 0.033  TEE4= 0.070
+rank= 17 Lx=Ly=20 pg= 0.760 ids=  37 TEE1=-0.090 TEE2= 0.000 TEE3= 0.035  TEE4= 0.052
+rank=  3 Lx=Ly=20 pg= 0.700 ids=  23 TEE1= 0.007 TEE2= 0.028 TEE3= 0.028  TEE4= 0.022
+rank= 18 Lx=Ly=20 pg= 0.760 ids=  38 TEE1=-0.263 TEE2=-0.182 TEE3=-0.122  TEE4= 0.013
+rank=  8 Lx=Ly=20 pg= 0.760 ids=  28 TEE1=-0.095 TEE2= 0.052 TEE3= 0.102  TEE4= 0.158
+rank= 11 Lx=Ly=20 pg= 0.760 ids=  31 TEE1=-0.145 TEE2=-0.075 TEE3= 0.018  TEE4= 0.190
+rank= 10 Lx=Ly=20 pg= 0.760 ids=  30 TEE1=-0.115 TEE2=-0.070 TEE3= 0.005  TEE4= 0.050
+rank=  2 Lx=Ly=20 pg= 0.720 ids=  22 TEE1=-0.080 TEE2= 0.035 TEE3= 0.068  TEE4= 0.072
+rank= 12 Lx=Ly=20 pg= 0.780 ids=  32 TEE1=-0.233 TEE2=-0.122 TEE3= 0.010  TEE4= 0.080
+rank= 19 Lx=Ly=20 pg= 0.700 ids=  39 TEE1=-0.058 TEE2= 0.033 TEE3= 0.080  TEE4= 0.087
+rank=  9 Lx=Ly=20 pg= 0.700 ids=  29 TEE1=-0.007 TEE2= 0.005 TEE3= 0.015  TEE4= 0.013
+rank=  5 Lx=Ly=20 pg= 0.760 ids=  25 TEE1=-0.195 TEE2=-0.080 TEE3=-0.007  TEE4= 0.070
+rank= 14 Lx=Ly=20 pg= 0.740 ids=  34 TEE1=-0.090 TEE2=-0.007 TEE3= 0.022  TEE4= 0.022
+rank=  4 Lx=Ly=20 pg= 0.900 ids=   4 TEE1=-0.812 TEE2=-0.882 TEE3=-0.882  TEE4=-0.910
+rank= 16 Lx=Ly=20 pg= 0.740 ids=  36 TEE1=-0.070 TEE2= 0.005 TEE3= 0.040  TEE4= 0.033
+rank=  1 Lx=Ly=20 pg= 0.780 ids=  21 TEE1=-0.325 TEE2=-0.207 TEE3=-0.060  TEE4= 0.033
+rank= 17 Lx=Ly=20 pg= 0.780 ids=  37 TEE1=-0.295 TEE2=-0.158 TEE3=-0.085  TEE4=-0.003
+rank=  7 Lx=Ly=20 pg= 0.880 ids=   7 TEE1=-0.792 TEE2=-0.920 TEE3=-0.920  TEE4=-0.897
+rank= 15 Lx=Ly=20 pg= 0.880 ids=  15 TEE1=-0.772 TEE2=-0.905 TEE3=-0.915  TEE4=-0.925
+rank=  0 Lx=Ly=20 pg= 0.700 ids=  20 TEE1=-0.007 TEE2= 0.033 TEE3= 0.045  TEE4= 0.055
+rank= 13 Lx=Ly=20 pg= 0.900 ids=  13 TEE1=-0.868 TEE2=-0.950 TEE3=-0.950  TEE4=-0.965
+rank=  8 Lx=Ly=20 pg= 0.780 ids=  28 TEE1=-0.357 TEE2=-0.195 TEE3=-0.055  TEE4= 0.045
+rank= 18 Lx=Ly=20 pg= 0.780 ids=  38 TEE1=-0.365 TEE2=-0.265 TEE3=-0.140  TEE4= 0.090
+rank= 11 Lx=Ly=20 pg= 0.780 ids=  31 TEE1=-0.225 TEE2=-0.077 TEE3= 0.040  TEE4= 0.122
+rank= 10 Lx=Ly=20 pg= 0.780 ids=  30 TEE1=-0.225 TEE2=-0.203 TEE3=-0.125  TEE4=-0.013
+rank=  6 Lx=Ly=20 pg= 0.740 ids=  26 TEE1=-0.105 TEE2=-0.020 TEE3= 0.022  TEE4= 0.043
+rank=  3 Lx=Ly=20 pg= 0.720 ids=  23 TEE1=-0.020 TEE2= 0.065 TEE3= 0.107  TEE4= 0.100
+rank=  2 Lx=Ly=20 pg= 0.740 ids=  22 TEE1=-0.070 TEE2= 0.022 TEE3= 0.068  TEE4= 0.092
+rank= 12 Lx=Ly=20 pg= 0.800 ids=  32 TEE1=-0.465 TEE2=-0.417 TEE3=-0.315  TEE4=-0.110
+rank=  5 Lx=Ly=20 pg= 0.780 ids=  25 TEE1=-0.340 TEE2=-0.120 TEE3= 0.062  TEE4= 0.180
+rank=  4 Lx=Ly=20 pg= 0.700 ids=  24 TEE1=-0.020 TEE2= 0.020 TEE3= 0.033  TEE4= 0.035
+rank=  1 Lx=Ly=20 pg= 0.800 ids=  21 TEE1=-0.450 TEE2=-0.383 TEE3=-0.300  TEE4=-0.150
+rank= 17 Lx=Ly=20 pg= 0.800 ids=  37 TEE1=-0.463 TEE2=-0.440 TEE3=-0.350  TEE4=-0.217
+rank=  7 Lx=Ly=20 pg= 0.900 ids=   7 TEE1=-0.853 TEE2=-0.938 TEE3=-0.938  TEE4=-0.955
+rank= 19 Lx=Ly=20 pg= 0.720 ids=  39 TEE1=-0.035 TEE2= 0.052 TEE3= 0.060  TEE4= 0.070
+rank= 16 Lx=Ly=20 pg= 0.760 ids=  36 TEE1=-0.233 TEE2=-0.122 TEE3=-0.015  TEE4= 0.068
+rank=  9 Lx=Ly=20 pg= 0.720 ids=  29 TEE1= 0.020 TEE2= 0.060 TEE3= 0.068  TEE4= 0.065
+rank=  8 Lx=Ly=20 pg= 0.800 ids=  28 TEE1=-0.375 TEE2=-0.323 TEE3=-0.182  TEE4= 0.030
+rank= 14 Lx=Ly=20 pg= 0.760 ids=  34 TEE1=-0.105 TEE2= 0.020 TEE3= 0.090  TEE4= 0.175
+rank= 18 Lx=Ly=20 pg= 0.800 ids=  38 TEE1=-0.367 TEE2=-0.330 TEE3=-0.215  TEE4=-0.065
+rank= 10 Lx=Ly=20 pg= 0.800 ids=  30 TEE1=-0.468 TEE2=-0.440 TEE3=-0.367  TEE4=-0.253
+rank=  3 Lx=Ly=20 pg= 0.740 ids=  23 TEE1=-0.133 TEE2=-0.033 TEE3= 0.035  TEE4= 0.077
+rank= 11 Lx=Ly=20 pg= 0.800 ids=  31 TEE1=-0.608 TEE2=-0.630 TEE3=-0.550  TEE4=-0.407
+rank= 12 Lx=Ly=20 pg= 0.820 ids=  32 TEE1=-0.542 TEE2=-0.593 TEE3=-0.547  TEE4=-0.502
+rank=  2 Lx=Ly=20 pg= 0.760 ids=  22 TEE1=-0.193 TEE2=-0.058 TEE3= 0.040  TEE4= 0.077
+rank= 15 Lx=Ly=20 pg= 0.900 ids=  15 TEE1=-0.860 TEE2=-0.930 TEE3=-0.935  TEE4=-0.968
+rank=  5 Lx=Ly=20 pg= 0.800 ids=  25 TEE1=-0.350 TEE2=-0.258 TEE3=-0.193  TEE4=-0.110
+rank=  6 Lx=Ly=20 pg= 0.760 ids=  26 TEE1=-0.125 TEE2= 0.010 TEE3= 0.077  TEE4= 0.158
+rank=  0 Lx=Ly=20 pg= 0.720 ids=  20 TEE1=-0.030 TEE2= 0.010 TEE3= 0.022  TEE4= 0.020
+rank= 13 Lx=Ly=20 pg= 0.700 ids=  33 TEE1= 0.003 TEE2= 0.092 TEE3= 0.113  TEE4= 0.138
+rank=  4 Lx=Ly=20 pg= 0.720 ids=  24 TEE1= 0.052 TEE2= 0.028 TEE3= 0.020  TEE4= 0.013
+rank=  1 Lx=Ly=20 pg= 0.820 ids=  21 TEE1=-0.603 TEE2=-0.665 TEE3=-0.632  TEE4=-0.580
+rank= 17 Lx=Ly=20 pg= 0.820 ids=  37 TEE1=-0.593 TEE2=-0.647 TEE3=-0.603  TEE4=-0.502
+rank=  7 Lx=Ly=20 pg= 0.700 ids=  27 TEE1= 0.005 TEE2= 0.000 TEE3= 0.007  TEE4= 0.005
+rank=  8 Lx=Ly=20 pg= 0.820 ids=  28 TEE1=-0.492 TEE2=-0.403 TEE3=-0.300  TEE4=-0.110
+rank= 18 Lx=Ly=20 pg= 0.820 ids=  38 TEE1=-0.573 TEE2=-0.693 TEE3=-0.662  TEE4=-0.620
+rank= 10 Lx=Ly=20 pg= 0.820 ids=  30 TEE1=-0.542 TEE2=-0.578 TEE3=-0.532  TEE4=-0.425
+rank=  3 Lx=Ly=20 pg= 0.760 ids=  23 TEE1=-0.172 TEE2=-0.045 TEE3=-0.003  TEE4= 0.015
+rank= 12 Lx=Ly=20 pg= 0.840 ids=  32 TEE1=-0.700 TEE2=-0.848 TEE3=-0.848  TEE4=-0.823
+rank=  2 Lx=Ly=20 pg= 0.780 ids=  22 TEE1=-0.335 TEE2=-0.235 TEE3=-0.092  TEE4= 0.003
+rank=  5 Lx=Ly=20 pg= 0.820 ids=  25 TEE1=-0.535 TEE2=-0.550 TEE3=-0.405  TEE4=-0.180
+rank=  6 Lx=Ly=20 pg= 0.780 ids=  26 TEE1=-0.333 TEE2=-0.223 TEE3=-0.075  TEE4= 0.072
+rank=  4 Lx=Ly=20 pg= 0.740 ids=  24 TEE1=-0.077 TEE2=-0.007 TEE3= 0.035  TEE4= 0.030
+rank=  1 Lx=Ly=20 pg= 0.840 ids=  21 TEE1=-0.660 TEE2=-0.740 TEE3=-0.703  TEE4=-0.698
+rank= 19 Lx=Ly=20 pg= 0.740 ids=  39 TEE1=-0.062 TEE2= 0.035 TEE3= 0.062  TEE4= 0.045
+rank=  9 Lx=Ly=20 pg= 0.740 ids=  29 TEE1= 0.018 TEE2= 0.048 TEE3= 0.058  TEE4= 0.035
+rank= 16 Lx=Ly=20 pg= 0.780 ids=  36 TEE1=-0.145 TEE2= 0.013 TEE3= 0.083  TEE4= 0.105
+rank= 17 Lx=Ly=20 pg= 0.840 ids=  37 TEE1=-0.598 TEE2=-0.647 TEE3=-0.610  TEE4=-0.610
+rank= 14 Lx=Ly=20 pg= 0.780 ids=  34 TEE1=-0.253 TEE2=-0.122 TEE3= 0.003  TEE4= 0.065
+rank=  7 Lx=Ly=20 pg= 0.720 ids=  27 TEE1= 0.048 TEE2= 0.068 TEE3= 0.068  TEE4= 0.085
+rank= 11 Lx=Ly=20 pg= 0.820 ids=  31 TEE1=-0.652 TEE2=-0.735 TEE3=-0.708  TEE4=-0.657
+rank= 15 Lx=Ly=20 pg= 0.700 ids=  35 TEE1= 0.035 TEE2= 0.060 TEE3= 0.062  TEE4= 0.058
+rank=  0 Lx=Ly=20 pg= 0.740 ids=  20 TEE1=-0.087 TEE2= 0.003 TEE3= 0.055  TEE4= 0.072
+rank= 13 Lx=Ly=20 pg= 0.720 ids=  33 TEE1=-0.022 TEE2= 0.033 TEE3= 0.037  TEE4= 0.035
+rank=  8 Lx=Ly=20 pg= 0.840 ids=  28 TEE1=-0.600 TEE2=-0.703 TEE3=-0.695  TEE4=-0.652
+rank= 18 Lx=Ly=20 pg= 0.840 ids=  38 TEE1=-0.735 TEE2=-0.805 TEE3=-0.790  TEE4=-0.745
+rank=  3 Lx=Ly=20 pg= 0.780 ids=  23 TEE1=-0.378 TEE2=-0.328 TEE3=-0.223  TEE4=-0.130
+rank= 10 Lx=Ly=20 pg= 0.840 ids=  30 TEE1=-0.652 TEE2=-0.748 TEE3=-0.735  TEE4=-0.705
+rank= 12 Lx=Ly=20 pg= 0.860 ids=  32 TEE1=-0.765 TEE2=-0.875 TEE3=-0.875  TEE4=-0.863
+rank=  2 Lx=Ly=20 pg= 0.800 ids=  22 TEE1=-0.477 TEE2=-0.432 TEE3=-0.328  TEE4=-0.207
+rank=  5 Lx=Ly=20 pg= 0.840 ids=  25 TEE1=-0.675 TEE2=-0.797 TEE3=-0.792  TEE4=-0.807
+rank=  6 Lx=Ly=20 pg= 0.800 ids=  26 TEE1=-0.427 TEE2=-0.385 TEE3=-0.275  TEE4=-0.090
+rank=  4 Lx=Ly=20 pg= 0.760 ids=  24 TEE1=-0.168 TEE2=-0.015 TEE3= 0.092  TEE4= 0.138
+rank=  1 Lx=Ly=20 pg= 0.860 ids=  21 TEE1=-0.703 TEE2=-0.752 TEE3=-0.735  TEE4=-0.700
+rank= 17 Lx=Ly=20 pg= 0.860 ids=  37 TEE1=-0.735 TEE2=-0.850 TEE3=-0.845  TEE4=-0.828
+rank=  7 Lx=Ly=20 pg= 0.740 ids=  27 TEE1=-0.100 TEE2=-0.003 TEE3= 0.050  TEE4= 0.058
+rank= 14 Lx=Ly=20 pg= 0.800 ids=  34 TEE1=-0.405 TEE2=-0.352 TEE3=-0.230  TEE4=-0.022
+rank=  8 Lx=Ly=20 pg= 0.860 ids=  28 TEE1=-0.725 TEE2=-0.782 TEE3=-0.780  TEE4=-0.812
+rank=  3 Lx=Ly=20 pg= 0.800 ids=  23 TEE1=-0.458 TEE2=-0.480 TEE3=-0.388  TEE4=-0.200
+rank= 10 Lx=Ly=20 pg= 0.860 ids=  30 TEE1=-0.690 TEE2=-0.760 TEE3=-0.748  TEE4=-0.725
+rank= 18 Lx=Ly=20 pg= 0.860 ids=  38 TEE1=-0.730 TEE2=-0.802 TEE3=-0.757  TEE4=-0.743
+rank=  9 Lx=Ly=20 pg= 0.760 ids=  29 TEE1=-0.133 TEE2=-0.030 TEE3= 0.035  TEE4= 0.035
+rank= 19 Lx=Ly=20 pg= 0.760 ids=  39 TEE1=-0.268 TEE2=-0.083 TEE3= 0.025  TEE4= 0.085
+rank= 12 Lx=Ly=20 pg= 0.880 ids=  32 TEE1=-0.738 TEE2=-0.848 TEE3=-0.850  TEE4=-0.858
+rank= 16 Lx=Ly=20 pg= 0.800 ids=  36 TEE1=-0.347 TEE2=-0.177 TEE3= 0.000  TEE4= 0.122
+rank=  2 Lx=Ly=20 pg= 0.820 ids=  22 TEE1=-0.537 TEE2=-0.568 TEE3=-0.542  TEE4=-0.440
+rank= 11 Lx=Ly=20 pg= 0.840 ids=  31 TEE1=-0.700 TEE2=-0.800 TEE3=-0.797  TEE4=-0.723
+rank=  5 Lx=Ly=20 pg= 0.860 ids=  25 TEE1=-0.740 TEE2=-0.820 TEE3=-0.800  TEE4=-0.750
+rank=  6 Lx=Ly=20 pg= 0.820 ids=  26 TEE1=-0.583 TEE2=-0.625 TEE3=-0.557  TEE4=-0.450
+rank= 15 Lx=Ly=20 pg= 0.720 ids=  35 TEE1= 0.018 TEE2= 0.037 TEE3= 0.048  TEE4= 0.030
+rank=  4 Lx=Ly=20 pg= 0.780 ids=  24 TEE1=-0.255 TEE2=-0.160 TEE3=-0.048  TEE4= 0.140
+rank= 17 Lx=Ly=20 pg= 0.880 ids=  37 TEE1=-0.723 TEE2=-0.838 TEE3=-0.838  TEE4=-0.855
+rank= 13 Lx=Ly=20 pg= 0.740 ids=  33 TEE1=-0.113 TEE2= 0.013 TEE3= 0.033  TEE4= 0.040
+rank=  0 Lx=Ly=20 pg= 0.760 ids=  20 TEE1=-0.190 TEE2=-0.048 TEE3= 0.025  TEE4= 0.125
+rank=  7 Lx=Ly=20 pg= 0.760 ids=  27 TEE1=-0.075 TEE2= 0.083 TEE3= 0.140  TEE4= 0.170
+rank= 14 Lx=Ly=20 pg= 0.820 ids=  34 TEE1=-0.583 TEE2=-0.575 TEE3=-0.527  TEE4=-0.477
+rank=  3 Lx=Ly=20 pg= 0.820 ids=  23 TEE1=-0.568 TEE2=-0.585 TEE3=-0.525  TEE4=-0.417
+rank=  8 Lx=Ly=20 pg= 0.880 ids=  28 TEE1=-0.790 TEE2=-0.882 TEE3=-0.863  TEE4=-0.855
+rank= 18 Lx=Ly=20 pg= 0.880 ids=  38 TEE1=-0.693 TEE2=-0.815 TEE3=-0.820  TEE4=-0.845
+rank= 10 Lx=Ly=20 pg= 0.880 ids=  30 TEE1=-0.833 TEE2=-0.930 TEE3=-0.932  TEE4=-0.950
+rank=  1 Lx=Ly=20 pg= 0.880 ids=  21 TEE1=-0.830 TEE2=-0.932 TEE3=-0.932  TEE4=-0.955
+rank= 12 Lx=Ly=20 pg= 0.900 ids=  32 TEE1=-0.895 TEE2=-0.975 TEE3=-0.978  TEE4=-0.985
+rank=  2 Lx=Ly=20 pg= 0.840 ids=  22 TEE1=-0.740 TEE2=-0.840 TEE3=-0.825  TEE4=-0.823
+rank=  5 Lx=Ly=20 pg= 0.880 ids=  25 TEE1=-0.802 TEE2=-0.897 TEE3=-0.895  TEE4=-0.892
+rank=  6 Lx=Ly=20 pg= 0.840 ids=  26 TEE1=-0.720 TEE2=-0.843 TEE3=-0.843  TEE4=-0.833
+rank=  4 Lx=Ly=20 pg= 0.800 ids=  24 TEE1=-0.463 TEE2=-0.415 TEE3=-0.278  TEE4=-0.072
+rank= 17 Lx=Ly=20 pg= 0.900 ids=  37 TEE1=-0.802 TEE2=-0.930 TEE3=-0.938  TEE4=-0.960
+rank=  7 Lx=Ly=20 pg= 0.780 ids=  27 TEE1=-0.407 TEE2=-0.275 TEE3=-0.120  TEE4= 0.022
+rank=  9 Lx=Ly=20 pg= 0.780 ids=  29 TEE1=-0.228 TEE2=-0.085 TEE3= 0.010  TEE4= 0.045
+rank= 19 Lx=Ly=20 pg= 0.780 ids=  39 TEE1=-0.330 TEE2=-0.242 TEE3=-0.095  TEE4= 0.040
+rank= 16 Lx=Ly=20 pg= 0.820 ids=  36 TEE1=-0.552 TEE2=-0.557 TEE3=-0.532  TEE4=-0.450
+rank= 14 Lx=Ly=20 pg= 0.840 ids=  34 TEE1=-0.750 TEE2=-0.865 TEE3=-0.858  TEE4=-0.838
+rank= 11 Lx=Ly=20 pg= 0.860 ids=  31 TEE1=-0.708 TEE2=-0.828 TEE3=-0.833  TEE4=-0.870
+rank= 15 Lx=Ly=20 pg= 0.740 ids=  35 TEE1=-0.080 TEE2= 0.010 TEE3= 0.062  TEE4= 0.068
+rank=  3 Lx=Ly=20 pg= 0.840 ids=  23 TEE1=-0.630 TEE2=-0.703 TEE3=-0.700  TEE4=-0.688
+rank=  8 Lx=Ly=20 pg= 0.900 ids=  28 TEE1=-0.863 TEE2=-0.943 TEE3=-0.945  TEE4=-0.945
+rank= 18 Lx=Ly=20 pg= 0.900 ids=  38 TEE1=-0.845 TEE2=-0.940 TEE3=-0.945  TEE4=-0.963
+rank= 10 Lx=Ly=20 pg= 0.900 ids=  30 TEE1=-0.865 TEE2=-0.958 TEE3=-0.948  TEE4=-0.948
+rank= 12 Lx=Ly=20 pg= 0.700 ids=  52 TEE1= 0.020 TEE2= 0.000 TEE3= 0.000  TEE4= 0.000
+rank=  0 Lx=Ly=20 pg= 0.780 ids=  20 TEE1=-0.335 TEE2=-0.217 TEE3=-0.095  TEE4= 0.000
+rank= 13 Lx=Ly=20 pg= 0.760 ids=  33 TEE1=-0.263 TEE2=-0.175 TEE3=-0.080  TEE4= 0.072
+rank=  2 Lx=Ly=20 pg= 0.860 ids=  22 TEE1=-0.752 TEE2=-0.850 TEE3=-0.840  TEE4=-0.825
+rank=  5 Lx=Ly=20 pg= 0.900 ids=  25 TEE1=-0.863 TEE2=-0.948 TEE3=-0.960  TEE4=-0.963
+rank=  6 Lx=Ly=20 pg= 0.860 ids=  26 TEE1=-0.748 TEE2=-0.892 TEE3=-0.900  TEE4=-0.910
+rank=  4 Lx=Ly=20 pg= 0.820 ids=  24 TEE1=-0.465 TEE2=-0.477 TEE3=-0.407  TEE4=-0.200
+rank= 17 Lx=Ly=20 pg= 0.700 ids=  57 TEE1= 0.005 TEE2= 0.025 TEE3= 0.030  TEE4= 0.015
+rank=  7 Lx=Ly=20 pg= 0.800 ids=  27 TEE1=-0.405 TEE2=-0.400 TEE3=-0.357  TEE4=-0.285
+rank=  1 Lx=Ly=20 pg= 0.900 ids=  21 TEE1=-0.873 TEE2=-0.958 TEE3=-0.960  TEE4=-0.970
+rank= 15 Lx=Ly=20 pg= 0.760 ids=  35 TEE1=-0.105 TEE2=-0.007 TEE3= 0.058  TEE4= 0.058
+rank=  3 Lx=Ly=20 pg= 0.860 ids=  23 TEE1=-0.733 TEE2=-0.830 TEE3=-0.825  TEE4=-0.823
+rank=  8 Lx=Ly=20 pg= 0.700 ids=  48 TEE1=-0.100 TEE2=-0.020 TEE3= 0.043  TEE4= 0.062
+rank= 10 Lx=Ly=20 pg= 0.700 ids=  50 TEE1=-0.007 TEE2= 0.052 TEE3= 0.062  TEE4= 0.048
+rank= 18 Lx=Ly=20 pg= 0.700 ids=  58 TEE1=-0.010 TEE2= 0.033 TEE3= 0.040  TEE4= 0.030
+rank= 12 Lx=Ly=20 pg= 0.720 ids=  52 TEE1=-0.133 TEE2=-0.095 TEE3=-0.048  TEE4=-0.003
+rank=  2 Lx=Ly=20 pg= 0.880 ids=  22 TEE1=-0.835 TEE2=-0.910 TEE3=-0.905  TEE4=-0.880
+rank=  5 Lx=Ly=20 pg= 0.700 ids=  45 TEE1= 0.013 TEE2= 0.025 TEE3= 0.030  TEE4= 0.015
+rank= 19 Lx=Ly=20 pg= 0.800 ids=  39 TEE1=-0.542 TEE2=-0.490 TEE3=-0.370  TEE4=-0.185
+rank=  9 Lx=Ly=20 pg= 0.800 ids=  29 TEE1=-0.448 TEE2=-0.407 TEE3=-0.273  TEE4=-0.070
+rank= 14 Lx=Ly=20 pg= 0.860 ids=  34 TEE1=-0.723 TEE2=-0.845 TEE3=-0.818  TEE4=-0.812
+rank=  6 Lx=Ly=20 pg= 0.880 ids=  26 TEE1=-0.755 TEE2=-0.810 TEE3=-0.805  TEE4=-0.807
+rank= 16 Lx=Ly=20 pg= 0.840 ids=  36 TEE1=-0.728 TEE2=-0.772 TEE3=-0.755  TEE4=-0.700
+rank=  4 Lx=Ly=20 pg= 0.840 ids=  24 TEE1=-0.588 TEE2=-0.645 TEE3=-0.630  TEE4=-0.555
+rank= 17 Lx=Ly=20 pg= 0.720 ids=  57 TEE1= 0.005 TEE2= 0.037 TEE3= 0.092  TEE4= 0.140
+rank= 11 Lx=Ly=20 pg= 0.880 ids=  31 TEE1=-0.767 TEE2=-0.860 TEE3=-0.858  TEE4=-0.845
+rank=  7 Lx=Ly=20 pg= 0.820 ids=  27 TEE1=-0.590 TEE2=-0.630 TEE3=-0.598  TEE4=-0.527
+rank=  0 Lx=Ly=20 pg= 0.800 ids=  20 TEE1=-0.438 TEE2=-0.393 TEE3=-0.330  TEE4=-0.263
+rank= 13 Lx=Ly=20 pg= 0.780 ids=  33 TEE1=-0.440 TEE2=-0.315 TEE3=-0.175  TEE4=-0.045
+rank=  3 Lx=Ly=20 pg= 0.880 ids=  23 TEE1=-0.775 TEE2=-0.895 TEE3=-0.897  TEE4=-0.900
+rank=  8 Lx=Ly=20 pg= 0.720 ids=  48 TEE1=-0.037 TEE2= 0.018 TEE3= 0.072  TEE4= 0.083
+rank= 12 Lx=Ly=20 pg= 0.740 ids=  52 TEE1=-0.182 TEE2=-0.040 TEE3= 0.007  TEE4= 0.033
+rank= 18 Lx=Ly=20 pg= 0.720 ids=  58 TEE1=-0.037 TEE2= 0.045 TEE3= 0.035  TEE4= 0.028

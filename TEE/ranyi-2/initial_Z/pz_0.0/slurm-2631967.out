@@ -1,0 +1,1112 @@
+rank=  1 Lx=Ly=10 pg= 0.000 ids=   1 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  5 Lx=Ly=10 pg= 0.000 ids=   5 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  7 Lx=Ly=10 pg= 0.000 ids=   7 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  9 Lx=Ly=10 pg= 0.000 ids=   9 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 11 Lx=Ly=10 pg= 0.000 ids=  11 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 13 Lx=Ly=10 pg= 0.000 ids=  13 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 15 Lx=Ly=10 pg= 0.000 ids=  15 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 17 Lx=Ly=10 pg= 0.000 ids=  17 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 21 Lx=Ly=10 pg= 0.000 ids=  21 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 23 Lx=Ly=10 pg= 0.000 ids=  23 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 25 Lx=Ly=10 pg= 0.000 ids=  25 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 27 Lx=Ly=10 pg= 0.000 ids=  27 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 29 Lx=Ly=10 pg= 0.000 ids=  29 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 31 Lx=Ly=10 pg= 0.000 ids=  31 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 33 Lx=Ly=10 pg= 0.000 ids=  33 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 35 Lx=Ly=10 pg= 0.000 ids=  35 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 37 Lx=Ly=10 pg= 0.000 ids=  37 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 39 Lx=Ly=10 pg= 0.000 ids=  39 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 41 Lx=Ly=10 pg= 0.000 ids=  41 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 43 Lx=Ly=10 pg= 0.000 ids=  43 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 45 Lx=Ly=10 pg= 0.000 ids=  45 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 47 Lx=Ly=10 pg= 0.000 ids=  47 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 49 Lx=Ly=10 pg= 0.000 ids=  49 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 51 Lx=Ly=10 pg= 0.000 ids=  51 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 53 Lx=Ly=10 pg= 0.000 ids=  53 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 55 Lx=Ly=10 pg= 0.000 ids=  55 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 57 Lx=Ly=10 pg= 0.000 ids=  57 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 59 Lx=Ly=10 pg= 0.000 ids=  59 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 61 Lx=Ly=10 pg= 0.000 ids=  61 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 63 Lx=Ly=10 pg= 0.000 ids=  63 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 65 Lx=Ly=10 pg= 0.000 ids=  65 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 67 Lx=Ly=10 pg= 0.000 ids=  67 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 69 Lx=Ly=10 pg= 0.000 ids=  69 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 71 Lx=Ly=10 pg= 0.000 ids=  71 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 73 Lx=Ly=10 pg= 0.000 ids=  73 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 75 Lx=Ly=10 pg= 0.000 ids=  75 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 77 Lx=Ly=10 pg= 0.000 ids=  77 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 79 Lx=Ly=10 pg= 0.000 ids=  79 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 81 Lx=Ly=10 pg= 0.000 ids=  81 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 83 Lx=Ly=10 pg= 0.000 ids=  83 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 85 Lx=Ly=10 pg= 0.000 ids=  85 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 87 Lx=Ly=10 pg= 0.000 ids=  87 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 89 Lx=Ly=10 pg= 0.000 ids=  89 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 91 Lx=Ly=10 pg= 0.000 ids=  91 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 95 Lx=Ly=10 pg= 0.000 ids=  95 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 97 Lx=Ly=10 pg= 0.000 ids=  97 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=101 Lx=Ly=10 pg= 0.100 ids=   1 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=103 Lx=Ly=10 pg= 0.100 ids=   3 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=105 Lx=Ly=10 pg= 0.100 ids=   5 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=109 Lx=Ly=10 pg= 0.100 ids=   9 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=111 Lx=Ly=10 pg= 0.100 ids=  11 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=113 Lx=Ly=10 pg= 0.100 ids=  13 TEE= 0 R2x= 0.900 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=115 Lx=Ly=10 pg= 0.100 ids=  15 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=117 Lx=Ly=10 pg= 0.100 ids=  17 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=119 Lx=Ly=10 pg= 0.100 ids=  19 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=121 Lx=Ly=10 pg= 0.100 ids=  21 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=123 Lx=Ly=10 pg= 0.100 ids=  23 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  2 Lx=Ly=10 pg= 0.000 ids=   2 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  0 Lx=Ly=10 pg= 0.000 ids=   0 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 28 Lx=Ly=10 pg= 0.000 ids=  28 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 24 Lx=Ly=10 pg= 0.000 ids=  24 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 30 Lx=Ly=10 pg= 0.000 ids=  30 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 93 Lx=Ly=10 pg= 0.000 ids=  93 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  6 Lx=Ly=10 pg= 0.000 ids=   6 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 12 Lx=Ly=10 pg= 0.000 ids=  12 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 10 Lx=Ly=10 pg= 0.000 ids=  10 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 14 Lx=Ly=10 pg= 0.000 ids=  14 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 18 Lx=Ly=10 pg= 0.000 ids=  18 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 16 Lx=Ly=10 pg= 0.000 ids=  16 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 20 Lx=Ly=10 pg= 0.000 ids=  20 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  8 Lx=Ly=10 pg= 0.000 ids=   8 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 48 Lx=Ly=10 pg= 0.000 ids=  48 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 78 Lx=Ly=10 pg= 0.000 ids=  78 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 22 Lx=Ly=10 pg= 0.000 ids=  22 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 32 Lx=Ly=10 pg= 0.000 ids=  32 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 58 Lx=Ly=10 pg= 0.000 ids=  58 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 50 Lx=Ly=10 pg= 0.000 ids=  50 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 60 Lx=Ly=10 pg= 0.000 ids=  60 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 62 Lx=Ly=10 pg= 0.000 ids=  62 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 74 Lx=Ly=10 pg= 0.000 ids=  74 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 76 Lx=Ly=10 pg= 0.000 ids=  76 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 52 Lx=Ly=10 pg= 0.000 ids=  52 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=125 Lx=Ly=10 pg= 0.100 ids=  25 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 86 Lx=Ly=10 pg= 0.000 ids=  86 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 96 Lx=Ly=10 pg= 0.000 ids=  96 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 44 Lx=Ly=10 pg= 0.000 ids=  44 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 46 Lx=Ly=10 pg= 0.000 ids=  46 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=127 Lx=Ly=10 pg= 0.100 ids=  27 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 40 Lx=Ly=10 pg= 0.000 ids=  40 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 42 Lx=Ly=10 pg= 0.000 ids=  42 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 38 Lx=Ly=10 pg= 0.000 ids=  38 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 34 Lx=Ly=10 pg= 0.000 ids=  34 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 64 Lx=Ly=10 pg= 0.000 ids=  64 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 66 Lx=Ly=10 pg= 0.000 ids=  66 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 68 Lx=Ly=10 pg= 0.000 ids=  68 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 70 Lx=Ly=10 pg= 0.000 ids=  70 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 80 Lx=Ly=10 pg= 0.000 ids=  80 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 82 Lx=Ly=10 pg= 0.000 ids=  82 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 88 Lx=Ly=10 pg= 0.000 ids=  88 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 92 Lx=Ly=10 pg= 0.000 ids=  92 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 94 Lx=Ly=10 pg= 0.000 ids=  94 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 56 Lx=Ly=10 pg= 0.000 ids=  56 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 72 Lx=Ly=10 pg= 0.000 ids=  72 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 90 Lx=Ly=10 pg= 0.000 ids=  90 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 84 Lx=Ly=10 pg= 0.000 ids=  84 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 98 Lx=Ly=10 pg= 0.000 ids=  98 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=112 Lx=Ly=10 pg= 0.100 ids=  12 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=120 Lx=Ly=10 pg= 0.100 ids=  20 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=102 Lx=Ly=10 pg= 0.100 ids=   2 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=100 Lx=Ly=10 pg= 0.100 ids=   0 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=126 Lx=Ly=10 pg= 0.100 ids=  26 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=110 Lx=Ly=10 pg= 0.100 ids=  10 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=122 Lx=Ly=10 pg= 0.100 ids=  22 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=118 Lx=Ly=10 pg= 0.100 ids=  18 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=114 Lx=Ly=10 pg= 0.100 ids=  14 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=116 Lx=Ly=10 pg= 0.100 ids=  16 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=124 Lx=Ly=10 pg= 0.100 ids=  24 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=106 Lx=Ly=10 pg= 0.100 ids=   6 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 36 Lx=Ly=10 pg= 0.000 ids=  36 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 26 Lx=Ly=10 pg= 0.000 ids=  26 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 54 Lx=Ly=10 pg= 0.000 ids=  54 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  3 Lx=Ly=10 pg= 0.000 ids=   3 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=108 Lx=Ly=10 pg= 0.100 ids=   8 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=107 Lx=Ly=10 pg= 0.100 ids=   7 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 99 Lx=Ly=10 pg= 0.000 ids=  99 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  4 Lx=Ly=10 pg= 0.000 ids=   4 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=104 Lx=Ly=10 pg= 0.100 ids=   4 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 19 Lx=Ly=10 pg= 0.000 ids=  19 TEE= 0 R2x= 1.000 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 23 Lx=Ly=10 pg= 0.100 ids=  51 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 21 Lx=Ly=10 pg= 0.100 ids=  49 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 41 Lx=Ly=10 pg= 0.100 ids=  69 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 15 Lx=Ly=10 pg= 0.100 ids=  43 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 47 Lx=Ly=10 pg= 0.100 ids=  75 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 65 Lx=Ly=10 pg= 0.100 ids=  93 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  9 Lx=Ly=10 pg= 0.100 ids=  37 TEE= 0 R2x= 0.900 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  1 Lx=Ly=10 pg= 0.100 ids=  29 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 29 Lx=Ly=10 pg= 0.100 ids=  57 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 67 Lx=Ly=10 pg= 0.100 ids=  95 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 69 Lx=Ly=10 pg= 0.100 ids=  97 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 17 Lx=Ly=10 pg= 0.100 ids=  45 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 27 Lx=Ly=10 pg= 0.100 ids=  55 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 11 Lx=Ly=10 pg= 0.100 ids=  39 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 71 Lx=Ly=10 pg= 0.100 ids=  99 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 43 Lx=Ly=10 pg= 0.100 ids=  71 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 37 Lx=Ly=10 pg= 0.100 ids=  65 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 33 Lx=Ly=10 pg= 0.100 ids=  61 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  5 Lx=Ly=10 pg= 0.100 ids=  33 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 13 Lx=Ly=10 pg= 0.100 ids=  41 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 35 Lx=Ly=10 pg= 0.100 ids=  63 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 39 Lx=Ly=10 pg= 0.100 ids=  67 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 25 Lx=Ly=10 pg= 0.100 ids=  53 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=115 Lx=Ly=10 pg= 0.200 ids=  43 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 45 Lx=Ly=10 pg= 0.100 ids=  73 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 53 Lx=Ly=10 pg= 0.100 ids=  81 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 57 Lx=Ly=10 pg= 0.100 ids=  85 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 63 Lx=Ly=10 pg= 0.100 ids=  91 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  7 Lx=Ly=10 pg= 0.100 ids=  35 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 49 Lx=Ly=10 pg= 0.100 ids=  77 TEE= 0 R2x= 0.900 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 51 Lx=Ly=10 pg= 0.100 ids=  79 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 55 Lx=Ly=10 pg= 0.100 ids=  83 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 75 Lx=Ly=10 pg= 0.200 ids=   3 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 77 Lx=Ly=10 pg= 0.200 ids=   5 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 79 Lx=Ly=10 pg= 0.200 ids=   7 TEE= 0 R2x= 0.811 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 89 Lx=Ly=10 pg= 0.200 ids=  17 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 91 Lx=Ly=10 pg= 0.200 ids=  19 TEE= 0 R2x= 0.711 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 95 Lx=Ly=10 pg= 0.200 ids=  23 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=111 Lx=Ly=10 pg= 0.200 ids=  39 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=117 Lx=Ly=10 pg= 0.200 ids=  45 TEE= 0 R2x= 0.822 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=119 Lx=Ly=10 pg= 0.200 ids=  47 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 83 Lx=Ly=10 pg= 0.200 ids=  11 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 87 Lx=Ly=10 pg= 0.200 ids=  15 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 59 Lx=Ly=10 pg= 0.100 ids=  87 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=123 Lx=Ly=10 pg= 0.200 ids=  51 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 61 Lx=Ly=10 pg= 0.100 ids=  89 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=121 Lx=Ly=10 pg= 0.200 ids=  49 TEE= 0 R2x= 0.733 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=105 Lx=Ly=10 pg= 0.200 ids=  33 TEE= 0 R2x= 0.900 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 85 Lx=Ly=10 pg= 0.200 ids=  13 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=109 Lx=Ly=10 pg= 0.200 ids=  37 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 97 Lx=Ly=10 pg= 0.200 ids=  25 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=103 Lx=Ly=10 pg= 0.200 ids=  31 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=101 Lx=Ly=10 pg= 0.200 ids=  29 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=125 Lx=Ly=10 pg= 0.200 ids=  53 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 12 Lx=Ly=10 pg= 0.100 ids=  40 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 30 Lx=Ly=10 pg= 0.100 ids=  58 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=127 Lx=Ly=10 pg= 0.200 ids=  55 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 14 Lx=Ly=10 pg= 0.100 ids=  42 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 10 Lx=Ly=10 pg= 0.100 ids=  38 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 18 Lx=Ly=10 pg= 0.100 ids=  46 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 24 Lx=Ly=10 pg= 0.100 ids=  52 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 28 Lx=Ly=10 pg= 0.100 ids=  56 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  2 Lx=Ly=10 pg= 0.100 ids=  30 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 20 Lx=Ly=10 pg= 0.100 ids=  48 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 16 Lx=Ly=10 pg= 0.100 ids=  44 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  0 Lx=Ly=10 pg= 0.100 ids=  28 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 73 Lx=Ly=10 pg= 0.200 ids=   1 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  8 Lx=Ly=10 pg= 0.100 ids=  36 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 22 Lx=Ly=10 pg= 0.100 ids=  50 TEE= 0 R2x= 0.833 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 60 Lx=Ly=10 pg= 0.100 ids=  88 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 62 Lx=Ly=10 pg= 0.100 ids=  90 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  6 Lx=Ly=10 pg= 0.100 ids=  34 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 48 Lx=Ly=10 pg= 0.100 ids=  76 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 52 Lx=Ly=10 pg= 0.100 ids=  80 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 58 Lx=Ly=10 pg= 0.100 ids=  86 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 50 Lx=Ly=10 pg= 0.100 ids=  78 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 32 Lx=Ly=10 pg= 0.100 ids=  60 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 46 Lx=Ly=10 pg= 0.100 ids=  74 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 40 Lx=Ly=10 pg= 0.100 ids=  68 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 78 Lx=Ly=10 pg= 0.200 ids=   6 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 44 Lx=Ly=10 pg= 0.100 ids=  72 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 42 Lx=Ly=10 pg= 0.100 ids=  70 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 68 Lx=Ly=10 pg= 0.100 ids=  96 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 86 Lx=Ly=10 pg= 0.200 ids=  14 TEE= 0 R2x= 0.833 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 70 Lx=Ly=10 pg= 0.100 ids=  98 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 66 Lx=Ly=10 pg= 0.100 ids=  94 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 38 Lx=Ly=10 pg= 0.100 ids=  66 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 76 Lx=Ly=10 pg= 0.200 ids=   4 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 34 Lx=Ly=10 pg= 0.100 ids=  62 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 88 Lx=Ly=10 pg= 0.200 ids=  16 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 92 Lx=Ly=10 pg= 0.200 ids=  20 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  3 Lx=Ly=10 pg= 0.100 ids=  31 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 74 Lx=Ly=10 pg= 0.200 ids=   2 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 82 Lx=Ly=10 pg= 0.200 ids=  10 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 96 Lx=Ly=10 pg= 0.200 ids=  24 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 80 Lx=Ly=10 pg= 0.200 ids=   8 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 84 Lx=Ly=10 pg= 0.200 ids=  12 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=113 Lx=Ly=10 pg= 0.200 ids=  41 TEE= 0 R2x= 0.756 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 64 Lx=Ly=10 pg= 0.100 ids=  92 TEE= 0 R2x= 0.900 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 72 Lx=Ly=10 pg= 0.200 ids=   0 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=112 Lx=Ly=10 pg= 0.200 ids=  40 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=118 Lx=Ly=10 pg= 0.200 ids=  46 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=120 Lx=Ly=10 pg= 0.200 ids=  48 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=126 Lx=Ly=10 pg= 0.200 ids=  54 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 94 Lx=Ly=10 pg= 0.200 ids=  22 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 98 Lx=Ly=10 pg= 0.200 ids=  26 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 26 Lx=Ly=10 pg= 0.100 ids=  54 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=110 Lx=Ly=10 pg= 0.200 ids=  38 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=122 Lx=Ly=10 pg= 0.200 ids=  50 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=102 Lx=Ly=10 pg= 0.200 ids=  30 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=114 Lx=Ly=10 pg= 0.200 ids=  42 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=106 Lx=Ly=10 pg= 0.200 ids=  34 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=116 Lx=Ly=10 pg= 0.200 ids=  44 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=124 Lx=Ly=10 pg= 0.200 ids=  52 TEE= 0 R2x= 0.711 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 93 Lx=Ly=10 pg= 0.200 ids=  21 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 90 Lx=Ly=10 pg= 0.200 ids=  18 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 36 Lx=Ly=10 pg= 0.100 ids=  64 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=100 Lx=Ly=10 pg= 0.200 ids=  28 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=108 Lx=Ly=10 pg= 0.200 ids=  36 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 81 Lx=Ly=10 pg= 0.200 ids=   9 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=107 Lx=Ly=10 pg= 0.200 ids=  35 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 54 Lx=Ly=10 pg= 0.100 ids=  82 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 31 Lx=Ly=10 pg= 0.100 ids=  59 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 99 Lx=Ly=10 pg= 0.200 ids=  27 TEE= 0 R2x= 0.667 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 56 Lx=Ly=10 pg= 0.100 ids=  84 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  4 Lx=Ly=10 pg= 0.100 ids=  32 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=104 Lx=Ly=10 pg= 0.200 ids=  32 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 19 Lx=Ly=10 pg= 0.100 ids=  47 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 15 Lx=Ly=10 pg= 0.200 ids=  71 TEE= 0 R2x= 0.689 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  9 Lx=Ly=10 pg= 0.200 ids=  65 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  1 Lx=Ly=10 pg= 0.200 ids=  57 TEE= 0 R2x= 0.833 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 13 Lx=Ly=10 pg= 0.200 ids=  69 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 23 Lx=Ly=10 pg= 0.200 ids=  79 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 47 Lx=Ly=10 pg= 0.300 ids=   3 TEE= 0 R2x= 0.811 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 21 Lx=Ly=10 pg= 0.200 ids=  77 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 27 Lx=Ly=10 pg= 0.200 ids=  83 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 39 Lx=Ly=10 pg= 0.200 ids=  95 TEE= 0 R2x= 0.733 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 37 Lx=Ly=10 pg= 0.200 ids=  93 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 65 Lx=Ly=10 pg= 0.300 ids=  21 TEE= 0 R2x= 0.700 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  5 Lx=Ly=10 pg= 0.200 ids=  61 TEE= 0 R2x= 0.967 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 35 Lx=Ly=10 pg= 0.200 ids=  91 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 25 Lx=Ly=10 pg= 0.200 ids=  81 TEE= 0 R2x= 0.822 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 33 Lx=Ly=10 pg= 0.200 ids=  89 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 17 Lx=Ly=10 pg= 0.200 ids=  73 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 67 Lx=Ly=10 pg= 0.300 ids=  23 TEE= 0 R2x= 0.711 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 69 Lx=Ly=10 pg= 0.300 ids=  25 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 45 Lx=Ly=10 pg= 0.300 ids=   1 TEE= 0 R2x= 0.733 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=111 Lx=Ly=10 pg= 0.300 ids=  67 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 11 Lx=Ly=10 pg= 0.200 ids=  67 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 53 Lx=Ly=10 pg= 0.300 ids=   9 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 77 Lx=Ly=10 pg= 0.300 ids=  33 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 57 Lx=Ly=10 pg= 0.300 ids=  13 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 63 Lx=Ly=10 pg= 0.300 ids=  19 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 51 Lx=Ly=10 pg= 0.300 ids=   7 TEE= 0 R2x= 0.711 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 75 Lx=Ly=10 pg= 0.300 ids=  31 TEE= 0 R2x= 0.700 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 49 Lx=Ly=10 pg= 0.300 ids=   5 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 55 Lx=Ly=10 pg= 0.300 ids=  11 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=123 Lx=Ly=10 pg= 0.300 ids=  79 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 79 Lx=Ly=10 pg= 0.300 ids=  35 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=115 Lx=Ly=10 pg= 0.300 ids=  71 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 29 Lx=Ly=10 pg= 0.200 ids=  85 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=117 Lx=Ly=10 pg= 0.300 ids=  73 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 83 Lx=Ly=10 pg= 0.300 ids=  39 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 87 Lx=Ly=10 pg= 0.300 ids=  43 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 91 Lx=Ly=10 pg= 0.300 ids=  47 TEE= 0 R2x= 0.667 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 89 Lx=Ly=10 pg= 0.300 ids=  45 TEE= 0 R2x= 0.811 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=105 Lx=Ly=10 pg= 0.300 ids=  61 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=119 Lx=Ly=10 pg= 0.300 ids=  75 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 95 Lx=Ly=10 pg= 0.300 ids=  51 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=109 Lx=Ly=10 pg= 0.300 ids=  65 TEE= 0 R2x= 0.656 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 61 Lx=Ly=10 pg= 0.300 ids=  17 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 59 Lx=Ly=10 pg= 0.300 ids=  15 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=121 Lx=Ly=10 pg= 0.300 ids=  77 TEE= 0 R2x= 0.833 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=101 Lx=Ly=10 pg= 0.300 ids=  57 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=103 Lx=Ly=10 pg= 0.300 ids=  59 TEE= 0 R2x= 0.811 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 85 Lx=Ly=10 pg= 0.300 ids=  41 TEE= 0 R2x= 0.700 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 97 Lx=Ly=10 pg= 0.300 ids=  53 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=125 Lx=Ly=10 pg= 0.300 ids=  81 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 71 Lx=Ly=10 pg= 0.300 ids=  27 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  7 Lx=Ly=10 pg= 0.200 ids=  63 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 30 Lx=Ly=10 pg= 0.200 ids=  86 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 28 Lx=Ly=10 pg= 0.200 ids=  84 TEE= 0 R2x= 0.733 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 24 Lx=Ly=10 pg= 0.200 ids=  80 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 10 Lx=Ly=10 pg= 0.200 ids=  66 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 18 Lx=Ly=10 pg= 0.200 ids=  74 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 14 Lx=Ly=10 pg= 0.200 ids=  70 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 20 Lx=Ly=10 pg= 0.200 ids=  76 TEE= 0 R2x= 0.978 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  2 Lx=Ly=10 pg= 0.200 ids=  58 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  0 Lx=Ly=10 pg= 0.200 ids=  56 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 16 Lx=Ly=10 pg= 0.200 ids=  72 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  8 Lx=Ly=10 pg= 0.200 ids=  64 TEE= 0 R2x= 0.989 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 22 Lx=Ly=10 pg= 0.200 ids=  78 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=127 Lx=Ly=10 pg= 0.300 ids=  83 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=113 Lx=Ly=10 pg= 0.300 ids=  69 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 52 Lx=Ly=10 pg= 0.300 ids=   8 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 48 Lx=Ly=10 pg= 0.300 ids=   4 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 62 Lx=Ly=10 pg= 0.300 ids=  18 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  6 Lx=Ly=10 pg= 0.200 ids=  62 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 32 Lx=Ly=10 pg= 0.200 ids=  88 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 60 Lx=Ly=10 pg= 0.300 ids=  16 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 43 Lx=Ly=10 pg= 0.200 ids=  99 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 58 Lx=Ly=10 pg= 0.300 ids=  14 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 50 Lx=Ly=10 pg= 0.300 ids=   6 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 40 Lx=Ly=10 pg= 0.200 ids=  96 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 42 Lx=Ly=10 pg= 0.200 ids=  98 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 41 Lx=Ly=10 pg= 0.200 ids=  97 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 12 Lx=Ly=10 pg= 0.200 ids=  68 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 34 Lx=Ly=10 pg= 0.200 ids=  90 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 38 Lx=Ly=10 pg= 0.200 ids=  94 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 86 Lx=Ly=10 pg= 0.300 ids=  42 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 44 Lx=Ly=10 pg= 0.300 ids=   0 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 78 Lx=Ly=10 pg= 0.300 ids=  34 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 46 Lx=Ly=10 pg= 0.300 ids=   2 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 88 Lx=Ly=10 pg= 0.300 ids=  44 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 68 Lx=Ly=10 pg= 0.300 ids=  24 TEE= 0 R2x= 0.611 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 70 Lx=Ly=10 pg= 0.300 ids=  26 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 92 Lx=Ly=10 pg= 0.300 ids=  48 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 76 Lx=Ly=10 pg= 0.300 ids=  32 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 96 Lx=Ly=10 pg= 0.300 ids=  52 TEE= 0 R2x= 0.656 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 66 Lx=Ly=10 pg= 0.300 ids=  22 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 93 Lx=Ly=10 pg= 0.300 ids=  49 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 80 Lx=Ly=10 pg= 0.300 ids=  36 TEE= 0 R2x= 0.733 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=120 Lx=Ly=10 pg= 0.300 ids=  76 TEE= 0 R2x= 0.722 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 98 Lx=Ly=10 pg= 0.300 ids=  54 TEE= 0 R2x= 0.811 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=118 Lx=Ly=10 pg= 0.300 ids=  74 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 64 Lx=Ly=10 pg= 0.300 ids=  20 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 84 Lx=Ly=10 pg= 0.300 ids=  40 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=114 Lx=Ly=10 pg= 0.300 ids=  70 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=102 Lx=Ly=10 pg= 0.300 ids=  58 TEE= 0 R2x= 0.722 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 72 Lx=Ly=10 pg= 0.300 ids=  28 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=112 Lx=Ly=10 pg= 0.300 ids=  68 TEE= 0 R2x= 0.711 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=116 Lx=Ly=10 pg= 0.300 ids=  72 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 94 Lx=Ly=10 pg= 0.300 ids=  50 TEE= 0 R2x= 0.756 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=122 Lx=Ly=10 pg= 0.300 ids=  78 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=107 Lx=Ly=10 pg= 0.300 ids=  63 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 82 Lx=Ly=10 pg= 0.300 ids=  38 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 90 Lx=Ly=10 pg= 0.300 ids=  46 TEE= 0 R2x= 0.822 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=106 Lx=Ly=10 pg= 0.300 ids=  62 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=110 Lx=Ly=10 pg= 0.300 ids=  66 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=124 Lx=Ly=10 pg= 0.300 ids=  80 TEE= 0 R2x= 0.944 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 36 Lx=Ly=10 pg= 0.200 ids=  92 TEE= 0 R2x= 0.833 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=126 Lx=Ly=10 pg= 0.300 ids=  82 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 73 Lx=Ly=10 pg= 0.300 ids=  29 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  3 Lx=Ly=10 pg= 0.200 ids=  59 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=108 Lx=Ly=10 pg= 0.300 ids=  64 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=100 Lx=Ly=10 pg= 0.300 ids=  56 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 74 Lx=Ly=10 pg= 0.300 ids=  30 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 54 Lx=Ly=10 pg= 0.300 ids=  10 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 99 Lx=Ly=10 pg= 0.300 ids=  55 TEE= 0 R2x= 0.756 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 26 Lx=Ly=10 pg= 0.200 ids=  82 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 81 Lx=Ly=10 pg= 0.300 ids=  37 TEE= 0 R2x= 0.900 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 56 Lx=Ly=10 pg= 0.300 ids=  12 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 19 Lx=Ly=10 pg= 0.200 ids=  75 TEE= 0 R2x= 0.756 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=104 Lx=Ly=10 pg= 0.300 ids=  60 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  4 Lx=Ly=10 pg= 0.200 ids=  60 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 31 Lx=Ly=10 pg= 0.200 ids=  87 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  9 Lx=Ly=10 pg= 0.300 ids=  93 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 15 Lx=Ly=10 pg= 0.300 ids=  99 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  1 Lx=Ly=10 pg= 0.300 ids=  85 TEE= 0 R2x= 0.811 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 13 Lx=Ly=10 pg= 0.300 ids=  97 TEE= 0 R2x= 0.933 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 47 Lx=Ly=10 pg= 0.400 ids=  31 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 67 Lx=Ly=10 pg= 0.400 ids=  51 TEE= 0 R2x= 0.722 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 65 Lx=Ly=10 pg= 0.400 ids=  49 TEE= 0 R2x= 0.644 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 23 Lx=Ly=10 pg= 0.400 ids=   7 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 17 Lx=Ly=10 pg= 0.400 ids=   1 TEE= 0 R2x= 0.711 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 21 Lx=Ly=10 pg= 0.400 ids=   5 TEE= 0 R2x= 0.689 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  5 Lx=Ly=10 pg= 0.300 ids=  89 TEE= 0 R2x= 0.822 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 37 Lx=Ly=10 pg= 0.400 ids=  21 TEE= 0 R2x= 0.533 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 39 Lx=Ly=10 pg= 0.400 ids=  23 TEE= 0 R2x= 0.489 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 27 Lx=Ly=10 pg= 0.400 ids=  11 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=111 Lx=Ly=10 pg= 0.400 ids=  95 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 11 Lx=Ly=10 pg= 0.300 ids=  95 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 25 Lx=Ly=10 pg= 0.400 ids=   9 TEE= 0 R2x= 0.833 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 35 Lx=Ly=10 pg= 0.400 ids=  19 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 69 Lx=Ly=10 pg= 0.400 ids=  53 TEE= 0 R2x= 0.544 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 45 Lx=Ly=10 pg= 0.400 ids=  29 TEE= 0 R2x= 0.644 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 33 Lx=Ly=10 pg= 0.400 ids=  17 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 53 Lx=Ly=10 pg= 0.400 ids=  37 TEE= 0 R2x= 0.811 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 83 Lx=Ly=10 pg= 0.400 ids=  67 TEE= 0 R2x= 0.689 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=115 Lx=Ly=10 pg= 0.400 ids=  99 TEE= 0 R2x= 0.900 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=105 Lx=Ly=10 pg= 0.400 ids=  89 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 57 Lx=Ly=10 pg= 0.400 ids=  41 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 87 Lx=Ly=10 pg= 0.400 ids=  71 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 29 Lx=Ly=10 pg= 0.400 ids=  13 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 89 Lx=Ly=10 pg= 0.400 ids=  73 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 49 Lx=Ly=10 pg= 0.400 ids=  33 TEE= 0 R2x= 0.767 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 51 Lx=Ly=10 pg= 0.400 ids=  35 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 75 Lx=Ly=10 pg= 0.400 ids=  59 TEE= 0 R2x= 0.622 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 55 Lx=Ly=10 pg= 0.400 ids=  39 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=117 Lx=Ly=10 pg= 0.500 ids=   1 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 91 Lx=Ly=10 pg= 0.400 ids=  75 TEE= 0 R2x= 0.533 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 79 Lx=Ly=10 pg= 0.400 ids=  63 TEE= 0 R2x= 0.667 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 95 Lx=Ly=10 pg= 0.400 ids=  79 TEE= 0 R2x= 0.611 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 63 Lx=Ly=10 pg= 0.400 ids=  47 TEE= 0 R2x= 0.556 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=109 Lx=Ly=10 pg= 0.400 ids=  93 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=119 Lx=Ly=10 pg= 0.500 ids=   3 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=123 Lx=Ly=10 pg= 0.500 ids=   7 TEE= 0 R2x= 0.511 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 61 Lx=Ly=10 pg= 0.400 ids=  45 TEE= 0 R2x= 0.622 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=101 Lx=Ly=10 pg= 0.400 ids=  85 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 59 Lx=Ly=10 pg= 0.400 ids=  43 TEE= 0 R2x= 0.700 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=103 Lx=Ly=10 pg= 0.400 ids=  87 TEE= 0 R2x= 0.667 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  7 Lx=Ly=10 pg= 0.300 ids=  91 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 85 Lx=Ly=10 pg= 0.400 ids=  69 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=121 Lx=Ly=10 pg= 0.500 ids=   5 TEE= 0 R2x= 0.611 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 97 Lx=Ly=10 pg= 0.400 ids=  81 TEE= 0 R2x= 0.456 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=125 Lx=Ly=10 pg= 0.500 ids=   9 TEE= 0 R2x= 0.511 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 30 Lx=Ly=10 pg= 0.400 ids=  14 TEE= 0 R2x= 0.711 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 71 Lx=Ly=10 pg= 0.400 ids=  55 TEE= 0 R2x= 0.644 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 28 Lx=Ly=10 pg= 0.400 ids=  12 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 24 Lx=Ly=10 pg= 0.400 ids=   8 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 10 Lx=Ly=10 pg= 0.300 ids=  94 TEE= 0 R2x= 0.700 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 14 Lx=Ly=10 pg= 0.300 ids=  98 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  2 Lx=Ly=10 pg= 0.300 ids=  86 TEE= 0 R2x= 0.867 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 18 Lx=Ly=10 pg= 0.400 ids=   2 TEE= 0 R2x= 0.533 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 77 Lx=Ly=10 pg= 0.400 ids=  61 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 43 Lx=Ly=10 pg= 0.400 ids=  27 TEE= 0 R2x= 0.733 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 20 Lx=Ly=10 pg= 0.400 ids=   4 TEE= 0 R2x= 0.733 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  0 Lx=Ly=10 pg= 0.300 ids=  84 TEE= 0 R2x= 0.956 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 16 Lx=Ly=10 pg= 0.400 ids=   0 TEE= 0 R2x= 0.467 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  8 Lx=Ly=10 pg= 0.300 ids=  92 TEE= 0 R2x= 0.911 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=113 Lx=Ly=10 pg= 0.400 ids=  97 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 22 Lx=Ly=10 pg= 0.400 ids=   6 TEE= 0 R2x= 0.578 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  6 Lx=Ly=10 pg= 0.300 ids=  90 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=127 Lx=Ly=10 pg= 0.500 ids=  11 TEE= 0 R2x= 0.267 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 58 Lx=Ly=10 pg= 0.400 ids=  42 TEE= 0 R2x= 0.656 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 62 Lx=Ly=10 pg= 0.400 ids=  46 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 60 Lx=Ly=10 pg= 0.400 ids=  44 TEE= 0 R2x= 0.656 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 48 Lx=Ly=10 pg= 0.400 ids=  32 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 52 Lx=Ly=10 pg= 0.400 ids=  36 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 32 Lx=Ly=10 pg= 0.400 ids=  16 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 42 Lx=Ly=10 pg= 0.400 ids=  26 TEE= 0 R2x= 0.811 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=107 Lx=Ly=10 pg= 0.400 ids=  91 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 50 Lx=Ly=10 pg= 0.400 ids=  34 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 40 Lx=Ly=10 pg= 0.400 ids=  24 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 34 Lx=Ly=10 pg= 0.400 ids=  18 TEE= 0 R2x= 0.578 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 46 Lx=Ly=10 pg= 0.400 ids=  30 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 44 Lx=Ly=10 pg= 0.400 ids=  28 TEE= 0 R2x= 0.556 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 78 Lx=Ly=10 pg= 0.400 ids=  62 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 93 Lx=Ly=10 pg= 0.400 ids=  77 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 86 Lx=Ly=10 pg= 0.400 ids=  70 TEE= 0 R2x= 0.722 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 96 Lx=Ly=10 pg= 0.400 ids=  80 TEE= 0 R2x= 0.622 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 38 Lx=Ly=10 pg= 0.400 ids=  22 TEE= 0 R2x= 0.622 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 88 Lx=Ly=10 pg= 0.400 ids=  72 TEE= 0 R2x= 0.722 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 12 Lx=Ly=10 pg= 0.300 ids=  96 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 70 Lx=Ly=10 pg= 0.400 ids=  54 TEE= 0 R2x= 0.633 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 68 Lx=Ly=10 pg= 0.400 ids=  52 TEE= 0 R2x= 0.689 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 76 Lx=Ly=10 pg= 0.400 ids=  60 TEE= 0 R2x= 0.633 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 98 Lx=Ly=10 pg= 0.400 ids=  82 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 80 Lx=Ly=10 pg= 0.400 ids=  64 TEE= 0 R2x= 0.611 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=102 Lx=Ly=10 pg= 0.400 ids=  86 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=114 Lx=Ly=10 pg= 0.400 ids=  98 TEE= 0 R2x= 0.800 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=120 Lx=Ly=10 pg= 0.500 ids=   4 TEE= 0 R2x= 0.567 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  3 Lx=Ly=10 pg= 0.300 ids=  87 TEE= 0 R2x= 0.889 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 72 Lx=Ly=10 pg= 0.400 ids=  56 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=118 Lx=Ly=10 pg= 0.500 ids=   2 TEE= 0 R2x= 0.433 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=112 Lx=Ly=10 pg= 0.400 ids=  96 TEE= 0 R2x= 0.467 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 64 Lx=Ly=10 pg= 0.400 ids=  48 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 94 Lx=Ly=10 pg= 0.400 ids=  78 TEE= 0 R2x= 0.922 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=106 Lx=Ly=10 pg= 0.400 ids=  90 TEE= 0 R2x= 0.700 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=110 Lx=Ly=10 pg= 0.400 ids=  94 TEE= 0 R2x= 0.722 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=116 Lx=Ly=10 pg= 0.500 ids=   0 TEE= 0 R2x= 0.522 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 84 Lx=Ly=10 pg= 0.400 ids=  68 TEE= 0 R2x= 0.633 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 92 Lx=Ly=10 pg= 0.400 ids=  76 TEE= 0 R2x= 0.633 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 82 Lx=Ly=10 pg= 0.400 ids=  66 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=122 Lx=Ly=10 pg= 0.500 ids=   6 TEE= 0 R2x= 0.489 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=124 Lx=Ly=10 pg= 0.500 ids=   8 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 90 Lx=Ly=10 pg= 0.400 ids=  74 TEE= 0 R2x= 0.778 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 66 Lx=Ly=10 pg= 0.400 ids=  50 TEE= 0 R2x= 0.656 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=126 Lx=Ly=10 pg= 0.500 ids=  10 TEE= 0 R2x= 0.411 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=108 Lx=Ly=10 pg= 0.400 ids=  92 TEE= 0 R2x= 0.633 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 74 Lx=Ly=10 pg= 0.400 ids=  58 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=100 Lx=Ly=10 pg= 0.400 ids=  84 TEE= 0 R2x= 0.422 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 73 Lx=Ly=10 pg= 0.400 ids=  57 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 36 Lx=Ly=10 pg= 0.400 ids=  20 TEE= 0 R2x= 0.878 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 54 Lx=Ly=10 pg= 0.400 ids=  38 TEE= 0 R2x= 0.611 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 99 Lx=Ly=10 pg= 0.400 ids=  83 TEE= 0 R2x= 0.667 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 41 Lx=Ly=10 pg= 0.400 ids=  25 TEE= 0 R2x= 0.844 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 19 Lx=Ly=10 pg= 0.400 ids=   3 TEE= 0 R2x= 0.822 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=104 Lx=Ly=10 pg= 0.400 ids=  88 TEE= 0 R2x= 0.644 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  4 Lx=Ly=10 pg= 0.300 ids=  88 TEE= 0 R2x= 0.811 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 56 Lx=Ly=10 pg= 0.400 ids=  40 TEE= 0 R2x= 0.700 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 26 Lx=Ly=10 pg= 0.400 ids=  10 TEE= 0 R2x= 0.811 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 31 Lx=Ly=10 pg= 0.400 ids=  15 TEE= 0 R2x= 0.478 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 81 Lx=Ly=10 pg= 0.400 ids=  65 TEE= 0 R2x= 0.722 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  9 Lx=Ly=10 pg= 0.500 ids=  21 TEE= 0 R2x= 0.611 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  1 Lx=Ly=10 pg= 0.500 ids=  13 TEE= 0 R2x= 0.644 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 15 Lx=Ly=10 pg= 0.500 ids=  27 TEE= 0 R2x= 0.689 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 65 Lx=Ly=10 pg= 0.500 ids=  77 TEE= 0 R2x= 0.644 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 47 Lx=Ly=10 pg= 0.500 ids=  59 TEE= 0 R2x= 0.411 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 13 Lx=Ly=10 pg= 0.500 ids=  25 TEE= 0 R2x= 0.600 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 67 Lx=Ly=10 pg= 0.500 ids=  79 TEE= 0 R2x= 0.711 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 17 Lx=Ly=10 pg= 0.500 ids=  29 TEE= 0 R2x= 0.556 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 27 Lx=Ly=10 pg= 0.500 ids=  39 TEE= 0 R2x= 0.533 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 39 Lx=Ly=10 pg= 0.500 ids=  51 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 37 Lx=Ly=10 pg= 0.500 ids=  49 TEE= 0 R2x= 0.511 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  5 Lx=Ly=10 pg= 0.500 ids=  17 TEE= 0 R2x= 0.789 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 21 Lx=Ly=10 pg= 0.500 ids=  33 TEE= 0 R2x= 0.611 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 45 Lx=Ly=10 pg= 0.500 ids=  57 TEE= 0 R2x= 0.556 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 23 Lx=Ly=10 pg= 0.500 ids=  35 TEE= 0 R2x= 0.656 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 11 Lx=Ly=10 pg= 0.500 ids=  23 TEE= 0 R2x= 0.544 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 69 Lx=Ly=10 pg= 0.500 ids=  81 TEE= 0 R2x= 0.422 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 35 Lx=Ly=10 pg= 0.500 ids=  47 TEE= 0 R2x= 0.367 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 25 Lx=Ly=10 pg= 0.500 ids=  37 TEE= 0 R2x= 0.378 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=111 Lx=Ly=10 pg= 0.600 ids=  23 TEE= 0 R2x= 0.256 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 53 Lx=Ly=10 pg= 0.500 ids=  65 TEE= 0 R2x= 0.489 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=115 Lx=Ly=10 pg= 0.600 ids=  27 TEE= 0 R2x= 0.356 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 33 Lx=Ly=10 pg= 0.500 ids=  45 TEE= 0 R2x= 0.578 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 83 Lx=Ly=10 pg= 0.500 ids=  95 TEE= 0 R2x= 0.689 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 57 Lx=Ly=10 pg= 0.500 ids=  69 TEE= 0 R2x= 0.544 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 75 Lx=Ly=10 pg= 0.500 ids=  87 TEE= 0 R2x= 0.511 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 49 Lx=Ly=10 pg= 0.500 ids=  61 TEE= 0 R2x= 0.600 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 87 Lx=Ly=10 pg= 0.500 ids=  99 TEE= 0 R2x= 0.622 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 89 Lx=Ly=10 pg= 0.600 ids=   1 TEE= 0 R2x= 0.378 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 79 Lx=Ly=10 pg= 0.500 ids=  91 TEE= 0 R2x= 0.622 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 91 Lx=Ly=10 pg= 0.600 ids=   3 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 51 Lx=Ly=10 pg= 0.500 ids=  63 TEE= 0 R2x= 0.633 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 95 Lx=Ly=10 pg= 0.600 ids=   7 TEE= 0 R2x= 0.222 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=105 Lx=Ly=10 pg= 0.600 ids=  17 TEE= 0 R2x= 0.333 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=123 Lx=Ly=10 pg= 0.600 ids=  35 TEE= 0 R2x= 0.522 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 63 Lx=Ly=10 pg= 0.500 ids=  75 TEE= 0 R2x= 0.656 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=109 Lx=Ly=10 pg= 0.600 ids=  21 TEE= 0 R2x= 0.322 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=101 Lx=Ly=10 pg= 0.600 ids=  13 TEE= 0 R2x= 0.533 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=119 Lx=Ly=10 pg= 0.600 ids=  31 TEE= 0 R2x= 0.422 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 61 Lx=Ly=10 pg= 0.500 ids=  73 TEE= 0 R2x= 0.211 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 59 Lx=Ly=10 pg= 0.500 ids=  71 TEE= 0 R2x= 0.411 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=103 Lx=Ly=10 pg= 0.600 ids=  15 TEE= 0 R2x= 0.422 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=117 Lx=Ly=10 pg= 0.600 ids=  29 TEE= 0 R2x= 0.456 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=121 Lx=Ly=10 pg= 0.600 ids=  33 TEE= 0 R2x= 0.511 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 85 Lx=Ly=10 pg= 0.500 ids=  97 TEE= 0 R2x= 0.667 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 97 Lx=Ly=10 pg= 0.600 ids=   9 TEE= 0 R2x= 0.533 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 55 Lx=Ly=10 pg= 0.500 ids=  67 TEE= 0 R2x= 0.511 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=125 Lx=Ly=10 pg= 0.600 ids=  37 TEE= 0 R2x= 0.489 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 29 Lx=Ly=10 pg= 0.500 ids=  41 TEE= 0 R2x= 0.744 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 71 Lx=Ly=10 pg= 0.500 ids=  83 TEE= 0 R2x= 0.700 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 30 Lx=Ly=10 pg= 0.500 ids=  42 TEE= 0 R2x= 0.600 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 43 Lx=Ly=10 pg= 0.500 ids=  55 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 28 Lx=Ly=10 pg= 0.500 ids=  40 TEE= 0 R2x= 0.389 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 24 Lx=Ly=10 pg= 0.500 ids=  36 TEE= 0 R2x= 0.856 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 10 Lx=Ly=10 pg= 0.500 ids=  22 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 18 Lx=Ly=10 pg= 0.500 ids=  30 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 14 Lx=Ly=10 pg= 0.500 ids=  26 TEE= 0 R2x= 0.489 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  2 Lx=Ly=10 pg= 0.500 ids=  14 TEE= 0 R2x= 0.533 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 20 Lx=Ly=10 pg= 0.500 ids=  32 TEE= 0 R2x= 0.556 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  0 Lx=Ly=10 pg= 0.500 ids=  12 TEE= 0 R2x= 0.667 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 16 Lx=Ly=10 pg= 0.500 ids=  28 TEE= 0 R2x= 0.689 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  8 Lx=Ly=10 pg= 0.500 ids=  20 TEE= 0 R2x= 0.411 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=107 Lx=Ly=10 pg= 0.600 ids=  19 TEE= 0 R2x= 0.444 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 22 Lx=Ly=10 pg= 0.500 ids=  34 TEE= 0 R2x= 0.711 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=113 Lx=Ly=10 pg= 0.600 ids=  25 TEE= 0 R2x= 0.422 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 93 Lx=Ly=10 pg= 0.600 ids=   5 TEE= 0 R2x= 0.400 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  6 Lx=Ly=10 pg= 0.500 ids=  18 TEE= 0 R2x= 0.611 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  7 Lx=Ly=10 pg= 0.500 ids=  19 TEE= 0 R2x= 0.322 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 58 Lx=Ly=10 pg= 0.500 ids=  70 TEE= 0 R2x= 0.389 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 52 Lx=Ly=10 pg= 0.500 ids=  64 TEE= 0 R2x= 0.356 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 62 Lx=Ly=10 pg= 0.500 ids=  74 TEE= 0 R2x= 0.689 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 32 Lx=Ly=10 pg= 0.500 ids=  44 TEE= 0 R2x= 0.556 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 60 Lx=Ly=10 pg= 0.500 ids=  72 TEE= 0 R2x= 0.544 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 48 Lx=Ly=10 pg= 0.500 ids=  60 TEE= 0 R2x= 0.656 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 50 Lx=Ly=10 pg= 0.500 ids=  62 TEE= 0 R2x= 0.422 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 34 Lx=Ly=10 pg= 0.500 ids=  46 TEE= 0 R2x= 0.467 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 42 Lx=Ly=10 pg= 0.500 ids=  54 TEE= 0 R2x= 0.633 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 40 Lx=Ly=10 pg= 0.500 ids=  52 TEE= 0 R2x= 0.689 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 78 Lx=Ly=10 pg= 0.500 ids=  90 TEE= 0 R2x= 0.689 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 12 Lx=Ly=10 pg= 0.500 ids=  24 TEE= 0 R2x= 0.644 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  3 Lx=Ly=10 pg= 0.500 ids=  15 TEE= 0 R2x= 0.644 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 86 Lx=Ly=10 pg= 0.500 ids=  98 TEE= 0 R2x= 0.600 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 38 Lx=Ly=10 pg= 0.500 ids=  50 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 44 Lx=Ly=10 pg= 0.500 ids=  56 TEE= 0 R2x= 0.567 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 46 Lx=Ly=10 pg= 0.500 ids=  58 TEE= 0 R2x= 0.467 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 96 Lx=Ly=10 pg= 0.600 ids=   8 TEE= 0 R2x= 0.378 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 88 Lx=Ly=10 pg= 0.600 ids=   0 TEE= 0 R2x= 0.456 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 68 Lx=Ly=10 pg= 0.500 ids=  80 TEE= 0 R2x= 0.467 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 76 Lx=Ly=10 pg= 0.500 ids=  88 TEE= 0 R2x= 0.622 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 70 Lx=Ly=10 pg= 0.500 ids=  82 TEE= 0 R2x= 0.667 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=102 Lx=Ly=10 pg= 0.600 ids=  14 TEE= 0 R2x= 0.544 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 80 Lx=Ly=10 pg= 0.500 ids=  92 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=120 Lx=Ly=10 pg= 0.600 ids=  32 TEE= 0 R2x= 0.333 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=114 Lx=Ly=10 pg= 0.600 ids=  26 TEE= 0 R2x= 0.422 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 64 Lx=Ly=10 pg= 0.500 ids=  76 TEE= 0 R2x= 0.722 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 98 Lx=Ly=10 pg= 0.600 ids=  10 TEE= 0 R2x= 0.233 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=106 Lx=Ly=10 pg= 0.600 ids=  18 TEE= 0 R2x= 0.567 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 72 Lx=Ly=10 pg= 0.500 ids=  84 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=110 Lx=Ly=10 pg= 0.600 ids=  22 TEE= 0 R2x= 0.367 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=118 Lx=Ly=10 pg= 0.600 ids=  30 TEE= 0 R2x= 0.133 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 94 Lx=Ly=10 pg= 0.600 ids=   6 TEE= 0 R2x= 0.433 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=112 Lx=Ly=10 pg= 0.600 ids=  24 TEE= 0 R2x= 0.544 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=116 Lx=Ly=10 pg= 0.600 ids=  28 TEE= 0 R2x= 0.200 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 84 Lx=Ly=10 pg= 0.500 ids=  96 TEE= 0 R2x= 0.678 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=122 Lx=Ly=10 pg= 0.600 ids=  34 TEE= 0 R2x= 0.456 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 92 Lx=Ly=10 pg= 0.600 ids=   4 TEE= 0 R2x= 0.422 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 82 Lx=Ly=10 pg= 0.500 ids=  94 TEE= 0 R2x= 0.522 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=127 Lx=Ly=10 pg= 0.600 ids=  39 TEE= 0 R2x= 0.256 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=124 Lx=Ly=10 pg= 0.600 ids=  36 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 66 Lx=Ly=10 pg= 0.500 ids=  78 TEE= 0 R2x= 0.333 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 90 Lx=Ly=10 pg= 0.600 ids=   2 TEE= 0 R2x= 0.233 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=126 Lx=Ly=10 pg= 0.600 ids=  38 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=108 Lx=Ly=10 pg= 0.600 ids=  20 TEE= 0 R2x= 0.478 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 74 Lx=Ly=10 pg= 0.500 ids=  86 TEE= 0 R2x= 0.522 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 36 Lx=Ly=10 pg= 0.500 ids=  48 TEE= 0 R2x= 0.622 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 54 Lx=Ly=10 pg= 0.500 ids=  66 TEE= 0 R2x= 0.733 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=100 Lx=Ly=10 pg= 0.600 ids=  12 TEE= 0 R2x= 0.356 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 99 Lx=Ly=10 pg= 0.600 ids=  11 TEE= 0 R2x= 0.433 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 73 Lx=Ly=10 pg= 0.500 ids=  85 TEE= 0 R2x= 0.722 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 19 Lx=Ly=10 pg= 0.500 ids=  31 TEE= 0 R2x= 0.489 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 41 Lx=Ly=10 pg= 0.500 ids=  53 TEE= 0 R2x= 0.522 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=104 Lx=Ly=10 pg= 0.600 ids=  16 TEE= 0 R2x= 0.156 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  4 Lx=Ly=10 pg= 0.500 ids=  16 TEE= 0 R2x= 0.389 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 56 Lx=Ly=10 pg= 0.500 ids=  68 TEE= 0 R2x= 0.522 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 77 Lx=Ly=10 pg= 0.500 ids=  89 TEE= 0 R2x= 0.711 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 31 Lx=Ly=10 pg= 0.500 ids=  43 TEE= 0 R2x= 0.489 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 81 Lx=Ly=10 pg= 0.500 ids=  93 TEE= 0 R2x= 0.622 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  1 Lx=Ly=10 pg= 0.600 ids=  41 TEE= 0 R2x= 0.333 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  9 Lx=Ly=10 pg= 0.600 ids=  49 TEE= 0 R2x= 0.256 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 15 Lx=Ly=10 pg= 0.600 ids=  55 TEE= 0 R2x= 0.533 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 65 Lx=Ly=10 pg= 0.700 ids=   5 TEE= 0 R2x= 0.211 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 13 Lx=Ly=10 pg= 0.600 ids=  53 TEE= 0 R2x= 0.644 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 47 Lx=Ly=10 pg= 0.600 ids=  87 TEE= 0 R2x= 0.300 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 17 Lx=Ly=10 pg= 0.600 ids=  57 TEE= 0 R2x= 0.367 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 67 Lx=Ly=10 pg= 0.700 ids=   7 TEE= 0 R2x= 0.167 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 27 Lx=Ly=10 pg= 0.600 ids=  67 TEE= 0 R2x= 0.444 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 21 Lx=Ly=10 pg= 0.600 ids=  61 TEE= 0 R2x= 0.367 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 39 Lx=Ly=10 pg= 0.600 ids=  79 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 37 Lx=Ly=10 pg= 0.600 ids=  77 TEE= 0 R2x= 0.389 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  5 Lx=Ly=10 pg= 0.600 ids=  45 TEE= 0 R2x= 0.611 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 23 Lx=Ly=10 pg= 0.600 ids=  63 TEE= 0 R2x= 0.578 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=111 Lx=Ly=10 pg= 0.700 ids=  51 TEE=-1 R2x= 0.156 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 35 Lx=Ly=10 pg= 0.600 ids=  75 TEE= 0 R2x= 0.389 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=115 Lx=Ly=10 pg= 0.700 ids=  55 TEE= 0 R2x= 0.211 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 26 Lx=Ly=10 pg= 0.500 ids=  38 TEE= 0 R2x= 0.733 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 25 Lx=Ly=10 pg= 0.600 ids=  65 TEE= 0 R2x= 0.400 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 45 Lx=Ly=10 pg= 0.600 ids=  85 TEE= 0 R2x= 0.433 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 69 Lx=Ly=10 pg= 0.700 ids=   9 TEE= 0 R2x= 0.256 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 79 Lx=Ly=10 pg= 0.700 ids=  19 TEE= 0 R2x= 0.311 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 53 Lx=Ly=10 pg= 0.600 ids=  93 TEE= 0 R2x= 0.356 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 57 Lx=Ly=10 pg= 0.600 ids=  97 TEE= 0 R2x= 0.300 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 83 Lx=Ly=10 pg= 0.700 ids=  23 TEE= 0 R2x= 0.267 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 87 Lx=Ly=10 pg= 0.700 ids=  27 TEE= 0 R2x= 0.189 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 33 Lx=Ly=10 pg= 0.600 ids=  73 TEE= 0 R2x= 0.467 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 49 Lx=Ly=10 pg= 0.600 ids=  89 TEE= 0 R2x= 0.556 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 89 Lx=Ly=10 pg= 0.700 ids=  29 TEE= 0 R2x= 0.100 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=105 Lx=Ly=10 pg= 0.700 ids=  45 TEE= 0 R2x= 0.211 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=123 Lx=Ly=10 pg= 0.700 ids=  63 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 91 Lx=Ly=10 pg= 0.700 ids=  31 TEE= 0 R2x= 0.133 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=109 Lx=Ly=10 pg= 0.700 ids=  49 TEE=-1 R2x= 0.244 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 95 Lx=Ly=10 pg= 0.700 ids=  35 TEE= 0 R2x= 0.289 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=101 Lx=Ly=10 pg= 0.700 ids=  41 TEE= 0 R2x= 0.333 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 51 Lx=Ly=10 pg= 0.600 ids=  91 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=103 Lx=Ly=10 pg= 0.700 ids=  43 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=119 Lx=Ly=10 pg= 0.700 ids=  59 TEE= 0 R2x= 0.144 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 61 Lx=Ly=10 pg= 0.700 ids=   1 TEE= 0 R2x= 0.156 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=121 Lx=Ly=10 pg= 0.700 ids=  61 TEE= 0 R2x= 0.422 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 59 Lx=Ly=10 pg= 0.600 ids=  99 TEE= 0 R2x= 0.433 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 97 Lx=Ly=10 pg= 0.700 ids=  37 TEE= 0 R2x= 0.189 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 11 Lx=Ly=10 pg= 0.600 ids=  51 TEE= 0 R2x= 0.389 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=117 Lx=Ly=10 pg= 0.700 ids=  57 TEE= 0 R2x= 0.122 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 85 Lx=Ly=10 pg= 0.700 ids=  25 TEE= 0 R2x= 0.200 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=125 Lx=Ly=10 pg= 0.700 ids=  65 TEE= 0 R2x= 0.189 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 55 Lx=Ly=10 pg= 0.600 ids=  95 TEE= 0 R2x= 0.200 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 29 Lx=Ly=10 pg= 0.600 ids=  69 TEE= 0 R2x= 0.333 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 43 Lx=Ly=10 pg= 0.600 ids=  83 TEE= 0 R2x= 0.322 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 30 Lx=Ly=10 pg= 0.600 ids=  70 TEE= 0 R2x= 0.367 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 28 Lx=Ly=10 pg= 0.600 ids=  68 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 24 Lx=Ly=10 pg= 0.600 ids=  64 TEE= 0 R2x= 0.500 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=107 Lx=Ly=10 pg= 0.700 ids=  47 TEE= 0 R2x= 0.100 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 10 Lx=Ly=10 pg= 0.600 ids=  50 TEE= 0 R2x= 0.356 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 14 Lx=Ly=10 pg= 0.600 ids=  54 TEE= 0 R2x= 0.544 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 18 Lx=Ly=10 pg= 0.600 ids=  58 TEE= 0 R2x= 0.233 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 20 Lx=Ly=10 pg= 0.600 ids=  60 TEE= 0 R2x= 0.489 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  2 Lx=Ly=10 pg= 0.600 ids=  42 TEE= 0 R2x= 0.378 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 63 Lx=Ly=10 pg= 0.700 ids=   3 TEE= 0 R2x= 0.222 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 93 Lx=Ly=10 pg= 0.700 ids=  33 TEE= 0 R2x= 0.289 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 16 Lx=Ly=10 pg= 0.600 ids=  56 TEE= 0 R2x= 0.589 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  8 Lx=Ly=10 pg= 0.600 ids=  48 TEE= 0 R2x= 0.433 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  0 Lx=Ly=10 pg= 0.600 ids=  40 TEE= 0 R2x= 0.333 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 75 Lx=Ly=10 pg= 0.700 ids=  15 TEE= 0 R2x= 0.111 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=113 Lx=Ly=10 pg= 0.700 ids=  53 TEE= 0 R2x= 0.122 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 22 Lx=Ly=10 pg= 0.600 ids=  62 TEE= 0 R2x= 0.422 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  3 Lx=Ly=10 pg= 0.600 ids=  43 TEE= 0 R2x= 0.389 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 58 Lx=Ly=10 pg= 0.600 ids=  98 TEE= 0 R2x= 0.511 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 32 Lx=Ly=10 pg= 0.600 ids=  72 TEE= 0 R2x= 0.444 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  6 Lx=Ly=10 pg= 0.600 ids=  46 TEE= 0 R2x= 0.467 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 62 Lx=Ly=10 pg= 0.700 ids=   2 TEE= 0 R2x= 0.244 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 52 Lx=Ly=10 pg= 0.600 ids=  92 TEE= 0 R2x= 0.400 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 48 Lx=Ly=10 pg= 0.600 ids=  88 TEE= 0 R2x= 0.367 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 71 Lx=Ly=10 pg= 0.700 ids=  11 TEE= 0 R2x= 0.267 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 60 Lx=Ly=10 pg= 0.700 ids=   0 TEE= 0 R2x= 0.189 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 50 Lx=Ly=10 pg= 0.600 ids=  90 TEE= 0 R2x= 0.400 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 42 Lx=Ly=10 pg= 0.600 ids=  82 TEE= 0 R2x= 0.333 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 34 Lx=Ly=10 pg= 0.600 ids=  74 TEE= 0 R2x= 0.500 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 40 Lx=Ly=10 pg= 0.600 ids=  80 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 78 Lx=Ly=10 pg= 0.700 ids=  18 TEE= 0 R2x= 0.067 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 38 Lx=Ly=10 pg= 0.600 ids=  78 TEE= 0 R2x= 0.556 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 44 Lx=Ly=10 pg= 0.600 ids=  84 TEE= 0 R2x= 0.500 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 86 Lx=Ly=10 pg= 0.700 ids=  26 TEE= 0 R2x= 0.300 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 46 Lx=Ly=10 pg= 0.600 ids=  86 TEE= 0 R2x= 0.489 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 12 Lx=Ly=10 pg= 0.600 ids=  52 TEE= 0 R2x= 0.578 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 96 Lx=Ly=10 pg= 0.700 ids=  36 TEE= 0 R2x= 0.233 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 88 Lx=Ly=10 pg= 0.700 ids=  28 TEE= 0 R2x= 0.122 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 68 Lx=Ly=10 pg= 0.700 ids=   8 TEE=-1 R2x= 0.222 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 76 Lx=Ly=10 pg= 0.700 ids=  16 TEE= 0 R2x= 0.233 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=102 Lx=Ly=10 pg= 0.700 ids=  42 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=114 Lx=Ly=10 pg= 0.700 ids=  54 TEE= 0 R2x= 0.378 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 80 Lx=Ly=10 pg= 0.700 ids=  20 TEE= 0 R2x= 0.156 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=120 Lx=Ly=10 pg= 0.700 ids=  60 TEE= 0 R2x= 0.300 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 70 Lx=Ly=10 pg= 0.700 ids=  10 TEE= 0 R2x= 0.233 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=106 Lx=Ly=10 pg= 0.700 ids=  46 TEE= 0 R2x= 0.333 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 64 Lx=Ly=10 pg= 0.700 ids=   4 TEE= 0 R2x= 0.111 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 98 Lx=Ly=10 pg= 0.700 ids=  38 TEE= 0 R2x= 0.178 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=118 Lx=Ly=10 pg= 0.700 ids=  58 TEE= 0 R2x= 0.178 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 72 Lx=Ly=10 pg= 0.700 ids=  12 TEE= 0 R2x= 0.211 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=116 Lx=Ly=10 pg= 0.700 ids=  56 TEE= 0 R2x= 0.289 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 94 Lx=Ly=10 pg= 0.700 ids=  34 TEE= 0 R2x= 0.233 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=110 Lx=Ly=10 pg= 0.700 ids=  50 TEE= 0 R2x= 0.178 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=112 Lx=Ly=10 pg= 0.700 ids=  52 TEE= 0 R2x= 0.011 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 84 Lx=Ly=10 pg= 0.700 ids=  24 TEE= 0 R2x= 0.100 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 92 Lx=Ly=10 pg= 0.700 ids=  32 TEE= 0 R2x= 0.300 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=122 Lx=Ly=10 pg= 0.700 ids=  62 TEE= 0 R2x= 0.100 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=124 Lx=Ly=10 pg= 0.700 ids=  64 TEE= 0 R2x= 0.144 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 82 Lx=Ly=10 pg= 0.700 ids=  22 TEE= 0 R2x= 0.400 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=126 Lx=Ly=10 pg= 0.700 ids=  66 TEE= 0 R2x= 0.156 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 66 Lx=Ly=10 pg= 0.700 ids=   6 TEE= 0 R2x= 0.222 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 90 Lx=Ly=10 pg= 0.700 ids=  30 TEE= 0 R2x= 0.122 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=108 Lx=Ly=10 pg= 0.700 ids=  48 TEE=-1 R2x= 0.344 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 74 Lx=Ly=10 pg= 0.700 ids=  14 TEE= 0 R2x= 0.200 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 99 Lx=Ly=10 pg= 0.700 ids=  39 TEE= 0 R2x= 0.133 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 54 Lx=Ly=10 pg= 0.600 ids=  94 TEE= 0 R2x= 0.189 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=100 Lx=Ly=10 pg= 0.700 ids=  40 TEE= 0 R2x= 0.200 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 41 Lx=Ly=10 pg= 0.600 ids=  81 TEE= 0 R2x= 0.456 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=127 Lx=Ly=10 pg= 0.700 ids=  67 TEE= 0 R2x= 0.333 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=104 Lx=Ly=10 pg= 0.700 ids=  44 TEE= 0 R2x= 0.189 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 73 Lx=Ly=10 pg= 0.700 ids=  13 TEE= 0 R2x= 0.200 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 19 Lx=Ly=10 pg= 0.600 ids=  59 TEE= 0 R2x= 0.389 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  4 Lx=Ly=10 pg= 0.600 ids=  44 TEE= 0 R2x= 0.444 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 56 Lx=Ly=10 pg= 0.600 ids=  96 TEE= 0 R2x= 0.289 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  7 Lx=Ly=10 pg= 0.600 ids=  47 TEE= 0 R2x= 0.467 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 36 Lx=Ly=10 pg= 0.600 ids=  76 TEE= 0 R2x= 0.367 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 31 Lx=Ly=10 pg= 0.600 ids=  71 TEE= 0 R2x= 0.456 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 77 Lx=Ly=10 pg= 0.700 ids=  17 TEE= 0 R2x= 0.233 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  1 Lx=Ly=10 pg= 0.700 ids=  69 TEE= 0 R2x= 0.411 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  9 Lx=Ly=10 pg= 0.700 ids=  77 TEE= 0 R2x= 0.167 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 65 Lx=Ly=10 pg= 0.800 ids=  33 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 15 Lx=Ly=10 pg= 0.700 ids=  83 TEE=-1 R2x= 0.078 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 17 Lx=Ly=10 pg= 0.700 ids=  85 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 47 Lx=Ly=10 pg= 0.800 ids=  15 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 67 Lx=Ly=10 pg= 0.800 ids=  35 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 27 Lx=Ly=10 pg= 0.700 ids=  95 TEE= 0 R2x= 0.111 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 13 Lx=Ly=10 pg= 0.700 ids=  81 TEE= 0 R2x= 0.222 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 39 Lx=Ly=10 pg= 0.800 ids=   7 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 21 Lx=Ly=10 pg= 0.700 ids=  89 TEE= 0 R2x= 0.189 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 23 Lx=Ly=10 pg= 0.700 ids=  91 TEE= 0 R2x= 0.167 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=111 Lx=Ly=10 pg= 0.800 ids=  79 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=  5 Lx=Ly=10 pg= 0.700 ids=  73 TEE= 0 R2x= 0.211 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 35 Lx=Ly=10 pg= 0.800 ids=   3 TEE= 0 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 37 Lx=Ly=10 pg= 0.800 ids=   5 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=115 Lx=Ly=10 pg= 0.800 ids=  83 TEE= 0 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 45 Lx=Ly=10 pg= 0.800 ids=  13 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 25 Lx=Ly=10 pg= 0.700 ids=  93 TEE=-1 R2x= 0.178 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 69 Lx=Ly=10 pg= 0.800 ids=  37 TEE= 0 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 53 Lx=Ly=10 pg= 0.800 ids=  21 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 49 Lx=Ly=10 pg= 0.800 ids=  17 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 83 Lx=Ly=10 pg= 0.800 ids=  51 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=123 Lx=Ly=10 pg= 0.800 ids=  91 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 87 Lx=Ly=10 pg= 0.800 ids=  55 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 57 Lx=Ly=10 pg= 0.800 ids=  25 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 91 Lx=Ly=10 pg= 0.800 ids=  59 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank=105 Lx=Ly=10 pg= 0.800 ids=  73 TEE= 0 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 33 Lx=Ly=10 pg= 0.800 ids=   1 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 89 Lx=Ly=10 pg= 0.800 ids=  57 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=101 Lx=Ly=10 pg= 0.800 ids=  69 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 95 Lx=Ly=10 pg= 0.800 ids=  63 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=103 Lx=Ly=10 pg= 0.800 ids=  71 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=121 Lx=Ly=10 pg= 0.800 ids=  89 TEE= 0 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=109 Lx=Ly=10 pg= 0.800 ids=  77 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 79 Lx=Ly=10 pg= 0.800 ids=  47 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank=119 Lx=Ly=10 pg= 0.800 ids=  87 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 59 Lx=Ly=10 pg= 0.800 ids=  27 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 61 Lx=Ly=10 pg= 0.800 ids=  29 TEE= 0 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 97 Lx=Ly=10 pg= 0.800 ids=  65 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=117 Lx=Ly=10 pg= 0.800 ids=  85 TEE= 0 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 29 Lx=Ly=10 pg= 0.700 ids=  97 TEE= 0 R2x= 0.300 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 55 Lx=Ly=10 pg= 0.800 ids=  23 TEE=-1 R2x= 0.033 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 11 Lx=Ly=10 pg= 0.700 ids=  79 TEE= 0 R2x= 0.044 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=125 Lx=Ly=10 pg= 0.800 ids=  93 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=107 Lx=Ly=10 pg= 0.800 ids=  75 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 30 Lx=Ly=10 pg= 0.700 ids=  98 TEE= 0 R2x= 0.133 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 51 Lx=Ly=10 pg= 0.800 ids=  19 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 28 Lx=Ly=10 pg= 0.700 ids=  96 TEE= 0 R2x= 0.167 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 24 Lx=Ly=10 pg= 0.700 ids=  92 TEE= 0 R2x= 0.111 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 63 Lx=Ly=10 pg= 0.800 ids=  31 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 85 Lx=Ly=10 pg= 0.800 ids=  53 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 18 Lx=Ly=10 pg= 0.700 ids=  86 TEE= 0 R2x= 0.100 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 14 Lx=Ly=10 pg= 0.700 ids=  82 TEE= 0 R2x= 0.256 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 10 Lx=Ly=10 pg= 0.700 ids=  78 TEE= 0 R2x= 0.233 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 20 Lx=Ly=10 pg= 0.700 ids=  88 TEE= 0 R2x= 0.378 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 93 Lx=Ly=10 pg= 0.800 ids=  61 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=  2 Lx=Ly=10 pg= 0.700 ids=  70 TEE= 0 R2x= 0.044 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 81 Lx=Ly=10 pg= 0.700 ids=  21 TEE= 0 R2x= 0.389 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 16 Lx=Ly=10 pg= 0.700 ids=  84 TEE= 0 R2x= 0.367 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  8 Lx=Ly=10 pg= 0.700 ids=  76 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 22 Lx=Ly=10 pg= 0.700 ids=  90 TEE= 0 R2x= 0.100 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=  0 Lx=Ly=10 pg= 0.700 ids=  68 TEE= 0 R2x= 0.133 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 71 Lx=Ly=10 pg= 0.800 ids=  39 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=  3 Lx=Ly=10 pg= 0.700 ids=  71 TEE= 0 R2x= 0.267 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 32 Lx=Ly=10 pg= 0.800 ids=   0 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=113 Lx=Ly=10 pg= 0.800 ids=  81 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 52 Lx=Ly=10 pg= 0.800 ids=  20 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 58 Lx=Ly=10 pg= 0.800 ids=  26 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank=  6 Lx=Ly=10 pg= 0.700 ids=  74 TEE= 0 R2x= 0.133 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 48 Lx=Ly=10 pg= 0.800 ids=  16 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 50 Lx=Ly=10 pg= 0.800 ids=  18 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 60 Lx=Ly=10 pg= 0.800 ids=  28 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 34 Lx=Ly=10 pg= 0.800 ids=   2 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 75 Lx=Ly=10 pg= 0.800 ids=  43 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 42 Lx=Ly=10 pg= 0.800 ids=  10 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 78 Lx=Ly=10 pg= 0.800 ids=  46 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 40 Lx=Ly=10 pg= 0.800 ids=   8 TEE= 0 R2x= 0.033 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 86 Lx=Ly=10 pg= 0.800 ids=  54 TEE= 0 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 12 Lx=Ly=10 pg= 0.700 ids=  80 TEE= 0 R2x= 0.233 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 96 Lx=Ly=10 pg= 0.800 ids=  64 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 44 Lx=Ly=10 pg= 0.800 ids=  12 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 46 Lx=Ly=10 pg= 0.800 ids=  14 TEE= 0 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 88 Lx=Ly=10 pg= 0.800 ids=  56 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 68 Lx=Ly=10 pg= 0.800 ids=  36 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=102 Lx=Ly=10 pg= 0.800 ids=  70 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 76 Lx=Ly=10 pg= 0.800 ids=  44 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 80 Lx=Ly=10 pg= 0.800 ids=  48 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 70 Lx=Ly=10 pg= 0.800 ids=  38 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=114 Lx=Ly=10 pg= 0.800 ids=  82 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=106 Lx=Ly=10 pg= 0.800 ids=  74 TEE= 0 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=120 Lx=Ly=10 pg= 0.800 ids=  88 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=118 Lx=Ly=10 pg= 0.800 ids=  86 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 98 Lx=Ly=10 pg= 0.800 ids=  66 TEE=-1 R2x= 0.056 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 64 Lx=Ly=10 pg= 0.800 ids=  32 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=116 Lx=Ly=10 pg= 0.800 ids=  84 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 94 Lx=Ly=10 pg= 0.800 ids=  62 TEE=-1 R2x= 0.033 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 38 Lx=Ly=10 pg= 0.800 ids=   6 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 72 Lx=Ly=10 pg= 0.800 ids=  40 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=110 Lx=Ly=10 pg= 0.800 ids=  78 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=112 Lx=Ly=10 pg= 0.800 ids=  80 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 92 Lx=Ly=10 pg= 0.800 ids=  60 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 84 Lx=Ly=10 pg= 0.800 ids=  52 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=124 Lx=Ly=10 pg= 0.800 ids=  92 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 82 Lx=Ly=10 pg= 0.800 ids=  50 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=122 Lx=Ly=10 pg= 0.800 ids=  90 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 62 Lx=Ly=10 pg= 0.800 ids=  30 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 66 Lx=Ly=10 pg= 0.800 ids=  34 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 43 Lx=Ly=10 pg= 0.800 ids=  11 TEE= 0 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=126 Lx=Ly=10 pg= 0.800 ids=  94 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=108 Lx=Ly=10 pg= 0.800 ids=  76 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 90 Lx=Ly=10 pg= 0.800 ids=  58 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 74 Lx=Ly=10 pg= 0.800 ids=  42 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank=100 Lx=Ly=10 pg= 0.800 ids=  68 TEE= 0 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 54 Lx=Ly=10 pg= 0.800 ids=  22 TEE= 0 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 41 Lx=Ly=10 pg= 0.800 ids=   9 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=104 Lx=Ly=10 pg= 0.800 ids=  72 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 99 Lx=Ly=10 pg= 0.800 ids=  67 TEE=-1 R2x= 0.022 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 26 Lx=Ly=10 pg= 0.600 ids=  66 TEE= 0 R2x= 0.433 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank=127 Lx=Ly=10 pg= 0.800 ids=  95 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=  4 Lx=Ly=10 pg= 0.700 ids=  72 TEE= 0 R2x= 0.211 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 73 Lx=Ly=10 pg= 0.800 ids=  41 TEE= 0 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 19 Lx=Ly=10 pg= 0.700 ids=  87 TEE= 0 R2x= 0.211 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 31 Lx=Ly=10 pg= 0.700 ids=  99 TEE= 0 R2x= 0.278 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 56 Lx=Ly=10 pg= 0.800 ids=  24 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 77 Lx=Ly=10 pg= 0.800 ids=  45 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 36 Lx=Ly=10 pg= 0.800 ids=   4 TEE= 0 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=  1 Lx=Ly=10 pg= 0.800 ids=  97 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=  9 Lx=Ly=10 pg= 0.900 ids=   5 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.500  dep_x= 1.000 dep_z= 5.000
+rank= 65 Lx=Ly=10 pg= 0.900 ids=  61 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 47 Lx=Ly=10 pg= 0.900 ids=  43 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.400  dep_x= 1.000 dep_z= 6.000
+rank=115 Lx=Ly=10 pg= 1.000 ids=  11 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=111 Lx=Ly=10 pg= 1.000 ids=   7 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 15 Lx=Ly=10 pg= 0.900 ids=  11 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 67 Lx=Ly=10 pg= 0.900 ids=  63 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 27 Lx=Ly=10 pg= 0.900 ids=  23 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 39 Lx=Ly=10 pg= 0.900 ids=  35 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 23 Lx=Ly=10 pg= 0.900 ids=  19 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 21 Lx=Ly=10 pg= 0.900 ids=  17 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 17 Lx=Ly=10 pg= 0.900 ids=  13 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 37 Lx=Ly=10 pg= 0.900 ids=  33 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 13 Lx=Ly=10 pg= 0.900 ids=   9 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 35 Lx=Ly=10 pg= 0.900 ids=  31 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 45 Lx=Ly=10 pg= 0.900 ids=  41 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank= 25 Lx=Ly=10 pg= 0.900 ids=  21 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.400  dep_x= 1.000 dep_z= 6.000
+rank=  5 Lx=Ly=10 pg= 0.900 ids=   1 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank=123 Lx=Ly=10 pg= 1.000 ids=  19 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 69 Lx=Ly=10 pg= 0.900 ids=  65 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 83 Lx=Ly=10 pg= 0.900 ids=  79 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 53 Lx=Ly=10 pg= 0.900 ids=  49 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank= 87 Lx=Ly=10 pg= 0.900 ids=  83 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank=105 Lx=Ly=10 pg= 1.000 ids=   1 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 49 Lx=Ly=10 pg= 0.900 ids=  45 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank=101 Lx=Ly=10 pg= 0.900 ids=  97 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.400  dep_x= 1.000 dep_z= 6.000
+rank= 91 Lx=Ly=10 pg= 0.900 ids=  87 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank=109 Lx=Ly=10 pg= 1.000 ids=   5 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=121 Lx=Ly=10 pg= 1.000 ids=  17 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 33 Lx=Ly=10 pg= 0.900 ids=  29 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 89 Lx=Ly=10 pg= 0.900 ids=  85 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 57 Lx=Ly=10 pg= 0.900 ids=  53 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank=119 Lx=Ly=10 pg= 1.000 ids=  15 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=103 Lx=Ly=10 pg= 0.900 ids=  99 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 95 Lx=Ly=10 pg= 0.900 ids=  91 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 79 Lx=Ly=10 pg= 0.900 ids=  75 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 59 Lx=Ly=10 pg= 0.900 ids=  55 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 61 Lx=Ly=10 pg= 0.900 ids=  57 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.600  dep_x= 1.000 dep_z= 4.000
+rank= 97 Lx=Ly=10 pg= 0.900 ids=  93 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 11 Lx=Ly=10 pg= 0.900 ids=   7 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 55 Lx=Ly=10 pg= 0.900 ids=  51 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank=107 Lx=Ly=10 pg= 1.000 ids=   3 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 51 Lx=Ly=10 pg= 0.900 ids=  47 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 29 Lx=Ly=10 pg= 0.900 ids=  25 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 30 Lx=Ly=10 pg= 0.900 ids=  26 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 28 Lx=Ly=10 pg= 0.900 ids=  24 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 24 Lx=Ly=10 pg= 0.900 ids=  20 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.500  dep_x= 1.000 dep_z= 5.000
+rank=125 Lx=Ly=10 pg= 1.000 ids=  21 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 18 Lx=Ly=10 pg= 0.900 ids=  14 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank= 14 Lx=Ly=10 pg= 0.900 ids=  10 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 10 Lx=Ly=10 pg= 0.900 ids=   6 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.500  dep_x= 1.000 dep_z= 5.000
+rank= 16 Lx=Ly=10 pg= 0.900 ids=  12 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=  2 Lx=Ly=10 pg= 0.800 ids=  98 TEE= 0 R2x= 0.056 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 20 Lx=Ly=10 pg= 0.900 ids=  16 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank=  3 Lx=Ly=10 pg= 0.800 ids=  99 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 63 Lx=Ly=10 pg= 0.900 ids=  59 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 22 Lx=Ly=10 pg= 0.900 ids=  18 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank=  8 Lx=Ly=10 pg= 0.900 ids=   4 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.400  dep_x= 1.000 dep_z= 6.000
+rank=117 Lx=Ly=10 pg= 1.000 ids=  13 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 81 Lx=Ly=10 pg= 0.800 ids=  49 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=  0 Lx=Ly=10 pg= 0.800 ids=  96 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=  7 Lx=Ly=10 pg= 0.700 ids=  75 TEE= 0 R2x= 0.056 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 32 Lx=Ly=10 pg= 0.900 ids=  28 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank= 71 Lx=Ly=10 pg= 0.900 ids=  67 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 52 Lx=Ly=10 pg= 0.900 ids=  48 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 58 Lx=Ly=10 pg= 0.900 ids=  54 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank=  6 Lx=Ly=10 pg= 0.900 ids=   2 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 48 Lx=Ly=10 pg= 0.900 ids=  44 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 50 Lx=Ly=10 pg= 0.900 ids=  46 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 34 Lx=Ly=10 pg= 0.900 ids=  30 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 93 Lx=Ly=10 pg= 0.900 ids=  89 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 42 Lx=Ly=10 pg= 0.900 ids=  38 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 40 Lx=Ly=10 pg= 0.900 ids=  36 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 78 Lx=Ly=10 pg= 0.900 ids=  74 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 60 Lx=Ly=10 pg= 0.900 ids=  56 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 86 Lx=Ly=10 pg= 0.900 ids=  82 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 96 Lx=Ly=10 pg= 0.900 ids=  92 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank=113 Lx=Ly=10 pg= 1.000 ids=   9 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 44 Lx=Ly=10 pg= 0.900 ids=  40 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.400  dep_x= 1.000 dep_z= 6.000
+rank= 46 Lx=Ly=10 pg= 0.900 ids=  42 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 68 Lx=Ly=10 pg= 0.900 ids=  64 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank= 88 Lx=Ly=10 pg= 0.900 ids=  84 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank=106 Lx=Ly=10 pg= 1.000 ids=   2 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=102 Lx=Ly=10 pg= 0.900 ids=  98 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.400  dep_x= 1.000 dep_z= 6.000
+rank= 80 Lx=Ly=10 pg= 0.900 ids=  76 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank=120 Lx=Ly=10 pg= 1.000 ids=  16 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 76 Lx=Ly=10 pg= 0.900 ids=  72 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank=114 Lx=Ly=10 pg= 1.000 ids=  10 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 70 Lx=Ly=10 pg= 0.900 ids=  66 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank=116 Lx=Ly=10 pg= 1.000 ids=  12 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=118 Lx=Ly=10 pg= 1.000 ids=  14 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=110 Lx=Ly=10 pg= 1.000 ids=   6 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 64 Lx=Ly=10 pg= 0.900 ids=  60 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 75 Lx=Ly=10 pg= 0.900 ids=  71 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank= 94 Lx=Ly=10 pg= 0.900 ids=  90 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank=112 Lx=Ly=10 pg= 1.000 ids=   8 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 38 Lx=Ly=10 pg= 0.900 ids=  34 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.400  dep_x= 1.000 dep_z= 6.000
+rank= 43 Lx=Ly=10 pg= 0.900 ids=  39 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 72 Lx=Ly=10 pg= 0.900 ids=  68 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank= 92 Lx=Ly=10 pg= 0.900 ids=  88 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank=124 Lx=Ly=10 pg= 1.000 ids=  20 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=122 Lx=Ly=10 pg= 1.000 ids=  18 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 62 Lx=Ly=10 pg= 0.900 ids=  58 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank= 84 Lx=Ly=10 pg= 0.900 ids=  80 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.600  dep_x= 1.000 dep_z= 4.000
+rank= 82 Lx=Ly=10 pg= 0.900 ids=  78 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.500  dep_x= 1.000 dep_z= 5.000
+rank= 98 Lx=Ly=10 pg= 0.900 ids=  94 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 66 Lx=Ly=10 pg= 0.900 ids=  62 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 12 Lx=Ly=10 pg= 0.900 ids=   8 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank=108 Lx=Ly=10 pg= 1.000 ids=   4 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 90 Lx=Ly=10 pg= 0.900 ids=  86 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank=126 Lx=Ly=10 pg= 1.000 ids=  22 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=100 Lx=Ly=10 pg= 0.900 ids=  96 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 99 Lx=Ly=10 pg= 0.900 ids=  95 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 54 Lx=Ly=10 pg= 0.900 ids=  50 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank= 74 Lx=Ly=10 pg= 0.900 ids=  70 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 85 Lx=Ly=10 pg= 0.900 ids=  81 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 41 Lx=Ly=10 pg= 0.900 ids=  37 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank=104 Lx=Ly=10 pg= 1.000 ids=   0 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=127 Lx=Ly=10 pg= 1.000 ids=  23 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 19 Lx=Ly=10 pg= 0.900 ids=  15 TEE=-1 R2x= 0.011 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 77 Lx=Ly=10 pg= 0.900 ids=  73 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank=  4 Lx=Ly=10 pg= 0.900 ids=   0 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank= 56 Lx=Ly=10 pg= 0.900 ids=  52 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank=  1 Lx=Ly=10 pg= 1.000 ids=  25 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 65 Lx=Ly=10 pg= 1.000 ids=  89 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=  9 Lx=Ly=10 pg= 1.000 ids=  33 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 47 Lx=Ly=10 pg= 1.000 ids=  71 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 67 Lx=Ly=10 pg= 1.000 ids=  91 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 39 Lx=Ly=10 pg= 1.000 ids=  63 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 27 Lx=Ly=10 pg= 1.000 ids=  51 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 23 Lx=Ly=10 pg= 1.000 ids=  47 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 37 Lx=Ly=10 pg= 1.000 ids=  61 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 35 Lx=Ly=10 pg= 1.000 ids=  59 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 13 Lx=Ly=10 pg= 1.000 ids=  37 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 25 Lx=Ly=10 pg= 1.000 ids=  49 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 45 Lx=Ly=10 pg= 1.000 ids=  69 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 69 Lx=Ly=10 pg= 1.000 ids=  93 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 15 Lx=Ly=10 pg= 1.000 ids=  39 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 17 Lx=Ly=10 pg= 1.000 ids=  41 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=  5 Lx=Ly=10 pg= 1.000 ids=  29 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 53 Lx=Ly=10 pg= 1.000 ids=  77 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 49 Lx=Ly=10 pg= 1.000 ids=  73 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 33 Lx=Ly=10 pg= 1.000 ids=  57 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 57 Lx=Ly=10 pg= 1.000 ids=  81 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 59 Lx=Ly=10 pg= 1.000 ids=  83 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 61 Lx=Ly=10 pg= 1.000 ids=  85 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 73 Lx=Ly=10 pg= 0.900 ids=  69 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z= 9.000
+rank= 11 Lx=Ly=10 pg= 1.000 ids=  35 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 55 Lx=Ly=10 pg= 1.000 ids=  79 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 36 Lx=Ly=10 pg= 0.900 ids=  32 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.100  dep_x= 1.000 dep_z= 9.000
+rank= 31 Lx=Ly=10 pg= 0.900 ids=  27 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank= 30 Lx=Ly=10 pg= 1.000 ids=  54 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 26 Lx=Ly=10 pg= 0.700 ids=  94 TEE= 0 R2x= 0.156 R2z= 0.000 R2x_loop= 1.000 R2z_loop= 0.000  dep_x= 0.000 dep_z=10.000
+rank= 24 Lx=Ly=10 pg= 1.000 ids=  48 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 28 Lx=Ly=10 pg= 1.000 ids=  52 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 18 Lx=Ly=10 pg= 1.000 ids=  42 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 14 Lx=Ly=10 pg= 1.000 ids=  38 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 63 Lx=Ly=10 pg= 1.000 ids=  87 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 10 Lx=Ly=10 pg= 1.000 ids=  34 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 21 Lx=Ly=10 pg= 1.000 ids=  45 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 51 Lx=Ly=10 pg= 1.000 ids=  75 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 16 Lx=Ly=10 pg= 1.000 ids=  40 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 20 Lx=Ly=10 pg= 1.000 ids=  44 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=  2 Lx=Ly=10 pg= 1.000 ids=  26 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 29 Lx=Ly=10 pg= 1.000 ids=  53 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 71 Lx=Ly=10 pg= 1.000 ids=  95 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 22 Lx=Ly=10 pg= 1.000 ids=  46 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=  8 Lx=Ly=10 pg= 1.000 ids=  32 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=  0 Lx=Ly=10 pg= 1.000 ids=  24 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 32 Lx=Ly=10 pg= 1.000 ids=  56 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 52 Lx=Ly=10 pg= 1.000 ids=  76 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 58 Lx=Ly=10 pg= 1.000 ids=  82 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 50 Lx=Ly=10 pg= 1.000 ids=  74 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=  6 Lx=Ly=10 pg= 1.000 ids=  30 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 34 Lx=Ly=10 pg= 1.000 ids=  58 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 48 Lx=Ly=10 pg= 1.000 ids=  72 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 42 Lx=Ly=10 pg= 1.000 ids=  66 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 60 Lx=Ly=10 pg= 1.000 ids=  84 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 40 Lx=Ly=10 pg= 1.000 ids=  64 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 68 Lx=Ly=10 pg= 1.000 ids=  92 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 44 Lx=Ly=10 pg= 1.000 ids=  68 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 46 Lx=Ly=10 pg= 1.000 ids=  70 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 70 Lx=Ly=10 pg= 1.000 ids=  94 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 72 Lx=Ly=10 pg= 1.000 ids=  96 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 64 Lx=Ly=10 pg= 1.000 ids=  88 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 38 Lx=Ly=10 pg= 1.000 ids=  62 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 62 Lx=Ly=10 pg= 1.000 ids=  86 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 81 Lx=Ly=10 pg= 0.900 ids=  77 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.300  dep_x= 1.000 dep_z= 7.000
+rank=  3 Lx=Ly=10 pg= 1.000 ids=  27 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 66 Lx=Ly=10 pg= 1.000 ids=  90 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 75 Lx=Ly=10 pg= 1.000 ids=  99 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 43 Lx=Ly=10 pg= 1.000 ids=  67 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=  7 Lx=Ly=10 pg= 0.900 ids=   3 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.200  dep_x= 1.000 dep_z= 8.000
+rank= 54 Lx=Ly=10 pg= 1.000 ids=  78 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 74 Lx=Ly=10 pg= 1.000 ids=  98 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 12 Lx=Ly=10 pg= 1.000 ids=  36 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank=  4 Lx=Ly=10 pg= 1.000 ids=  28 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 56 Lx=Ly=10 pg= 1.000 ids=  80 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 31 Lx=Ly=10 pg= 1.000 ids=  55 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 73 Lx=Ly=10 pg= 1.000 ids=  97 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 36 Lx=Ly=10 pg= 1.000 ids=  60 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 41 Lx=Ly=10 pg= 1.000 ids=  65 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 19 Lx=Ly=10 pg= 1.000 ids=  43 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 26 Lx=Ly=10 pg= 0.900 ids=  22 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 0.000  dep_x= 1.000 dep_z=10.000
+rank=  7 Lx=Ly=10 pg= 1.000 ids=  31 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+rank= 26 Lx=Ly=10 pg= 1.000 ids=  50 TEE=-1 R2x= 0.000 R2z= 0.000 R2x_loop= 0.000 R2z_loop= 1.000  dep_x= 1.000 dep_z= 0.000
+Lx=10, pg=0.000 : TEE=0.0000, x-string=1.0000, z-string=0.0000, x-loop=1.0000, z-loop=0.0000, dep_x=0.0000, dep_z=0.0000
+Lx=10, pg=0.100 : TEE=0.0000, x-string=0.9444, z-string=0.0000, x-loop=1.0000, z-loop=0.0000, dep_x=0.0000, dep_z=0.0000
+Lx=10, pg=0.200 : TEE=0.0000, x-string=0.8818, z-string=0.0000, x-loop=1.0000, z-loop=0.0000, dep_x=0.0000, dep_z=0.0000
+Lx=10, pg=0.300 : TEE=0.0000, x-string=0.8208, z-string=0.0000, x-loop=1.0000, z-loop=0.0000, dep_x=0.0000, dep_z=0.0000
+Lx=10, pg=0.500 : TEE=0.0000, x-string=0.5699, z-string=0.0000, x-loop=1.0000, z-loop=0.0000, dep_x=0.0000, dep_z=0.0000
+Lx=10, pg=0.600 : TEE=0.0000, x-string=0.4014, z-string=0.0000, x-loop=1.0000, z-loop=0.0000, dep_x=0.0000, dep_z=0.0000
+Lx=10, pg=0.700 : TEE=-0.0600, x-string=0.2081, z-string=0.0000, x-loop=1.0000, z-loop=0.0000, dep_x=0.0000, dep_z=0.0000
+Lx=10, pg=0.800 : TEE=-0.8300, x-string=0.0081, z-string=0.0000, x-loop=0.0000, z-loop=0.0100, dep_x=1.0000, dep_z=0.0000
+Lx=10, pg=1.000 : TEE=-1.0000, x-string=0.0000, z-string=0.0000, x-loop=0.0000, z-loop=1.0000, dep_x=1.0000, dep_z=0.0000
+Lx=10, pg=0.900 : TEE=-1.0000, x-string=0.0009, z-string=0.0000, x-loop=0.0000, z-loop=0.1980, dep_x=1.0000, dep_z=0.0000
+Lx=10, pg=0.400 : TEE=0.0000, x-string=0.7013, z-string=0.0000, x-loop=1.0000, z-loop=0.0000, dep_x=0.0000, dep_z=0.0000
+px= 0.0 Np= 11 Nd= 100 NT= 6000 time= 43
