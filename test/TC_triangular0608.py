@@ -219,14 +219,14 @@ def dephasing_linkZ(MR, q):
 
     bad = np.flatnonzero(active[:, q] == 1)
 
-    print("q =", q)
-    print("bad =", bad)
-    for b in bad:
-        print(
-            "bad row", b,
-            "X=", np.where(active[b, :L2])[0],
-            "Z=", np.where(active[b, L2:])[0],
-        )
+    # print("q =", q)
+    # print("bad =", bad)
+    # for b in bad:
+    #     print(
+    #         "bad row", b,
+    #         "X=", np.where(active[b, :L2])[0],
+    #         "Z=", np.where(active[b, L2:])[0],
+    #     )
 
     if bad.size == 0:
         return active
@@ -234,7 +234,7 @@ def dephasing_linkZ(MR, q):
     k0 = int(bad[0])
     pivot = active[k0].copy()
 
-    print("delete pivot row =", k0)
+    #print("delete pivot row =", k0)
 
     if bad.size > 1:
         active[bad[1:]] ^= pivot
@@ -503,14 +503,14 @@ def Renyi2_csr(dMR,Gcd_csr,ST_csr,Lxd,Lyd):
 
 
 # parameters
-ps, pl = 0.0,1.0
-Np=6
+ps, pl = 0.0, 0.3
+Np=11
 Nd = 100 #800 sample number
 
 #case1= X,case2= Z, case3= ground state of TC
 case=3
 
-Lx, Ly = 2,2
+Lx, Ly = 6,6
 
 Lv=Lx*Ly # total # of vertex
 L=3*Lv # total # of link qubits
@@ -632,7 +632,7 @@ for (ip, ids) in my_tasks:
     NABC0 = negativity_E_fast(MR0, nsdd0, Lv, ABC_idx)
     TEN0 = NA0 + NB0 + NC0 - NAB0 - NBC0 - NCA0 + NABC0
 
-    print("NA=", NA0, "NB=", NB0, "NC=", NC0, "NAB=", NAB0, "NBC=", NBC0, "NCA=", NCA0, "NABC=", NABC0, "TEN=", TEN0)
+    #print("NA=", NA0, "NB=", NB0, "NC=", NC0, "NAB=", NAB0, "NBC=", NBC0, "NCA=", NCA0, "NABC=", NABC0, "TEN=", TEN0)
 
 
     MR = MR0.copy()
@@ -653,7 +653,7 @@ for (ip, ids) in my_tasks:
             q = int(order[ptr])   # triangle のリンク番号
             #nsdd = dephasing_linkZ_inplace(MR, q, nsdd)
 
-            MR = dephasing_linkZ_debug(MR, q)
+            MR = dephasing_linkZ(MR, q)
             #print("ip=",ip,"p=",p,"q=",q,"nsdd=",nsdd)
 
             #print(MR)
@@ -667,11 +667,11 @@ for (ip, ids) in my_tasks:
         active_MR = MR.copy()
         #active_MR = MR[:nsdd].copy()
         L_dummy = active_MR.shape[1] // 2
-        print("active_MR")
-        for i, row in enumerate(active_MR):
-            x = [int(v) for v in np.where(row[:L_dummy])[0]]
-            z = [int(v) for v in np.where(row[L_dummy:])[0]]
-            print(f"{i:2d}: X={x} Z={z}")
+        # print("active_MR")
+        # for i, row in enumerate(active_MR):
+        #     x = [int(v) for v in np.where(row[:L_dummy])[0]]
+        #     z = [int(v) for v in np.where(row[L_dummy:])[0]]
+        #     print(f"{i:2d}: X={x} Z={z}")
 
         NA = negativity_E_fast(active_MR, nsdd0, Lv, A_idx)
         NB = negativity_E_fast(active_MR, nsdd0, Lv, B_idx)
@@ -682,9 +682,10 @@ for (ip, ids) in my_tasks:
         NABC = negativity_E_fast(active_MR, nsdd0, Lv, ABC_idx)
         TEN = NA + NB + NC - NAB - NBC - NCA + NABC
 
-        print(f"p={p:.3f}, ptr={ptr}, nsdd={nsdd}")
+        n_dephased = ptr
+        print(f"p={p:.3f}, dephased links={n_dephased}/{L}")
 
-        print("NA=", NA, "NB=", NB, "NC=", NC, "NAB=", NAB, "NBC=", NBC, "NCA=", NCA, "NABC=", NABC, "TEN=", TEN)
+        #print("NA=", NA, "NB=", NB, "NC=", NC, "NAB=", NAB, "NBC=", NBC, "NCA=", NCA, "NABC=", NABC, "TEN=", TEN)
 
         STx_csr,STz_csr=Renyi2_create(L,Lv,Lx,Ly)
         STx_loop_csr,STz_loop_csr=Renyi2_loop_create(L,Lv,Lx,Ly)
