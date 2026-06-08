@@ -969,6 +969,7 @@ if rank == 0:
         data_set[Lx].setdefault("dep_z_err", []).append(dep_z_err)
         data_set[Lx].setdefault("dep_z_var", []).append(dep_z_var)
         
+        
     for Lx in data_set:
         np.savez_compressed(f"results_px_{px}_Lx_{Lx}_Nd_{Nd}_NT_{NT}.npz",
                             pg=data_set[Lx]["pg"],
