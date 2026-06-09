@@ -129,69 +129,6 @@ def initial_stabilizer_state(case,Ld,Lxd,Lyd,v_ind,p_ind):
     #print(MRi)
     return MRi
 
-####################################################
-def measurement_op(dMR,Ld,Lxd,Lyd,v_ind,p_ind,Gcd,mtyped):
-    Meo=np.zeros(2*Ld,dtype='uint32')
-    #
-    if mtyped==1: #plaquette or star operator
-        todo=[0,1]
-        prob_list = [0.5,0.5]
-        vorp = np.random.choice(todo,size=None,replace=True, p=prob_list)
-        if vorp==0:
-            todo=np.arange(Lxd*Lyd)
-            vp=np.random.choice(todo,size=None,replace=True,p=None)
-            #please check
-            Meo[v_ind[vp][0]]=1 #X0
-            Meo[v_ind[vp][1]]=1 #X1
-            Meo[v_ind[vp][2]]=1 #X2
-            Meo[v_ind[vp][3]]=1 #X3
-            Meo[v_ind[vp][4]]=1 #X4
-            Meo[v_ind[vp][5]]=1 #X5
-        else:
-            todo=np.arange(2*Lxd*Lyd)
-            pp=np.random.choice(todo,size=None,replace=True,p=None)
-            #please check
-            Meo[Ld+p_ind[pp][0]]=1 #Z0
-            Meo[Ld+p_ind[pp][1]]=1 #Z1
-            Meo[Ld+p_ind[pp][2]]=1 #Z2
-            
-    if mtyped==2: #local X
-        todo=np.arange(Ld)
-        mp=np.random.choice(todo,size=None,replace=True,p=None)
-        #please check
-        Meo[mp]=1 #X0
-        
-    if mtyped==3: #local Z
-        todo=np.arange(Ld)
-        mp=np.random.choice(todo,size=None,replace=True,p=None)
-        #please check
-        Meo[Ld+mp]=1 #X0
-    
-    # Meo without outcome sign
-    MeoF=np.zeros(2*Ld,dtype='uint32')
-    MeoF=Meo
-    
-    # dMR without foctor
-    dMRF=np.zeros((Ld,2*Ld),dtype='uint32')
-    dMRF=dMR
-    #check anti commtation
-    Mgs=np.dot(dMRF,np.dot(Gcd,MeoF.T))
-    Mgs=Mgs%2  ## check: reduce Z2 value 
-    
-    antic_index_list=[]
-    aid=np.where(Mgs[:]!=0)
-    antic_index_list=aid[0]
-    #######
-    lenMe=len(antic_index_list)
-    if lenMe !=0:
-        kc=antic_index_list[0]
-        dMR_prev=dMR[kc].copy()
-        #replace stabilizer for kc
-        dMR[kc]=Meo
-        update_list=np.delete(antic_index_list,0)
-        dMR[update_list,:]=np.mod(dMR[update_list,:]+dMR_prev,2)
-    return dMR
-
 def dephasing_linkZ_inplace(dMR, q, nsdd):
     active = dMR[:nsdd]
 
@@ -355,9 +292,6 @@ def negativity_E_fast(MRdn: np.ndarray, nsdd2: int, Ld: int, sub_idx: np.ndarray
     ComM = ((X @ Z.T) + (Z @ X.T)) & 1
     rankJ = rank_mod2_numba(ComM.astype(np.uint8, copy=False))
     return 0.5 * rankJ
-
-
-
 def subset2(Ld,Ax,Ay,Lx,Ly,p_indd):
     i = idx(Ax,Ay,Lx,Ly)
     Asub_set = set()
@@ -477,21 +411,6 @@ def Renyi2_csr(dMR,Gcd_csr,ST_csr,Lxd,Lyd):
     dMR_csr = csr_matrix(dMR)
     Mgs=(dMR_csr.dot(Gcd_csr.dot(ST_csr))).toarray()
 
-    # ST_dense = ST_csr.toarray()
-    # GST_dense = (Gcd_csr.dot(ST_csr)).toarray()
-    # dMR_dense = dMR_csr.toarray()
-    # print("ST")
-    # print(ST_dense.shape)
-    # print(ST_dense)
-    # print("G_ST")
-    # print(GST_dense.shape)
-    # print(GST_dense)
-    # print("MR")
-    # print(dMR_dense.shape)
-    # print(dMR_dense)
-    # print("Mgs")
-    # print(Mgs)
-    
     R2_element=np.all((Mgs%2)<0.1,axis=0)
     #print(R2_element)
     R2sum=np.sum(R2_element.astype(int))#       
@@ -653,7 +572,7 @@ for (ip, ids) in my_tasks:
             q = int(order[ptr])   # triangle のリンク番号
             #nsdd = dephasing_linkZ_inplace(MR, q, nsdd)
 
-            MR = dephasing_linkZ(MR, q)
+            MR = dephasing_linkZ_debug(MR, q)
             #print("ip=",ip,"p=",p,"q=",q,"nsdd=",nsdd)
 
             #print(MR)
