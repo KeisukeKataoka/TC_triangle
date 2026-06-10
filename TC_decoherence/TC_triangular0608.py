@@ -117,17 +117,59 @@ def initial_stabilizer_state(case,Ld,Lxd,Lyd,v_ind,p_ind):
             MRi[ivs][v_ind[iv][4]]=1 # X4
             MRi[ivs][v_ind[iv][5]]=1 # X5
             #独立ではない最後のAvだけ取らない
+
+        MRi[Ld-2] = 0
+        MRi[Ld-1] = 0
+        
         ### Add logical operators###
+            # x-direction loop logical X
+            # for kk in range(Lxd):
+            #     iv=(kk%Lx)+Lx*(0%Lyd)
+            #     MRi[Ld-2][v_ind[iv][0]] = 1
+            # # y-direction loop logical X
+            # for kk in range(Lyd):
+            #     iv=(0%Lx)+Lx*(kk%Lyd)
+            #     MRi[Ld-1][v_ind[iv][2]] = 0
             # x-direction loop logical Z
-            for kk in range(Lxd):
-                iv=(kk%Lx)+Lx*(0%Lyd)
-                MRi[Ld-2][Ld+v_ind[iv][0]]=0 #Z
-            # x-direction loop logical Z
-            for kk in range(Lyd):
-                iv=(0%Lx)+Lx*(kk%Lyd)
-                MRi[Ld-1][Ld+v_ind[iv][2]]=0 #Z
+            # for kk in range(Lxd):
+            #     iv=(kk%Lx)+Lx*(0%Lyd)
+            #     MRi[Ld-2][Ld+v_ind[iv][0]] = 1
+            # y-direction loop logical Z
+            # for kk in range(Lyd):
+            #     iv=(0%Lx)+Lx*(kk%Lyd)
+            #     MRi[Ld-1][Ld+v_ind[iv][2]] = 1
     #print(MRi)
     return MRi
+
+def make_logical_ops(Ld, Lxd, Lyd, v_ind):
+    ops = {}
+
+    op = np.zeros(2*Ld, dtype=np.uint32)
+    for kk in range(Lxd):
+        iv = kk + Lxd * 0
+        op[v_ind[iv][0]] = 1
+    ops["Xx"] = op
+
+    op = np.zeros(2*Ld, dtype=np.uint32)
+    for kk in range(Lyd):
+        iv = 0 + Lxd * kk
+        op[v_ind[iv][2]] = 1
+    ops["Xy"] = op
+
+    op = np.zeros(2*Ld, dtype=np.uint32)
+    for kk in range(Lxd):
+        iv = kk + Lxd * 0
+        op[Ld + v_ind[iv][0]] = 1
+    ops["Zx"] = op
+
+    op = np.zeros(2*Ld, dtype=np.uint32)
+    for kk in range(Lyd):
+        iv = 0 + Lxd * kk
+        op[Ld + v_ind[iv][2]] = 1
+    ops["Zy"] = op
+
+    return ops
+
 
 def dephasing_linkZ_inplace(dMR, q, nsdd):
     active = dMR[:nsdd]
@@ -402,10 +444,15 @@ def Renyi2_csr(dMR,Gcd_csr,ST_csr,Lxd,Lyd):
     return R2sum/((Lxd-1)*Lyd)
 
 
+def logical_in_MR(MR, op):
+    op = op.reshape(1, -1).astype(MR.dtype, copy=False)
+
+    r1 = rank_mod2_numba(MR.copy())
+    r2 = rank_mod2_numba(np.vstack([MR, op]).copy())
+
+    return int(r1 == r2)   # 1: MRに含まれる, 0: 含まれない
 
 ##### Main simulation loop #####
-
-
 # parameters
 ps, pl = 0.0, 1.0
 Np=21
@@ -414,7 +461,7 @@ Nd = 100 #800 sample number
 #case1= X,case2= Z, case3= ground state of TC
 case=3
 
-Lx, Ly = 12,12
+Lx, Ly = 6,6
 
 Lv=Lx*Ly # total # of vertex
 L=3*Lv # total # of link qubits
@@ -433,6 +480,13 @@ local_results = {}  # key = (Lx, pg), value = [TEE値のリスト]
 fig, ax = plt.subplots(1,2,figsize=(12,4))
 
 p_indd, v_indd=create_transformation_pv_link(Lv, Lx, Ly)
+
+logical_ops = make_logical_ops(L, Lx, Ly, v_indd)
+
+logical_Xx = logical_ops["Xx"]
+logical_Xy = logical_ops["Xy"]
+logical_Zx = logical_ops["Zx"]
+logical_Zy = logical_ops["Zy"]
 
 #Ax,Ay=Lx//2,Ly//2
 Ax,Ay = 2,2
@@ -469,8 +523,6 @@ ABC_idx = np.array(sorted(ABC), dtype=np.int64)
 
 for ids in my_tasks:
     
-    
-    
     Gc_csr=Gc(L)
     Gc_array = Gc_csr.toarray()
     #print("Gc",Gc.shape)
@@ -487,6 +539,12 @@ for ids in my_tasks:
     
     dep_x_list=[]
     dep_z_list=[]
+
+    alive_Xx_list = []
+    alive_Xy_list = []
+
+    alive_Zx_list = []
+    alive_Zy_list = []
 
     TEN_ave=[]
     TEN_error=[]
@@ -516,23 +574,48 @@ for ids in my_tasks:
     dep_z_error=[]
     dep_z_var=[]
 
+    alive_Xx_ave = []
+    alive_Xx_error = []
+    alive_Xx_var = []
+
+    alive_Xy_ave = []
+    alive_Xy_error = []
+    alive_Xy_var = []
+
+    alive_Zx_ave = []
+    alive_Zx_error = []
+    alive_Zx_var = []
+
+    alive_Zy_ave = []
+    alive_Zy_error = []
+    alive_Zy_var = []
+
     # stabilizer matrix
     MR=np.zeros((L,2*L),dtype='uint8') # L * 2L matrix
 
     # sample set of physical quantity
     MR0=initial_stabilizer_state(case,L,Lx,Ly,v_indd,p_indd)
+    MR0[L-2] = logical_ops["Xx"]
+    #MR[L-1] = logical_ops["Zy"]
     nsdd0 = L
 
 
+    MR = MR0.copy()
+
+    alive_Xx = logical_in_MR(MR, logical_Xx)
+    alive_Xy = logical_in_MR(MR, logical_Xy)
+    alive_Zx = logical_in_MR(MR, logical_Zx)
+    alive_Zy = logical_in_MR(MR, logical_Zy)
+    val = f"alive_Xx={alive_Xx}, alive_Xy={alive_Xy}, alive_Zx={alive_Zx}, alive_Zy={alive_Zy}"
+    
     # debug
-    # L0 = MR0.shape[1] // 2
-    # for i, row in enumerate(MR0):
+    # L0 = MR.shape[1] // 2
+    # for i, row in enumerate(MR):
     #     x = [int(v) for v in np.where(row[:L0])[0]]
     #     z = [int(v) for v in np.where(row[L0:])[0]]
     #     print(f"{i:2d}: X={x} Z={z}")
 
-    
-
+    # print(val)
 
 
 
@@ -586,9 +669,17 @@ for ids in my_tasks:
             NABC = negativity_E_fast(active_MR, nsdd0, Lv, ABC_idx)
             TEN = NA + NB + NC - NAB - NBC - NCA + NABC
 
+
+            alive_Xx = logical_in_MR(active_MR, logical_Xx)
+            alive_Xy = logical_in_MR(active_MR, logical_Xy)
+            alive_Zx = logical_in_MR(active_MR, logical_Zx)
+            alive_Zy = logical_in_MR(active_MR, logical_Zy)
+            val = f"alive_Xx={alive_Xx}, alive_Xy={alive_Xy}, alive_Zx={alive_Zx}, alive_Zy={alive_Zy}"
+
             # debug
             # print(f"ptr={ptr:3d}, TEN={TEN:.3f}")
             # print("NA=", NA, "NB=", NB, "NC=", NC, "NAB=", NAB, "NBC=", NBC, "NCA=", NCA, "NABC=", NABC, "TEN=", TEN)
+            # print(val)
             # input("Enter を押すと続行します... ptr=" + str(ptr))
 
         active_MR = MR.copy()
@@ -608,6 +699,11 @@ for ids in my_tasks:
         NCA = negativity_E_fast(active_MR, nsdd0, Lv, CA_idx)
         NABC = negativity_E_fast(active_MR, nsdd0, Lv, ABC_idx)
         TEN = NA + NB + NC - NAB - NBC - NCA + NABC
+
+        alive_Xx = logical_in_MR(active_MR, logical_Xx)
+        alive_Xy = logical_in_MR(active_MR, logical_Xy)
+        alive_Zx = logical_in_MR(active_MR, logical_Zx)
+        alive_Zy = logical_in_MR(active_MR, logical_Zy)
 
         # debug
         # print(f"ptr={ptr:3d}, TEN={TEN:.3f}")
@@ -653,16 +749,27 @@ for ids in my_tasks:
 
         R2x_loop = R2x_loop*(Lx-1)
         R2z_loop = R2z_loop*(Lx-1)
-        #print("pg=",pg,"ids=",ids,"TEN=",TEN0,"Renyi2=",Renyi2_corr_csr)
-        TEN_list=np.append(TEN_list,TEN)
-        R2x_list=np.append(R2x_list,R2x)
-        R2z_list=np.append(R2z_list,R2z)
-        R2x_loop_list=np.append(R2x_loop_list,R2x_loop)
-        R2z_loop_list=np.append(R2z_loop_list,R2z_loop)
-        dep_x_list=np.append(dep_x_list,dep_x)
-        dep_z_list=np.append(dep_z_list,dep_z)
-        print(f"rank={rank:>3} Lx=Ly={Lx:>2} p={p:>6.3f} ids={ids:>4} TEN={TEN:>2} R2x={R2x:>6.3f} R2z={R2z:>6.3f} R2x_loop={R2x_loop:>6.3f} R2z_loop={R2z_loop:>6.3f}  dep_x={dep_x:>6.3f} dep_z={dep_z:>6.3f}", flush=True)
 
+
+        TEN_list.append(TEN)
+        R2x_list.append(R2x)
+        R2z_list.append(R2z)
+        R2x_loop_list.append(R2x_loop)
+        R2z_loop_list.append(R2z_loop)
+
+        dep_x_list.append(dep_x)
+        dep_z_list.append(dep_z)
+
+        alive_Xx_list.append(alive_Xx)
+        alive_Xy_list.append(alive_Xy)
+
+        alive_Zx_list.append(alive_Zx)
+        alive_Zy_list.append(alive_Zy)
+
+
+
+        print(f"rank={rank:>3} Lx=Ly={Lx:>2} p={p:>6.3f} ids={ids:>4} TEN={TEN:>2} R2x={R2x:>6.3f} R2z={R2z:>6.3f} R2x_loop={R2x_loop:>6.3f} R2z_loop={R2z_loop:>6.3f}  dep_x={dep_x:>6.3f} dep_z={dep_z:>6.3f}", flush=True)
+        print(f"alive_Xx={alive_Xx}, alive_Xy={alive_Xy}, alive_Zx={alive_Zx}, alive_Zy={alive_Zy}", flush=True)
     
         if len(TEN_list) > 1:
             TEN_aved = np.mean(TEN_list)

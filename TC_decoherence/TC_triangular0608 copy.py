@@ -122,7 +122,7 @@ def initial_stabilizer_state(case,Ld,Lxd,Lyd,v_ind,p_ind):
             for kk in range(Lx):
                 iv=(kk%Lx)+Lx*(0%Ly)
                 MRi[Ld-2][Ld+v_ind[iv][0]]=0 #Z
-            # x-direction loop logical Z
+            # y-direction loop logical Z
             for kk in range(Ly):
                 iv=(0%Lx)+Lx*(kk%Ly)
                 MRi[Ld-1][Ld+v_ind[iv][2]]=0 #Z
