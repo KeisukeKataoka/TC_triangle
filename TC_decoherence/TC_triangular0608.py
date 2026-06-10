@@ -119,12 +119,12 @@ def initial_stabilizer_state(case,Ld,Lxd,Lyd,v_ind,p_ind):
             #独立ではない最後のAvだけ取らない
         ### Add logical operators###
             # x-direction loop logical Z
-            for kk in range(Lx):
-                iv=(kk%Lx)+Lx*(0%Ly)
+            for kk in range(Lxd):
+                iv=(kk%Lx)+Lx*(0%Lyd)
                 MRi[Ld-2][Ld+v_ind[iv][0]]=0 #Z
             # x-direction loop logical Z
-            for kk in range(Ly):
-                iv=(0%Lx)+Lx*(kk%Ly)
+            for kk in range(Lyd):
+                iv=(0%Lx)+Lx*(kk%Lyd)
                 MRi[Ld-1][Ld+v_ind[iv][2]]=0 #Z
     #print(MRi)
     return MRi
@@ -325,7 +325,7 @@ def EE_cal(MRd,Asub_set,Ld):
     #LA=Ld//2
     Asub=list(Asub_set)
     LA=len(Asub)
-    MRdA=np.zeros((Ld,2*(len(Asub))),dtype='uint32')
+    MRdA=np.zeros((Ld,2*(len(Asub))),dtype='uint8')
     #print("new",Asub)
     for k2 in range(len(Asub)):
         MRdA[:,k2]=MRd[:,Asub[k2]].copy()
@@ -337,26 +337,11 @@ def EE_cal(MRd,Asub_set,Ld):
     EEd=rankA-(LA)
     return EEd
 
-#############################
-def rank_mod2_v3(MRdd):
-    # MRdA construct
-    i = 0
-    Ic = MRdd.shape[0]
-    Jc = MRdd.shape[1]
-    for j in range(Jc):
-        check_ind=np.where(MRdd[i:,j]==1)
-        if len(check_ind[0]) !=0:
-            if len(check_ind[0]) >1:
-                elim_ind=np.delete(check_ind,0)
-                MRdd[elim_ind+i,:]=np.mod(MRdd[elim_ind+i,:]+MRdd[check_ind[0][0]+i,:],2)
-            MRdd[i,:],MRdd[check_ind[0][0]+i,:] = MRdd[check_ind[0][0]+i,:],MRdd[i,:].copy()
-            i=i+1
-    return i
 
 #####    Renyi2-correlator-csr  ######
 def Renyi2_create(Ld,Lv,Lxd,Lyd):
-    STx = np.zeros((2*Ld,(Lxd-1)*Lyd),dtype='uint32')
-    STz = np.zeros((2*Ld,(Lxd-1)*Lyd),dtype='uint32')
+    STx = np.zeros((2*Ld,(Lxd-1)*Lyd),dtype='uint8')
+    STz = np.zeros((2*Ld,(Lxd-1)*Lyd),dtype='uint8')
     i=0
     for piy in range(Lyd):
 
@@ -379,8 +364,8 @@ def Renyi2_create(Ld,Lv,Lxd,Lyd):
     return STx_list, STz_list
 
 def Renyi2_loop_create(Ld,Lv,Lxd,Lyd):
-    STx = np.zeros((2*Ld,Lyd),dtype='uint32')
-    STz = np.zeros((2*Ld,Lyd),dtype='uint32')
+    STx = np.zeros((2*Ld,Lyd),dtype='uint8')
+    STz = np.zeros((2*Ld,Lyd),dtype='uint8')
     i=0
     for piy in range(Lyd):
         #zig-zag
@@ -400,7 +385,7 @@ def Renyi2_loop_create(Ld,Lv,Lxd,Lyd):
     return STx_list, STz_list
 
 def Gc(L):
-    Gc=np.zeros((2*L,2*L),dtype='uint32') # 2L * 2L matrix
+    Gc=np.zeros((2*L,2*L),dtype='uint8') # 2L * 2L matrix
     for k in range(L):
         Gc[k][L+k]=1
         Gc[L+k][k]=1  
@@ -422,14 +407,14 @@ def Renyi2_csr(dMR,Gcd_csr,ST_csr,Lxd,Lyd):
 
 
 # parameters
-ps, pl = 0.0, 0.3
-Np=11
+ps, pl = 0.0, 1.0
+Np=21
 Nd = 100 #800 sample number
 
 #case1= X,case2= Z, case3= ground state of TC
 case=3
 
-Lx, Ly = 6,6
+Lx, Ly = 12,12
 
 Lv=Lx*Ly # total # of vertex
 L=3*Lv # total # of link qubits
@@ -438,14 +423,8 @@ Lp=2*Lv  # total # of plaquette
 
 data_set = {}
 
-tasks = []
+tasks = list(range(Nd))
 
-
-for ip in range(Np):
-    for ids in range(Nd):
-        tasks.append((ip, ids))
-
-# --- 2. MPI rankに均等割り当て ---
 my_tasks = [tasks[i] for i in range(len(tasks)) if i % size == rank]
 
 # --- 3. 計算結果をためる辞書 ---
@@ -453,16 +432,62 @@ local_results = {}  # key = (Lx, pg), value = [TEE値のリスト]
 
 fig, ax = plt.subplots(1,2,figsize=(12,4))
 
-for (ip, ids) in my_tasks:
+p_indd, v_indd=create_transformation_pv_link(Lv, Lx, Ly)
+
+#Ax,Ay=Lx//2,Ly//2
+Ax,Ay = 2,2
+Bx,By=Ax+2,Ay+1
+Cx,Cy=Ax+1,Ay+2     
+
+A = subset6(L,Ax,Ay,Lx,Ly,p_indd)
+B = subset6(L,Bx,By,Lx,Ly,p_indd)
+C = subset6(L,Cx,Cy,Lx,Ly,p_indd)
+
+
+B = B - A
+C = C - (A | B)
+
+if rank == 0:
+    print("A =", sorted(map(int, A)))
+    print("B =", sorted(map(int, B)))
+    print("C =", sorted(map(int, C)))
+
+AB = A | B
+BC = B | C
+CA = C | A
+ABC = A | B | C
+
+A_idx = np.array(sorted(A), dtype=np.int64)
+B_idx = np.array(sorted(B), dtype=np.int64)
+C_idx = np.array(sorted(C), dtype=np.int64)
+AB_idx = np.array(sorted(AB), dtype=np.int64)
+BC_idx = np.array(sorted(BC), dtype=np.int64)
+CA_idx = np.array(sorted(CA), dtype=np.int64)
+ABC_idx = np.array(sorted(ABC), dtype=np.int64)
+
+
+
+for ids in my_tasks:
     
-    p_indd, v_indd=create_transformation_pv_link(Lv, Lx, Ly)
+    
     
     Gc_csr=Gc(L)
     Gc_array = Gc_csr.toarray()
     #print("Gc",Gc.shape)
     
     
-    p_list=[]
+    p_list = np.linspace(ps, pl, Np)
+    TEN_list=[]
+    
+    R2x_list=[]
+    R2z_list=[]
+    
+    R2x_loop_list=[]
+    R2z_loop_list=[]
+    
+    dep_x_list=[]
+    dep_z_list=[]
+
     TEN_ave=[]
     TEN_error=[]
     TEN_var=[]
@@ -492,54 +517,24 @@ for (ip, ids) in my_tasks:
     dep_z_var=[]
 
     # stabilizer matrix
-    MR=np.zeros((L,2*L),dtype='uint32') # L * 2L matrix
+    MR=np.zeros((L,2*L),dtype='uint8') # L * 2L matrix
+
     # sample set of physical quantity
     MR0=initial_stabilizer_state(case,L,Lx,Ly,v_indd,p_indd)
     nsdd0 = L
 
-    L0 = MR0.shape[1] // 2
-    for i, row in enumerate(MR0):
-        x = [int(v) for v in np.where(row[:L0])[0]]
-        z = [int(v) for v in np.where(row[L0:])[0]]
-        print(f"{i:2d}: X={x} Z={z}")
+
+    # debug
+    # L0 = MR0.shape[1] // 2
+    # for i, row in enumerate(MR0):
+    #     x = [int(v) for v in np.where(row[:L0])[0]]
+    #     z = [int(v) for v in np.where(row[L0:])[0]]
+    #     print(f"{i:2d}: X={x} Z={z}")
 
     
-    TEN_list=[]
-    R2x_list=[]
-    R2z_list=[]
-    R2x_loop_list=[]
-    R2z_loop_list=[]
-    dep_x_list=[]
-    dep_z_list=[]
 
-    #Ax,Ay=Lx//2,Ly//2
-    Ax,Ay = 2,2
-    Bx,By=Ax+2,Ay+1
-    Cx,Cy=Ax+1,Ay+2     
 
-    A = subset6(L,Ax,Ay,Lx,Ly,p_indd)
-    B = subset6(L,Bx,By,Lx,Ly,p_indd)
-    C = subset6(L,Cx,Cy,Lx,Ly,p_indd)
 
-    print("A =", sorted(map(int, A)))
-    print("B =", sorted(map(int, B)))
-    print("C =", sorted(map(int, C)))
-
-    B = B - A
-    C = C - (A | B)
-
-    AB = A | B
-    BC = B | C
-    CA = C | A
-    ABC = A | B | C
-
-    A_idx = np.array(sorted(A), dtype=np.int64)
-    B_idx = np.array(sorted(B), dtype=np.int64)
-    C_idx = np.array(sorted(C), dtype=np.int64)
-    AB_idx = np.array(sorted(AB), dtype=np.int64)
-    BC_idx = np.array(sorted(BC), dtype=np.int64)
-    CA_idx = np.array(sorted(CA), dtype=np.int64)
-    ABC_idx = np.array(sorted(ABC), dtype=np.int64)
 
     # sanity check at p=0
     NA0 = negativity_E_fast(MR0, nsdd0, Lv, A_idx)
@@ -553,11 +548,8 @@ for (ip, ids) in my_tasks:
 
     #print("NA=", NA0, "NB=", NB0, "NC=", NC0, "NAB=", NAB0, "NBC=", NBC0, "NCA=", NCA0, "NABC=", NABC0, "TEN=", TEN0)
 
-
     MR = MR0.copy()
     nsdd = L
-
-
 
 
     u = np.random.random(L)
@@ -565,14 +557,12 @@ for (ip, ids) in my_tasks:
     u_sorted = u[order]
     ptr = 0
 
-    p_list = np.linspace(ps, pl, Np)
-
     for ip, p in enumerate(p_list):
         while ptr < L and u_sorted[ptr] < p:
             q = int(order[ptr])   # triangle のリンク番号
             #nsdd = dephasing_linkZ_inplace(MR, q, nsdd)
 
-            MR = dephasing_linkZ_debug(MR, q)
+            MR = dephasing_linkZ(MR, q)
             #print("ip=",ip,"p=",p,"q=",q,"nsdd=",nsdd)
 
             #print(MR)
@@ -583,6 +573,24 @@ for (ip, ids) in my_tasks:
             #     print(f"{i:2d}: X={x} Z={z}")
 
             ptr += 1
+
+            active_MR = MR.copy()
+            L_dummy = active_MR.shape[1] // 2
+
+            NA = negativity_E_fast(active_MR, nsdd0, Lv, A_idx)
+            NB = negativity_E_fast(active_MR, nsdd0, Lv, B_idx)
+            NC = negativity_E_fast(active_MR, nsdd0, Lv, C_idx)
+            NAB = negativity_E_fast(active_MR, nsdd0, Lv, AB_idx)
+            NBC = negativity_E_fast(active_MR, nsdd0, Lv, BC_idx)
+            NCA = negativity_E_fast(active_MR, nsdd0, Lv, CA_idx)
+            NABC = negativity_E_fast(active_MR, nsdd0, Lv, ABC_idx)
+            TEN = NA + NB + NC - NAB - NBC - NCA + NABC
+
+            # debug
+            # print(f"ptr={ptr:3d}, TEN={TEN:.3f}")
+            # print("NA=", NA, "NB=", NB, "NC=", NC, "NAB=", NAB, "NBC=", NBC, "NCA=", NCA, "NABC=", NABC, "TEN=", TEN)
+            # input("Enter を押すと続行します... ptr=" + str(ptr))
+
         active_MR = MR.copy()
         #active_MR = MR[:nsdd].copy()
         L_dummy = active_MR.shape[1] // 2
@@ -601,8 +609,11 @@ for (ip, ids) in my_tasks:
         NABC = negativity_E_fast(active_MR, nsdd0, Lv, ABC_idx)
         TEN = NA + NB + NC - NAB - NBC - NCA + NABC
 
+        # debug
+        # print(f"ptr={ptr:3d}, TEN={TEN:.3f}")
+
         n_dephased = ptr
-        print(f"p={p:.3f}, dephased links={n_dephased}/{L}")
+        # print(f"p={p:.3f}, dephased links={n_dephased}/{L}")
 
         #print("NA=", NA, "NB=", NB, "NC=", NC, "NAB=", NAB, "NBC=", NBC, "NCA=", NCA, "NABC=", NABC, "TEN=", TEN)
 
@@ -612,25 +623,25 @@ for (ip, ids) in my_tasks:
         #print(ST_dense.shape)
         #print(ST_dense)
 
-        rank_MR = rank_mod2_v3(MR.copy()) 
+        rank_MR = rank_mod2_numba(MR.copy().astype(np.uint8, copy=False))
         
         ### x-loop ###
         STx_loop_csr_T = STx_loop_csr.transpose()
         STx_loop_dense_T = STx_loop_csr_T.toarray()
         
-        rank_STx_loop=rank_mod2_v3(STx_loop_dense_T)      
+        rank_STx_loop = rank_mod2_numba(STx_loop_dense_T.astype(np.uint8, copy=False))   
         
         combined_x = np.vstack([MR, STx_loop_dense_T])
-        rank_combined_x = rank_mod2_v3(combined_x.copy())
+        rank_combined_x = rank_mod2_numba(combined_x.astype(np.uint8, copy=False))
 
         ### z-loop ###
         STz_loop_csr_T = STz_loop_csr.transpose()
         STz_loop_dense_T = STz_loop_csr_T.toarray()
         
-        rank_STz_loop=rank_mod2_v3(STz_loop_dense_T)      
+        rank_STz_loop = rank_mod2_numba(STz_loop_dense_T.astype(np.uint8, copy=False))      
         
         combined_z = np.vstack([MR, STz_loop_dense_T])
-        rank_combined_z = rank_mod2_v3(combined_z.copy())
+        rank_combined_z = rank_mod2_numba(combined_z.astype(np.uint8, copy=False))
     
         dep_x=rank_combined_x-rank_MR
         dep_z=rank_combined_z-rank_MR        
@@ -653,86 +664,6 @@ for (ip, ids) in my_tasks:
         print(f"rank={rank:>3} Lx=Ly={Lx:>2} p={p:>6.3f} ids={ids:>4} TEN={TEN:>2} R2x={R2x:>6.3f} R2z={R2z:>6.3f} R2x_loop={R2x_loop:>6.3f} R2z_loop={R2z_loop:>6.3f}  dep_x={dep_x:>6.3f} dep_z={dep_z:>6.3f}", flush=True)
 
     
-
-
-
-
-    sys.exit(0)
-
-    todo=[1,2,3]
-    for it in range(NT):
-        mtype= np.random.choice(todo,size=None,replace=True,p=prob_list)
-        MR=measurement_op(MR,L,Lx,Ly,v_indd,p_indd,Gc_array,mtype)
-        
-        if it==NT-1:
-            Ax,Ay=Lx//2,Ly//2
-            Bx,By=Ax-2,Ay-1
-            Cx,Cy=Ax-1,Ay-2     
-
-            A = subset6(L,Ax,Ay,Lx,Ly,p_indd)
-            B = subset6(L,Bx,By,Lx,Ly,p_indd) - A
-            C = subset6(L,Cx,Cy,Lx,Ly,p_indd) - A -B
-            AB= A|B
-            BC= B|C
-            CA= C|A
-            ABC=AB|C
-            
-            SA=EE_cal(MR,A,L)
-            SB=EE_cal(MR,B,L)
-            SC=EE_cal(MR,C,L)
-            SAB=EE_cal(MR,AB,L)
-            SBC=EE_cal(MR,BC,L)
-            SCA=EE_cal(MR,CA,L)
-            SABC=EE_cal(MR,ABC,L)
-
-            TEE=SA+SB+SC-SAB-SBC-SCA+SABC
-
-            STx_csr,STz_csr=Renyi2_create(L,Lv,Lx,Ly)
-            STx_loop_csr,STz_loop_csr=Renyi2_loop_create(L,Lv,Lx,Ly)
-            #ST_dense = ST_list.toarray()
-            #print(ST_dense.shape)
-            #print(ST_dense)
-
-            rank_MR = rank_mod2_v3(MR) 
-            
-            ### x-loop ###
-            STx_loop_csr_T = STx_loop_csr.transpose()
-            STx_loop_dense_T = STx_loop_csr_T.toarray()
-            
-            rank_STx_loop=rank_mod2_v3(STx_loop_dense_T)      
-            
-            combined_x = np.vstack([MR, STx_loop_dense_T])
-            rank_combined_x = rank_mod2_v3(combined_x.copy())
-    
-            ### z-loop ###
-            STz_loop_csr_T = STz_loop_csr.transpose()
-            STz_loop_dense_T = STz_loop_csr_T.toarray()
-            
-            rank_STz_loop=rank_mod2_v3(STz_loop_dense_T)      
-            
-            combined_z = np.vstack([MR, STz_loop_dense_T])
-            rank_combined_z = rank_mod2_v3(combined_z.copy())
-      
-            dep_x=rank_combined_x-rank_MR
-            dep_z=rank_combined_z-rank_MR        
-                    
-            R2x=Renyi2_csr(MR,Gc_csr,STx_csr,Lx,Ly)
-            R2z=Renyi2_csr(MR,Gc_csr,STz_csr,Lx,Ly)
-            R2x_loop=Renyi2_csr(MR,Gc_csr,STx_loop_csr,Lx,Ly)
-            R2z_loop=Renyi2_csr(MR,Gc_csr,STz_loop_csr,Lx,Ly)
-
-            R2x_loop = R2x_loop*(Lx-1)
-            R2z_loop = R2z_loop*(Lx-1)
-            #print("pg=",pg,"ids=",ids,"TEN=",TEN,"Renyi2=",Renyi2_corr_csr)
-            TEN_list=np.append(TEN_list,TEN)
-            R2x_list=np.append(R2x_list,R2x)
-            R2z_list=np.append(R2z_list,R2z)
-            R2x_loop_list=np.append(R2x_loop_list,R2x_loop)
-            R2z_loop_list=np.append(R2z_loop_list,R2z_loop)
-            dep_x_list=np.append(dep_x_list,dep_x)
-            dep_z_list=np.append(dep_z_list,dep_z)
-            print(f"rank={rank:>3} Lx=Ly={Lx:>2} pg={p:>6.3f} ids={ids:>4} TEN={TEN:>2} R2x={R2x:>6.3f} R2z={R2z:>6.3f} R2x_loop={R2x_loop:>6.3f} R2z_loop={R2z_loop:>6.3f}  dep_x={dep_x:>6.3f} dep_z={dep_z:>6.3f}", flush=True)
-        
         if len(TEN_list) > 1:
             TEN_aved = np.mean(TEN_list)
             TEN_vard = np.var(TEN_list)
@@ -796,127 +727,148 @@ for (ip, ids) in my_tasks:
             R2z_loop_vard = np.nan
             R2z_loop_errord = np.nan 
                     
-    key1="Lx="+"{:}".format(Lx)+"_Ly="+"{:}".format(Ly)+"_p="+"{:.2f}".format(pg)
+        key = round(float(p), 6)
 
-    key = (Lx, round(pg, 3))
-    if key not in local_results:
-        local_results[key] = []
-    local_results[key].append( (TEN, R2x, R2z, R2x_loop, R2z_loop, dep_x, dep_z) )
+        if key not in local_results:
+            local_results[key] = []
+
+        local_results[key].append(
+            (TEN, R2x, R2z, R2x_loop, R2z_loop, dep_x, dep_z)
+        )
 
 # --- 4. MPI集約 ---
-
 all_results = comm.gather(local_results, root=0)
 
 if rank == 0:
     merged_results = {}
+
     for res in all_results:
-        for key, val_list in res.items():
-            if key not in merged_results:
-                merged_results[key] = []
-            merged_results[key].extend(val_list)
+        for p, val_list in res.items():
+            merged_results.setdefault(p, []).extend(val_list)
 
-    # Lxごとにまとめて結果計算・表示・保存
-    data_set = {}
-    for key in merged_results:
-        Lx, pg = key
-        vals = merged_results[key]  # [(TEN, R2x), (TEN, R2x), ...]
+    data_set = {
+        "p": [],
+        "TEN_ave": [],
+        "TEN_err": [],
+        "TEN_var": [],
+        "R2x_ave": [],
+        "R2x_err": [],
+        "R2x_var": [],
+        "R2z_ave": [],
+        "R2z_err": [],
+        "R2z_var": [],
+        "R2x_loop_ave": [],
+        "R2x_loop_err": [],
+        "R2x_loop_var": [],
+        "R2z_loop_ave": [],
+        "R2z_loop_err": [],
+        "R2z_loop_var": [],
+        "dep_x_ave": [],
+        "dep_x_err": [],
+        "dep_x_var": [],
+        "dep_z_ave": [],
+        "dep_z_err": [],
+        "dep_z_var": [],
+    }
 
-        TEN_vals = [v[0] for v in vals]
-        R2x_vals = [v[1] for v in vals]
-        R2z_vals = [v[2] for v in vals]
-        R2x_loop_vals = [v[3] for v in vals]
-        R2z_loop_vals = [v[4] for v in vals]
-        dep_x_vals = [v[5] for v in vals]
-        dep_z_vals = [v[6] for v in vals]
+    for p in sorted(merged_results):
+        vals = merged_results[p]
 
-        TEN_ave = np.mean(TEN_vals)
-        TEN_err = np.std(TEN_vals, ddof=1)/np.sqrt(len(TEN_vals)) if len(TEN_vals) > 1 else 0.0
-        TEN_var = np.var(TEN_vals)
+        TEN_vals = np.array([v[0] for v in vals])
+        R2x_vals = np.array([v[1] for v in vals])
+        R2z_vals = np.array([v[2] for v in vals])
+        R2x_loop_vals = np.array([v[3] for v in vals])
+        R2z_loop_vals = np.array([v[4] for v in vals])
+        dep_x_vals = np.array([v[5] for v in vals])
+        dep_z_vals = np.array([v[6] for v in vals])
 
-        R2x_ave = np.mean(R2x_vals)
-        R2x_err = np.std(R2x_vals, ddof=1)/np.sqrt(len(R2x_vals)) if len(R2x_vals) > 1 else 0.0
-        R2x_var = np.var(R2x_vals)
+        def ave_err_var(x):
+            ave = np.mean(x)
+            var = np.var(x)
+            err = np.std(x, ddof=1) / np.sqrt(len(x)) if len(x) > 1 else 0.0
+            return ave, err, var
 
-        R2z_ave = np.mean(R2z_vals)
-        R2z_err = np.std(R2z_vals, ddof=1)/np.sqrt(len(R2z_vals)) if len(R2z_vals) > 1 else 0.0
-        R2z_var = np.var(R2z_vals)
+        TEN_ave, TEN_err, TEN_var = ave_err_var(TEN_vals)
+        R2x_ave, R2x_err, R2x_var = ave_err_var(R2x_vals)
+        R2z_ave, R2z_err, R2z_var = ave_err_var(R2z_vals)
+        R2x_loop_ave, R2x_loop_err, R2x_loop_var = ave_err_var(R2x_loop_vals)
+        R2z_loop_ave, R2z_loop_err, R2z_loop_var = ave_err_var(R2z_loop_vals)
+        dep_x_ave, dep_x_err, dep_x_var = ave_err_var(dep_x_vals)
+        dep_z_ave, dep_z_err, dep_z_var = ave_err_var(dep_z_vals)
 
-        R2x_loop_ave = np.mean(R2x_loop_vals)
-        R2x_loop_err = np.std(R2x_loop_vals, ddof=1)/np.sqrt(len(R2x_loop_vals)) if len(R2x_loop_vals) > 1 else 0.0
-        R2x_loop_var = np.var(R2x_loop_vals)
+        print(
+            f"p={p:.3f} : "
+            f"TEN={TEN_ave:.4f}, "
+            f"x-string={R2x_ave:.4f}, "
+            f"z-string={R2z_ave:.4f}, "
+            f"x-loop={R2x_loop_ave:.4f}, "
+            f"z-loop={R2z_loop_ave:.4f}, "
+            f"dep_x={dep_x_ave:.4f}, "
+            f"dep_z={dep_z_ave:.4f}"
+        )
 
-        R2z_loop_ave = np.mean(R2z_loop_vals)
-        R2z_loop_err = np.std(R2z_loop_vals, ddof=1)/np.sqrt(len(R2z_loop_vals)) if len(R2z_loop_vals) > 1 else 0.0
-        R2z_loop_var = np.var(R2z_loop_vals)
+        data_set["p"].append(p)
+        data_set["TEN_ave"].append(TEN_ave)
+        data_set["TEN_err"].append(TEN_err)
+        data_set["TEN_var"].append(TEN_var)
 
-        dep_x_ave = np.mean(dep_x_vals)
-        dep_x_err = np.std(dep_x_vals, ddof=1)/np.sqrt(len(dep_x_vals)) if len(dep_x_vals) > 1 else 0.0
-        dep_x_var = np.var(dep_x_vals)
+        data_set["R2x_ave"].append(R2x_ave)
+        data_set["R2x_err"].append(R2x_err)
+        data_set["R2x_var"].append(R2x_var)
 
-        dep_z_ave = np.mean(dep_z_vals)
-        dep_z_err = np.std(dep_z_vals, ddof=1)/np.sqrt(len(dep_z_vals)) if len(dep_z_vals) > 1 else 0.0
-        dep_z_var = np.var(dep_z_vals)
+        data_set["R2z_ave"].append(R2z_ave)
+        data_set["R2z_err"].append(R2z_err)
+        data_set["R2z_var"].append(R2z_var)
 
-        #print(f"Lx={Lx}, pg={pg:.3f} : TEN={TEN_ave:.4f} ± {TEN_err:.4f}, var={TEN_var:.4f}")
-        #print(f"Lx={Lx}, pg={pg:.3f} : R2x={R2x_ave:.4f} ± {R2x_err:.4f}, var={R2x_var:.4f}")
-        #print(f"Lx={Lx}, pg={pg:.3f} : R2z={R2z_ave:.4f} ± {R2z_err:.4f}, var={R2z_var:.4f}")
-        #print(f"Lx={Lx}, pg={pg:.3f} : R2x_loop={R2x_loop_ave:.4f} ± {R2x_loop_err:.4f}, var={R2x_loop_var:.4f}")
-        #print(f"Lx={Lx}, pg={pg:.3f} : R2z_loop={R2z_loop_ave:.4f} ± {R2z_loop_err:.4f}, var={R2z_loop_var:.4f}")
-        print(f"Lx={Lx}, pg={pg:.3f} : TEN={TEN_ave:.4f}, x-string={R2x_ave:.4f}, z-string={R2z_ave:.4f}, x-loop={R2x_loop_ave:.4f}, z-loop={R2z_loop_ave:.4f}, dep_x={dep_x_ave:.4f}, dep_z={dep_z_ave:.4f}")
-        
-        # 保存
-        data_set.setdefault(Lx, {}).setdefault("pg", []).append(pg)
-        data_set[Lx].setdefault("TEN_ave", []).append(TEN_ave)
-        data_set[Lx].setdefault("TEN_err", []).append(TEN_err)
-        data_set[Lx].setdefault("TEN_var", []).append(TEN_var)
-        data_set[Lx].setdefault("R2x_ave", []).append(R2x_ave)
-        data_set[Lx].setdefault("R2x_err", []).append(R2x_err)
-        data_set[Lx].setdefault("R2x_var", []).append(R2x_var)
-        data_set[Lx].setdefault("R2z_ave", []).append(R2z_ave)
-        data_set[Lx].setdefault("R2z_err", []).append(R2z_err)
-        data_set[Lx].setdefault("R2z_var", []).append(R2z_var)
-        data_set[Lx].setdefault("R2x_loop_ave", []).append(R2x_loop_ave)
-        data_set[Lx].setdefault("R2x_loop_err", []).append(R2x_loop_err)
-        data_set[Lx].setdefault("R2x_loop_var", []).append(R2x_loop_var)
-        data_set[Lx].setdefault("R2z_loop_ave", []).append(R2z_loop_ave)
-        data_set[Lx].setdefault("R2z_loop_err", []).append(R2z_loop_err)
-        data_set[Lx].setdefault("R2z_loop_var", []).append(R2z_loop_var)
-        data_set[Lx].setdefault("dep_x_ave", []).append(dep_x_ave)
-        data_set[Lx].setdefault("dep_x_err", []).append(dep_x_err)
-        data_set[Lx].setdefault("dep_x_var", []).append(dep_x_var)
-        data_set[Lx].setdefault("dep_z_ave", []).append(dep_z_ave)
-        data_set[Lx].setdefault("dep_z_err", []).append(dep_z_err)
-        data_set[Lx].setdefault("dep_z_var", []).append(dep_z_var)
-        
-        
-    for Lx in data_set:
-        np.savez_compressed(f"results_px_{px}_Lx_{Lx}_Nd_{Nd}_NT_{NT}.npz",
-                            pg=data_set[Lx]["pg"],
-                            TEN_ave=data_set[Lx]["TEN_ave"],
-                            TEN_err=data_set[Lx]["TEN_err"],
-                            TEN_var=data_set[Lx]["TEN_var"],
-                            R2x_ave=data_set[Lx]["R2x_ave"],
-                            R2x_err=data_set[Lx]["R2x_err"],
-                            R2x_var=data_set[Lx]["R2x_var"],
-                            R2z_ave=data_set[Lx]["R2z_ave"],
-                            R2z_err=data_set[Lx]["R2z_err"],
-                            R2z_var=data_set[Lx]["R2z_var"],
-                            R2x_loop_ave=data_set[Lx]["R2x_loop_ave"],
-                            R2x_loop_err=data_set[Lx]["R2x_loop_err"],
-                            R2x_loop_var=data_set[Lx]["R2x_loop_var"],
-                            R2z_loop_ave=data_set[Lx]["R2z_loop_ave"],
-                            R2z_loop_err=data_set[Lx]["R2z_loop_err"],
-                            R2z_loop_var=data_set[Lx]["R2z_loop_var"],
-                            dep_x_ave=data_set[Lx]["dep_x_ave"],
-                            dep_x_err=data_set[Lx]["dep_x_err"],
-                            dep_x_var=data_set[Lx]["dep_x_var"],
-                            dep_z_ave=data_set[Lx]["dep_z_ave"],
-                            dep_z_err=data_set[Lx]["dep_z_err"],
-                            dep_z_var=data_set[Lx]["dep_z_var"])
+        data_set["R2x_loop_ave"].append(R2x_loop_ave)
+        data_set["R2x_loop_err"].append(R2x_loop_err)
+        data_set["R2x_loop_var"].append(R2x_loop_var)
+
+        data_set["R2z_loop_ave"].append(R2z_loop_ave)
+        data_set["R2z_loop_err"].append(R2z_loop_err)
+        data_set["R2z_loop_var"].append(R2z_loop_var)
+
+        data_set["dep_x_ave"].append(dep_x_ave)
+        data_set["dep_x_err"].append(dep_x_err)
+        data_set["dep_x_var"].append(dep_x_var)
+
+        data_set["dep_z_ave"].append(dep_z_ave)
+        data_set["dep_z_err"].append(dep_z_err)
+        data_set["dep_z_var"].append(dep_z_var)
+    
+    np.savez_compressed(
+    f"Lx_{Lx}_Nd_{Nd}_Np_{Np}_ps_{ps}_pl_{pl}.npz",
+    p=np.array(data_set["p"]),
+    TEN_ave=np.array(data_set["TEN_ave"]),
+    TEN_err=np.array(data_set["TEN_err"]),
+    TEN_var=np.array(data_set["TEN_var"]),
+    R2x_ave=np.array(data_set["R2x_ave"]),
+    R2x_err=np.array(data_set["R2x_err"]),
+    R2x_var=np.array(data_set["R2x_var"]),
+    R2z_ave=np.array(data_set["R2z_ave"]),
+    R2z_err=np.array(data_set["R2z_err"]),
+    R2z_var=np.array(data_set["R2z_var"]),
+    R2x_loop_ave=np.array(data_set["R2x_loop_ave"]),
+    R2x_loop_err=np.array(data_set["R2x_loop_err"]),
+    R2x_loop_var=np.array(data_set["R2x_loop_var"]),
+    R2z_loop_ave=np.array(data_set["R2z_loop_ave"]),
+    R2z_loop_err=np.array(data_set["R2z_loop_err"]),
+    R2z_loop_var=np.array(data_set["R2z_loop_var"]),
+    dep_x_ave=np.array(data_set["dep_x_ave"]),
+    dep_x_err=np.array(data_set["dep_x_err"]),
+    dep_x_var=np.array(data_set["dep_x_var"]),
+    dep_z_ave=np.array(data_set["dep_z_ave"]),
+    dep_z_err=np.array(data_set["dep_z_err"]),
+    dep_z_var=np.array(data_set["dep_z_var"]),
+)
     
     # 必要ならグラフ描画もここで可能
     time_end = time.time()
-    print("px=",px,"Np=",Np,"Nd=",Nd,"NT=",NT,"time=",int(time_end-time_start))
 
+    elapsed = int(time_end - time_start)
 
+    h = elapsed // 3600
+    m = (elapsed % 3600) // 60
+    s = elapsed % 60
 
+    print(f"time = {h:02d}:{m:02d}:{s:02d}")
